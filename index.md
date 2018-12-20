@@ -12,8 +12,10 @@ Email: chungongyu AT gmail dot com
 
 ## Research interests
 
-Bioinfomatics, Information Retrieval, Recommendation System
+Genome Assembler, MSMS, Bioinfomatics, Information Retrieval, Recommendation System
 
 ## Softwars
+
+[**SIGA**](http://github.com/chungongyu/siga): An open-source **S**ensitive and **I**ntelligent **G**enome **A**ssembler
 
 ## Publications
