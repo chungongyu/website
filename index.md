@@ -20,7 +20,7 @@ Genome Assembler, MSMS, Bioinfomatics, Information Retrieval, Recommendation Sys
 
 ## Publications
 
-* Lin, Y., Qiao, Y., Sun, S., Yu, C, Dong G., and Bu, D. ["A fragmentation event model for peptide identiï¬cation by mass spectrometry"](http://www.springerlink.com/content/wl38115k55105k35/),  Proc. 12th Int'l Conf. on Research in Comput. Molecular Biol. [RECOMB'08](http://www.comp.nus.edu.sg/~recomb08/), in [Lecture Notes in Computer Science 4955](http://www.springerlink.com/content/978-3-540-78838-6#section=223765&page=1), 154-166, Springer Verlag (2008).
+* Lin, Y., Qiao, Y., Sun, S., Yu, C, Dong G., and Bu, D. ["A fragmentation event model for peptide identification by mass spectrometry"](http://www.springerlink.com/content/wl38115k55105k35/),  Proc. 12th Int'l Conf. on Research in Comput. Molecular Biol. [RECOMB'08](http://www.comp.nus.edu.sg/~recomb08/), in [Lecture Notes in Computer Science 4955](http://www.springerlink.com/content/978-3-540-78838-6#section=223765&page=1), 154-166, Springer Verlag (2008).
 
 * Sun, S., Yu, C., Qiao, Y., Lin, Y., Dong, G., Liu, C., Zhang, J., Zhang, Z., Cai, J., Zhang, H., and Bu, D., ["Deriving the probabilities of water loss and ammonia loss for amino acids from tandem mass spectra"](http://pubs.acs.org/doi/abs/10.1021/pr070479v), [J. Proteome Res.](http://pubs.acs.org/journal/jprobs), 7(01): 202-208 (2008).
 
