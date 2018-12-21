@@ -8,7 +8,7 @@ Chinese Academy of Sciences
 
 6, Kexueyuan South Road, Zhongguancun, Beijing, 100190, China
 
-Email: chungongyu AT gmail dot com
+Email: chungongyu at gmail dot com
 
 ## Research interests
 
