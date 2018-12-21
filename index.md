@@ -12,7 +12,7 @@ Email: chungongyu AT gmail dot com
 
 ## Research interests
 
-Genome Assembler, MSMS, Bioinfomatics, Information Retrieval, Recommendation System
+Genome Assemblly, MSMS, Bioinfomatics, Information Retrieval, Recommendation System
 
 ## Softwares
 
