@@ -16,7 +16,7 @@ Genome Assembly, MSMS, Bioinfomatics, Information Retrieval, Recommendation Syst
 
 ## Softwares
 
-* [**SIGA**](http://github.com/chungongyu/siga): An open-source **S**ensitive and **I**ntelligent **G**enome **A**ssembler
+* [**SIGA**](http://github.com/chungongyu/siga): An open-source **S**ensitive and **I**ntelligent _de_ novo **G**enome **A**ssembler
 
 ## Publications
 
