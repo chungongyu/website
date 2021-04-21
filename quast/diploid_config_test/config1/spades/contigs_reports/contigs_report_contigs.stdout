@@ -1,0 +1,178 @@
+gnuplot 4.6 patchlevel 4
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [chr19_new1]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 599940
+Analyzing contigs...
+CONTIG: NODE_1_length_138575_cov_24.1166_ID_10929 (138575bp)
+Best alignment score: 138575.0 (LEN: 138575, IDY: 100.00), Total number of alignments: 12
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 523700 524001 | 35036 35337 | 302 302 | 96.36 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 198420 198682 | 261 1 | 263 261 | 98.1 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 198711 198973 | 261 1 | 263 261 | 98.1 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 198622 198876 | 254 1 | 255 254 | 99.22 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 198913 199166 | 254 2 | 254 253 | 98.43 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 199444 199697 | 254 2 | 254 253 | 97.64 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 199257 199504 | 248 1 | 248 248 | 98.39 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 200083 200329 | 248 2 | 247 247 | 97.57 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 199889 200136 | 248 1 | 248 248 | 96.77 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 199173 199407 | 234 1 | 235 234 | 96.17 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+			Skipping alignment 185524 185623 | 12963 13062 | 100 100 | 100.0 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+		One align captures most of this contig: 60011 198585 | 138575 1 | 138575 138575 | 100.0 | chr19_new1 NODE_1_length_138575_cov_24.1166_ID_10929
+
+CONTIG: NODE_2_length_133684_cov_22.8431_ID_10931 (133684bp)
+Best alignment score: 133684.0 (LEN: 133684, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 198912 332595 | 1 133684 | 133684 133684 | 100.0 | chr19_new1 NODE_2_length_133684_cov_22.8431_ID_10931
+
+CONTIG: NODE_3_length_107714_cov_28.6986_ID_10933 (107714bp)
+Best alignment score: 107714.0 (LEN: 107714, IDY: 100.00), Total number of alignments: 10
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 530165 540479 | 97438 107714 | 10315 10277 | 99.61 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 431700 433006 | 187 1485 | 1307 1299 | 96.64 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 540176 540669 | 107222 107714 | 494 493 | 97.78 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 432438 432807 | 1 366 | 370 366 | 98.11 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 163249 163550 | 91274 90973 | 302 302 | 96.36 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 523700 523998 | 73600 73301 | 299 300 | 95.33 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 506028 506327 | 91271 90973 | 300 299 | 95.33 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 431249 431440 | 188 375 | 192 188 | 95.83 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+			Skipping alignment 431249 431362 | 72 185 | 114 114 | 100.0 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+		One align captures most of this contig: 432728 540441 | 1 107714 | 107714 107714 | 100.0 | chr19_new1 NODE_3_length_107714_cov_28.6986_ID_10933
+
+CONTIG: NODE_4_length_93090_cov_28.4627_ID_10935 (93090bp)
+Best alignment score: 93090.0 (LEN: 93090, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 333756 426845 | 1 93090 | 93090 93090 | 100.0 | chr19_new1 NODE_4_length_93090_cov_28.4627_ID_10935
+
+CONTIG: NODE_5_length_59395_cov_26.7631_ID_10937 (59395bp)
+Best alignment score: 59395.0 (LEN: 59395, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 540126 540439 | 2 312 | 314 311 | 96.51 | chr19_new1 NODE_5_length_59395_cov_26.7631_ID_10937
+			Skipping alignment 540163 540477 | 1 312 | 315 312 | 96.2 | chr19_new1 NODE_5_length_59395_cov_26.7631_ID_10937
+		One align captures most of this contig: 540542 599936 | 1 59395 | 59395 59395 | 100.0 | chr19_new1 NODE_5_length_59395_cov_26.7631_ID_10937
+
+CONTIG: NODE_6_length_4518_cov_36.4953_ID_10939 (4518bp)
+Best alignment score: 4518.0 (LEN: 4518, IDY: 100.00), Total number of alignments: 7
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 432277 433106 | 818 1 | 830 818 | 96.99 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+			Skipping alignment 432335 433164 | 818 1 | 830 818 | 96.76 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+			Skipping alignment 432683 433508 | 818 1 | 826 818 | 96.39 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+			Skipping alignment 433143 433968 | 818 1 | 826 818 | 95.9 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+			Skipping alignment 433487 434212 | 818 101 | 726 718 | 95.34 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+			Skipping alignment 433712 434026 | 311 1 | 315 311 | 97.46 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+		One align captures most of this contig: 427549 432066 | 4518 1 | 4518 4518 | 100.0 | chr19_new1 NODE_6_length_4518_cov_36.4953_ID_10939
+
+CONTIG: NODE_7_length_957_cov_30.5349_ID_10941 (957bp)
+Best alignment score: 957.0 (LEN: 957, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 426509 426670 | 1 162 | 162 162 | 97.53 | chr19_new1 NODE_7_length_957_cov_30.5349_ID_10941
+			Skipping alignment 427668 427825 | 801 957 | 158 157 | 97.47 | chr19_new1 NODE_7_length_957_cov_30.5349_ID_10941
+		One align captures most of this contig: 426719 427675 | 1 957 | 957 957 | 100.0 | chr19_new1 NODE_7_length_957_cov_30.5349_ID_10941
+
+CONTIG: NODE_8_length_718_cov_48.4636_ID_10943 (718bp)
+Best alignment score: 718.0 (LEN: 718, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 332469 333186 | 1 718 | 718 718 | 100.0 | chr19_new1 NODE_8_length_718_cov_48.4636_ID_10943
+			Skipping alignment 333165 333882 | 1 718 | 718 718 | 100.0 | chr19_new1 NODE_8_length_718_cov_48.4636_ID_10943
+
+CONTIG: NODE_9_length_545_cov_145.529_ID_10945 (545bp)
+Best alignment score: 545.0 (LEN: 545, IDY: 100.00), Total number of alignments: 9
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 432264 432808 | 1 545 | 545 545 | 98.9 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 432496 433036 | 1 545 | 541 545 | 97.98 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 431804 432343 | 1 544 | 540 544 | 97.79 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 432844 433384 | 1 545 | 541 545 | 97.25 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 431249 431768 | 14 545 | 520 532 | 95.86 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 431572 431885 | 1 314 | 314 314 | 97.45 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 431518 431827 | 1 314 | 310 314 | 96.82 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+			Skipping alignment 431688 431926 | 1 243 | 239 243 | 96.71 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+		One align captures most of this contig: 432148 432692 | 1 545 | 545 545 | 100.0 | chr19_new1 NODE_9_length_545_cov_145.529_ID_10945
+
+Analyzing coverage...
+Writing SNPs into /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/spades/contigs_reports/nucmer_output/contigs.used_snps.gz
+	Reference chr19_new1: 9 total alignments. 1 total regions.
+		Region: 1 to 599940 (599940 bp)
+			START in gap: 1 to 60011 (60010 bp)
+			Align 1: 60011 198585 NODE_1_length_138575_cov_24.1166_ID_10929 138575 1
+				Gap between this and next alignment: 198585 to 198912 (326 bp)
+				Next Alignment: 198912 332595 NODE_2_length_133684_cov_22.8431_ID_10931 1 133684
+
+			Align 2: 198912 332595 NODE_2_length_133684_cov_22.8431_ID_10931 1 133684
+				Negative gap (overlap) between this and next alignment: 332595 to 332469 (-126 bp)
+				Next Alignment: 332469 333186 NODE_8_length_718_cov_48.4636_ID_10943 1 718
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 128.
+			Align 3: 332596 333186 NODE_8_length_718_cov_48.4636_ID_10943 128 718
+				Gap between this and next alignment: 333186 to 333756 (569 bp)
+				Next Alignment: 333756 426845 NODE_4_length_93090_cov_28.4627_ID_10935 1 93090
+
+			Align 4: 333756 426845 NODE_4_length_93090_cov_28.4627_ID_10935 1 93090
+				Negative gap (overlap) between this and next alignment: 426845 to 426719 (-126 bp)
+				Next Alignment: 426719 427675 NODE_7_length_957_cov_30.5349_ID_10941 1 957
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 128.
+			Align 5: 426846 427675 NODE_7_length_957_cov_30.5349_ID_10941 128 957
+				Negative gap (overlap) between this and next alignment: 427675 to 427549 (-126 bp)
+				Next Alignment: 427549 432066 NODE_6_length_4518_cov_36.4953_ID_10939 4518 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4518 to 4391.
+			Align 6: 427676 432066 NODE_6_length_4518_cov_36.4953_ID_10939 4391 1
+				Gap between this and next alignment: 432066 to 432148 (81 bp)
+				Next Alignment: 432148 432692 NODE_9_length_545_cov_145.529_ID_10945 1 545
+
+			Align 7: 432148 432692 NODE_9_length_545_cov_145.529_ID_10945 1 545
+				Gap between this and next alignment: 432692 to 432728 (35 bp)
+				Next Alignment: 432728 540441 NODE_3_length_107714_cov_28.6986_ID_10933 1 107714
+
+			Align 8: 432728 540441 NODE_3_length_107714_cov_28.6986_ID_10933 1 107714
+				Gap between this and next alignment: 540441 to 540542 (100 bp)
+				Next Alignment: 540542 599936 NODE_5_length_59395_cov_26.7631_ID_10937 1 59395
+
+			Align 9: 540542 599936 NODE_5_length_59395_cov_26.7631_ID_10937 1 59395
+			END in gap: 599936 to 599940 (4 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/spades/contigs_reports/nucmer_output/contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 718
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 538815
+
+	SNPs: 0
+	Insertions: 1
+	Deletions: 39
+
+	Positive Gaps: 7
+		Internal Gaps: 0
+		External Gaps: 7
+		External Gap Total: 61125
+		External Gap Average: 8732
+	Negative Gaps: 3
+		Internal Overlaps: 0
+		External Overlaps: 3
+		External Overlaps Total: -378
+		External Overlaps Average: -126
+	Contigs with Redundant Alignments: 0 (0)

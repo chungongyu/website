@@ -1,0 +1,49 @@
+Assembly	uniq-contigs-contigs-contigs-contigs
+# contigs (>= 0 bp)	7
+# contigs (>= 1000 bp)	3
+# contigs (>= 5000 bp)	3
+# contigs (>= 10000 bp)	3
+# contigs (>= 25000 bp)	3
+# contigs (>= 50000 bp)	3
+Total length (>= 0 bp)	543654
+Total length (>= 1000 bp)	540436
+Total length (>= 5000 bp)	540436
+Total length (>= 10000 bp)	540436
+Total length (>= 25000 bp)	540436
+Total length (>= 50000 bp)	540436
+# contigs	7
+Largest contig	257853
+Total length	543654
+Reference length	599940
+GC (%)	51.06
+Reference GC (%)	51.01
+N50	207406
+NG50	207406
+N75	207406
+NG75	207406
+L50	2
+LG50	2
+L75	2
+LG75	2
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	2
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	89.950
+Duplication ratio	1.007
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	5.37
+# indels per 100 kbp	1.85
+Largest alignment	257853
+Total aligned length	543654
+NA50	207406
+NGA50	207406
+NA75	207406
+NGA75	207406
+LA50	2
+LGA50	2
+LA75	2
+LGA75	2

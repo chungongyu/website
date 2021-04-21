@@ -1,0 +1,131 @@
+/home6/yuchungong/quast-4.6.3/quast.py -t 18 -m 400 -o siga -R /home6/yuchungong/LRTK-SIM/resource/hap1.fa uniq-contigs-contigs-contigs-contigs.fa
+
+Version: 4.6.3
+
+System information:
+  OS: Linux-3.13.0-147-generic-x86_64-with-Ubuntu-14.04-trusty (linux_64)
+  Python version: 2.7.6
+  CPUs number: 24
+
+Started: 2021-04-21 15:49:31
+
+Logging to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1
+Main parameters: 
+  Threads: 18, minimum contig length: 400, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home6/yuchungong/LRTK-SIM/resource/hap1.fa ==> hap1
+
+Contigs:
+  Pre-processing...
+  uniq-contigs-contigs-contigs-contigs.fa ==> uniq-contigs-contigs-contigs-contigs
+
+2021-04-21 15:49:32
+Running Basic statistics processor...
+  Reference genome:
+    hap1.fa, length = 599940, num fragments = 1, GC % = 51.01
+  Contig files: 
+    uniq-contigs-contigs-contigs-contigs
+  Calculating N50 and L50...
+    uniq-contigs-contigs-contigs-contigs, N50 = 207406, L50 = 2, Total length = 543654, GC % = 51.06, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/basic_stats/GC_content_plot.pdf
+  Drawing uniq-contigs-contigs-contigs-contigs GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/basic_stats/uniq-contigs-contigs-contigs-contigs_GC_content_plot.pdf
+Done.
+
+2021-04-21 15:49:33
+Running Contig analyzer...
+  uniq-contigs-contigs-contigs-contigs
+  Logging to files /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stdout and contigs_report_uniq-contigs-contigs-contigs-contigs.stderr...
+  Aligning contigs to the reference
+  /home6/yuchungong/quast-4.6.3/quast_libs/MUMmer/nucmer -c 65 -l 65 --maxmatch -p \
+  siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs --emem -t \
+  18 siga/quast_corrected_input/hap1.fa siga/quast_corrected_input/uniq-contigs-contigs-contigs-contigs.fa \
+  >> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stdout \
+  2>> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  /home6/yuchungong/quast-4.6.3/quast_libs/MUMmer/delta-filter -i 95.0 -l 0 siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.delta \
+  > siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.fdelta \
+  2> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  /home6/yuchungong/quast-4.6.3/quast_libs/MUMmer/mummerplot --html --layout -p siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs \
+  siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.delta > \
+  siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stdout \
+  2> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  /usr/bin/gnuplot siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.gp \
+  > /dev/null 2> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  MUMmer plot saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/uniq-contigs-contigs-contigs-contigs_mummerplot.html
+  /home6/yuchungong/quast-4.6.3/quast_libs/MUMmer/show-coords siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.delta \
+  > siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.coords_tmp \
+  2> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  /home6/yuchungong/quast-4.6.3/quast_libs/MUMmer/show-snps -S -T -H siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.delta \
+  < siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.coords.headless \
+  > siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.all_snps \
+  2> siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs.stderr
+  Analysis is finished.
+
+  Gzipping /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.all_snps to reduce disk space usage...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/nucmer_output/uniq-contigs-contigs-contigs-contigs.all_snps.gz
+  Creating total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2021-04-21 15:49:35
+Running NA-NGA calculation...
+  uniq-contigs-contigs-contigs-contigs, Largest alignment = 257853, NA50 = 207406, NGA50 = 207406, LA50 = 2, LGA50 = 2
+  Drawing cumulative plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/aligned_stats/NGAx_plot.pdf
+Done.
+
+2021-04-21 15:49:36
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  uniq-contigs-contigs-contigs-contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2021-04-21 15:49:36
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-04-21 15:49:37
+RESULTS:
+  Text versions of total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/report.html
+  PDF version (tables and plots) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/report.pdf
+  Icarus (contig browser) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/icarus.html
+  Log saved to /home6/yuchungong/siga/build/benchmark/diploid_config_test/config1/siga/quast.log
+
+Finished: 2021-04-21 15:49:37
+Elapsed time: 0:00:05.587429
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
