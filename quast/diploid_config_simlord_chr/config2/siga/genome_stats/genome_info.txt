@@ -1,0 +1,14 @@
+reference chromosomes:
+	chr19 (total length: 59128983 bp, total length without N's: 55808983 bp, maximal covered length: 55747862 bp)
+
+total genome size: 59128983
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+uniq_contigs_contigs_con | 99.890    | 1.003       | 0         | -         | -         | -         | -         |
