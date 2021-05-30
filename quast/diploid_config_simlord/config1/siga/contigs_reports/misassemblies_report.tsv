@@ -7,8 +7,8 @@ Assembly	uniq-contigs-contigs-contigs-contigs-contigs
 Misassembled contigs length	0
 # local misassemblies	1
 # unaligned mis. contigs	0
-# mismatches	42
-# indels	9
-    # indels (<= 5 bp)	5
-    # indels (> 5 bp)	4
-Indels length	192
+# mismatches	1
+# indels	5
+    # indels (<= 5 bp)	3
+    # indels (> 5 bp)	2
+Indels length	81

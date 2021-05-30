@@ -9,7 +9,7 @@ set ytics ( \
  "350000" 350000, \
  "420000" 420000, \
  "490000" 490000, \
- "" 554455 \
+ "" 540446 \
 )
 set size 1,1
 set grid
@@ -20,7 +20,7 @@ set xlabel "Reference" noenhanced
 set ylabel "Assembly" noenhanced
 set format "%.0f"
 set xrange [1:*]
-set yrange [1:554455]
+set yrange [1:540446]
 set linestyle 1  lt 1 lc rgb "red" lw 3 pt 7 ps 0.5
 set linestyle 2  lt 3 lc rgb "blue" lw 3 pt 7 ps 0.5
 set linestyle 3  lt 2 lc rgb "yellow" lw 3 pt 7 ps 0.5

@@ -5,10 +5,10 @@ Assembly	uniq-contigs-contigs-contigs-contigs-contigs
     # inversions	0
 # misassembled contigs	0
 Misassembled contigs length	0
-# local misassemblies	0
+# local misassemblies	1
 # unaligned mis. contigs	0
-# mismatches	0
-# indels	1
-    # indels (<= 5 bp)	1
-    # indels (> 5 bp)	0
-Indels length	1
+# mismatches	5
+# indels	7
+    # indels (<= 5 bp)	5
+    # indels (> 5 bp)	2
+Indels length	84

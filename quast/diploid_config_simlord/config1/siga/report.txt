@@ -1,32 +1,32 @@
 All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
 
 Assembly                     uniq-contigs-contigs-contigs-contigs-contigs
-# contigs (>= 0 bp)          32                                          
-# contigs (>= 1000 bp)       12                                          
-# contigs (>= 5000 bp)       9                                           
-# contigs (>= 10000 bp)      7                                           
-# contigs (>= 25000 bp)      6                                           
-# contigs (>= 50000 bp)      3                                           
-Total length (>= 0 bp)       554455                                      
-Total length (>= 1000 bp)    540244                                      
-Total length (>= 5000 bp)    529805                                      
-Total length (>= 10000 bp)   518917                                      
-Total length (>= 25000 bp)   506812                                      
-Total length (>= 50000 bp)   401427                                      
-# contigs                    32                                          
-Largest contig               218440                                      
-Total length                 554455                                      
+# contigs (>= 0 bp)          2                                           
+# contigs (>= 1000 bp)       2                                           
+# contigs (>= 5000 bp)       1                                           
+# contigs (>= 10000 bp)      1                                           
+# contigs (>= 25000 bp)      1                                           
+# contigs (>= 50000 bp)      1                                           
+Total length (>= 0 bp)       540446                                      
+Total length (>= 1000 bp)    540446                                      
+Total length (>= 5000 bp)    539226                                      
+Total length (>= 10000 bp)   539226                                      
+Total length (>= 25000 bp)   539226                                      
+Total length (>= 50000 bp)   539226                                      
+# contigs                    2                                           
+Largest contig               539226                                      
+Total length                 540446                                      
 Reference length             599940                                      
-GC (%)                       51.24                                       
+GC (%)                       51.02                                       
 Reference GC (%)             51.01                                       
-N50                          131288                                      
-NG50                         131288                                      
-N75                          43763                                       
-NG75                         31090                                       
-L50                          2                                           
-LG50                         2                                           
-L75                          4                                           
-LG75                         5                                           
+N50                          539226                                      
+NG50                         539226                                      
+N75                          539226                                      
+NG75                         539226                                      
+L50                          1                                           
+LG50                         1                                           
+L75                          1                                           
+LG75                         1                                           
 # misassemblies              0                                           
 # misassembled contigs       0                                           
 Misassembled contigs length  0                                           
@@ -35,17 +35,17 @@ Misassembled contigs length  0
 # unaligned contigs          0 + 0 part                                  
 Unaligned length             0                                           
 Genome fraction (%)          89.958                                      
-Duplication ratio            1.027                                       
+Duplication ratio            1.001                                       
 # N's per 100 kbp            0.00                                        
-# mismatches per 100 kbp     7.78                                        
-# indels per 100 kbp         1.67                                        
-Largest alignment            218440                                      
-Total aligned length         554455                                      
-NA50                         131288                                      
-NGA50                        131288                                      
-NA75                         43763                                       
-NGA75                        31090                                       
-LA50                         2                                           
-LGA50                        2                                           
-LA75                         4                                           
-LGA75                        5                                           
+# mismatches per 100 kbp     0.19                                        
+# indels per 100 kbp         0.93                                        
+Largest alignment            539226                                      
+Total aligned length         540446                                      
+NA50                         539226                                      
+NGA50                        539226                                      
+NA75                         539226                                      
+NGA75                        539226                                      
+LA50                         1                                           
+LGA50                        1                                           
+LA75                         1                                           
+LGA75                        1                                           
