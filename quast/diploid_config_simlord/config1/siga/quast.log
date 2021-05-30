@@ -7,7 +7,7 @@ System information:
   Python version: 2.7.6
   CPUs number: 24
 
-Started: 2021-05-30 16:47:17
+Started: 2021-05-30 17:01:24
 
 Logging to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/quast.log
 
@@ -22,7 +22,7 @@ Contigs:
   Pre-processing...
   uniq-contigs-contigs-contigs-contigs-contigs.fa ==> uniq-contigs-contigs-contigs-contigs-contigs
 
-2021-05-30 16:47:18
+2021-05-30 17:01:25
 Running Basic statistics processor...
   Reference genome:
     hap1.fa, length = 599940, num fragments = 1, GC % = 51.01
@@ -42,7 +42,7 @@ Running Basic statistics processor...
     saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/basic_stats/uniq-contigs-contigs-contigs-contigs-contigs_GC_content_plot.pdf
 Done.
 
-2021-05-30 16:47:20
+2021-05-30 17:01:26
 Running Contig analyzer...
   uniq-contigs-contigs-contigs-contigs-contigs
   Logging to files /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/contigs_reports/contigs_report_uniq-contigs-contigs-contigs-contigs-contigs.stdout and contigs_report_uniq-contigs-contigs-contigs-contigs-contigs.stderr...
@@ -85,7 +85,7 @@ Running Contig analyzer...
     saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/contigs_reports/misassemblies_frcurve_plot.pdf
 Done.
 
-2021-05-30 16:47:22
+2021-05-30 17:01:29
 Running NA-NGA calculation...
   uniq-contigs-contigs-contigs-contigs-contigs, Largest alignment = 218440, NA50 = 131288, NGA50 = 131288, LA50 = 2, LGA50 = 2
   Drawing cumulative plot...
@@ -96,7 +96,7 @@ Running NA-NGA calculation...
     saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/aligned_stats/NGAx_plot.pdf
 Done.
 
-2021-05-30 16:47:22
+2021-05-30 17:01:30
 Running Genome analyzer...
   NOTICE: No file with genes provided. Use the -G option if you want to specify it.
   NOTICE: No file with operons provided. Use the -O option if you want to specify it.
@@ -107,14 +107,14 @@ Done.
 
 NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
 
-2021-05-30 16:47:23
+2021-05-30 17:01:30
 Creating large visual summaries...
 This may take a while: press Ctrl-C to skip this step..
   1 of 2: Creating Icarus viewers...
   2 of 2: Creating PDF with all tables and plots...
 Done
 
-2021-05-30 16:47:24
+2021-05-30 17:01:32
 RESULTS:
   Text versions of total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/report.txt, report.tsv, and report.tex
   Text versions of transposed total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
@@ -123,8 +123,8 @@ RESULTS:
   Icarus (contig browser) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/icarus.html
   Log saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord/config1/siga/quast.log
 
-Finished: 2021-05-30 16:47:24
-Elapsed time: 0:00:06.589328
+Finished: 2021-05-30 17:01:32
+Elapsed time: 0:00:07.945921
 NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
 
 Thank you for using QUAST!
