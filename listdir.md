@@ -1,5 +1,3 @@
 ## List files
 
-{% for page in site.pages %}
-  [{{ page.title }}]({{ page.url }})
-{% endfor %}
+{% list_files files sklearn/* %}

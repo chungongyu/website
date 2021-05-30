@@ -3,4 +3,4 @@ all: html-env
 html-env:
 	bundle install --path=vendor/bundle
 clean:
-	rm -rf _site
+	bundle exec jekyll clean
