@@ -1,0 +1,23 @@
+Assembly	hifiasm
+# misassemblies	89
+  # contig misassemblies	89
+    # c. relocations	41
+    # c. translocations	45
+    # c. inversions	3
+  # scaffold misassemblies	0
+    # s. relocations	0
+    # s. translocations	0
+    # s. inversions	0
+# misassembled contigs	48
+Misassembled contigs length	403324857
+# local misassemblies	15
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# misassemblies caused by fragmented reference	0
+# possible TEs	0
+# unaligned mis. contigs	0
+# mismatches	3435
+# indels	4619
+    # indels (<= 5 bp)	4395
+    # indels (> 5 bp)	224
+Indels length	13692

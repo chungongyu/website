@@ -1,0 +1,54 @@
+All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     F.ananassa
+# contigs (>= 0 bp)          204       
+# contigs (>= 1000 bp)       204       
+# contigs (>= 5000 bp)       204       
+# contigs (>= 10000 bp)      204       
+# contigs (>= 25000 bp)      141       
+# contigs (>= 50000 bp)      78        
+Total length (>= 0 bp)       179612922 
+Total length (>= 1000 bp)    179612922 
+Total length (>= 5000 bp)    179612922 
+Total length (>= 10000 bp)   179612922 
+Total length (>= 25000 bp)   178195820 
+Total length (>= 50000 bp)   176091115 
+# contigs                    343       
+Largest contig               21808849  
+Total length                 805664111 
+Reference length             805679811 
+GC (%)                       39.35     
+Reference GC (%)             39.35     
+N50                          8111534   
+NG50                         8111534   
+N75                          4811970   
+NG75                         4811970   
+L50                          34        
+LG50                         34        
+L75                          65        
+LG75                         65        
+# misassemblies              0         
+# misassembled contigs       0         
+Misassembled contigs length  0         
+# local misassemblies        2         
+# scaffold gap ext. mis.     0         
+# scaffold gap loc. mis.     0         
+# possible TEs               2         
+# unaligned mis. contigs     2         
+# unaligned contigs          0 + 4 part
+Unaligned length             56856     
+Genome fraction (%)          99.993    
+Duplication ratio            1.000     
+# N's per 100 kbp            0.00      
+# mismatches per 100 kbp     0.04      
+# indels per 100 kbp         0.01      
+Largest alignment            21808849  
+Total aligned length         805606498 
+NA50                         8111534   
+NGA50                        8111534   
+NA75                         4811970   
+NGA75                        4811970   
+LA50                         34        
+LGA50                        34        
+LA75                         65        
+LGA75                        65        

@@ -1,0 +1,54 @@
+All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     hifiasm   
+# contigs (>= 0 bp)          117       
+# contigs (>= 1000 bp)       117       
+# contigs (>= 5000 bp)       117       
+# contigs (>= 10000 bp)      116       
+# contigs (>= 25000 bp)      100       
+# contigs (>= 50000 bp)      92        
+Total length (>= 0 bp)       651675261 
+Total length (>= 1000 bp)    651675261 
+Total length (>= 5000 bp)    651675261 
+Total length (>= 10000 bp)   651665366 
+Total length (>= 25000 bp)   651359242 
+Total length (>= 50000 bp)   651103155 
+# contigs                    117       
+Largest contig               27465937  
+Total length                 651675261 
+Reference length             805679811 
+GC (%)                       39.31     
+Reference GC (%)             39.35     
+N50                          12193055  
+NG50                         9875820   
+N75                          7965839   
+NG75                         3899085   
+L50                          20        
+LG50                         27        
+L75                          37        
+LG75                         57        
+# misassemblies              89        
+# misassembled contigs       48        
+Misassembled contigs length  403324857 
+# local misassemblies        15        
+# scaffold gap ext. mis.     0         
+# scaffold gap loc. mis.     0         
+# possible TEs               0         
+# unaligned mis. contigs     0         
+# unaligned contigs          0 + 5 part
+Unaligned length             27104     
+Genome fraction (%)          80.834    
+Duplication ratio            1.001     
+# N's per 100 kbp            0.00      
+# mismatches per 100 kbp     0.53      
+# indels per 100 kbp         0.71      
+Largest alignment            23706520  
+Total aligned length         650896774 
+NA50                         7552424   
+NGA50                        6705729   
+NA75                         4495570   
+NGA75                        1902368   
+LA50                         29        
+LGA50                        40        
+LA75                         55        
+LGA75                        92        
