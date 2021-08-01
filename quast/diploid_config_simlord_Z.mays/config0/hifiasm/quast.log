@@ -1,0 +1,112 @@
+/public/dbu/yuchungong/quast-5.0.2/quast.py --large --fragmented -t 18 -m 400 -o hifiasm -r /public/dbu/yuchungong/LRTK-SIM/resource/Z.mays.fa hifiasm.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-693.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.5
+  CPUs number: 192
+
+Started: 2021-08-01 11:49:40
+
+Logging to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/quast.log
+
+CWD: /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0
+Main parameters: 
+  MODE: large, threads: 18, eukaryotic: true, minimum contig length: 400, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Reference:
+  /public/dbu/yuchungong/LRTK-SIM/resource/Z.mays.fa ==> Z.mays
+
+Contigs:
+  Pre-processing...
+  hifiasm.fa ==> hifiasm
+
+2021-08-01 11:52:15
+Running Basic statistics processor...
+  Reference genome:
+    Z.mays.fa, length = 2182786008, num fragments = 687, GC % = 46.77
+  Contig files: 
+    hifiasm
+  Calculating N50 and L50...
+    hifiasm, N50 = 63673969, L50 = 12, Total length = 2143853045, GC % = 46.79, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/basic_stats/GC_content_plot.pdf
+  Drawing hifiasm GC content plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/basic_stats/hifiasm_GC_content_plot.pdf
+Done.
+
+2021-08-01 11:56:50
+Running Contig analyzer...
+  hifiasm
+  Logging to files /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/contigs_report_hifiasm.stdout and contigs_report_hifiasm.stderr...
+  Aligning contigs to the reference
+  /public/dbu/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+  0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 18 hifiasm/quast_corrected_input/Z.mays.fa \
+  hifiasm/quast_corrected_input/hifiasm.fa > hifiasm/contigs_reports/minimap_output/hifiasm.coords_tmp \
+  2>> hifiasm/contigs_reports/contigs_report_hifiasm.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2021-08-01 13:32:50
+Running NA-NGA calculation...
+  hifiasm, Largest alignment = 128858610, NA50 = 56635102, NGA50 = 56635102, LA50 = 14, LGA50 = 14
+  Drawing cumulative plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/aligned_stats/NGAx_plot.pdf
+Done.
+
+2021-08-01 13:33:56
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  hifiasm
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-08-01 13:39:17
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-08-01 13:39:48
+RESULTS:
+  Text versions of total report are saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/report.html
+  PDF version (tables and plots) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/report.pdf
+  Icarus (contig browser) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/icarus.html
+  Log is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/hifiasm/quast.log
+
+Finished: 2021-08-01 13:39:48
+Elapsed time: 1:50:08.206994
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

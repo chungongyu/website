@@ -1,0 +1,23 @@
+Assembly	uniq_contigs
+# misassemblies	14
+  # contig misassemblies	14
+    # c. relocations	3
+    # c. translocations	11
+    # c. inversions	0
+  # scaffold misassemblies	0
+    # s. relocations	0
+    # s. translocations	0
+    # s. inversions	0
+# misassembled contigs	12
+Misassembled contigs length	10021801
+# local misassemblies	26
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# misassemblies caused by fragmented reference	0
+# possible TEs	0
+# unaligned mis. contigs	0
+# mismatches	1377
+# indels	1551
+    # indels (<= 5 bp)	1530
+    # indels (> 5 bp)	21
+Indels length	9017

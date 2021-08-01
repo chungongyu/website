@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                                        hifiasm  
+# misassemblies                                 157      
+  # contig misassemblies                        157      
+    # c. relocations                            36       
+    # c. translocations                         121      
+    # c. inversions                             0        
+  # scaffold misassemblies                      0        
+    # s. relocations                            0        
+    # s. translocations                         0        
+    # s. inversions                             0        
+# misassembled contigs                          93       
+Misassembled contigs length                     905390237
+# local misassemblies                           78       
+# scaffold gap ext. mis.                        0        
+# scaffold gap loc. mis.                        0        
+# misassemblies caused by fragmented reference  0        
+# possible TEs                                  0        
+# unaligned mis. contigs                        0        
+# mismatches                                    12558    
+# indels                                        7205     
+    # indels (<= 5 bp)                          6902     
+    # indels (> 5 bp)                           303      
+Indels length                                   1044739  

@@ -1,0 +1,52 @@
+Assembly	hifiasm
+# contigs (>= 0 bp)	302
+# contigs (>= 1000 bp)	302
+# contigs (>= 5000 bp)	301
+# contigs (>= 10000 bp)	298
+# contigs (>= 25000 bp)	258
+# contigs (>= 50000 bp)	215
+Total length (>= 0 bp)	2143853045
+Total length (>= 1000 bp)	2143853045
+Total length (>= 5000 bp)	2143848428
+Total length (>= 10000 bp)	2143827229
+Total length (>= 25000 bp)	2143071830
+Total length (>= 50000 bp)	2141533709
+# contigs	302
+Largest contig	160459971
+Total length	2143853045
+Reference length	2182786008
+GC (%)	46.79
+Reference GC (%)	46.77
+N50	63673969
+NG50	63673969
+N75	32553861
+NG75	30949767
+L50	12
+LG50	12
+L75	23
+LG75	24
+# misassemblies	157
+# misassembled contigs	93
+Misassembled contigs length	905390237
+# local misassemblies	78
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# possible TEs	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 38 part
+Unaligned length	1235063
+Genome fraction (%)	98.285
+Duplication ratio	1.000
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.59
+# indels per 100 kbp	0.34
+Largest alignment	128858610
+Total aligned length	2141466821
+NA50	56635102
+NGA50	56635102
+NA75	24244347
+NGA75	24008378
+LA50	14
+LGA50	14
+LA75	28
+LGA75	29

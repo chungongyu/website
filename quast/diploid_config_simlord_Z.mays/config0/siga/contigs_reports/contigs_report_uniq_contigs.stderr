@@ -1,0 +1,14 @@
+[M::mm_idx_gen::42.096*1.48] collected minimizers
+[M::mm_idx_gen::45.138*2.18] sorted minimizers
+[M::main::45.138*2.18] loaded/built the index for 687 target sequence(s)
+[M::mm_mapopt_update::48.275*2.11] mid_occ = 1311
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 687
+[M::mm_idx_stat::49.823*2.07] distinct minimizers: 59568311 (79.38% are singletons); average occurrences: 3.670; average spacing: 9.984
+[M::worker_pipeline::10342.402*2.42] mapped 90 sequences
+[M::worker_pipeline::13943.388*2.96] mapped 247 sequences
+[M::worker_pipeline::19071.668*2.94] mapped 327 sequences
+[M::worker_pipeline::24721.443*3.12] mapped 257 sequences
+[M::worker_pipeline::25271.334*3.09] mapped 70 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /public/dbu/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 18 /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/siga/quast_corrected_input/Z.mays.fa /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_Z.mays/config0/siga/quast_corrected_input/uniq_contigs.fa
+[M::main] Real time: 25271.840 sec; CPU: 78121.691 sec
