@@ -1,0 +1,23 @@
+Assembly	ref	siga	hifiasm
+# misassemblies	0	10	104
+  # contig misassemblies	0	10	104
+    # c. relocations	0	9	103
+    # c. translocations	0	1	1
+    # c. inversions	0	0	0
+  # scaffold misassemblies	0	0	0
+    # s. relocations	0	0	0
+    # s. translocations	0	0	0
+    # s. inversions	0	0	0
+# misassembled contigs	0	9	28
+Misassembled contigs length	0	26612572	659793886
+# local misassemblies	0	9	180
+# scaffold gap ext. mis.	0	0	0
+# scaffold gap loc. mis.	0	0	0
+# misassemblies caused by fragmented reference	0	0	0
+# possible TEs	0	2	2
+# unaligned mis. contigs	0	0	0
+# mismatches	0	3304	96870
+# indels	0	967	8418
+    # indels (<= 5 bp)	0	760	6294
+    # indels (> 5 bp)	0	207	2124
+Indels length	0	110968	979527

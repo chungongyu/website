@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       ref  siga    hifiasm
+# fully unaligned contigs      0    2       0      
+Fully unaligned length         0    800     0      
+# partially unaligned contigs  0    6       20     
+Partially unaligned length     0    472837  2757781
+# N's                          0    0       0      
