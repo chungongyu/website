@@ -1,0 +1,1846 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [PGRM01000044.1]
+	Loaded [PGRM01000095.1]
+	Loaded [PGRM01000082.1]
+	Loaded [PGRM01000069.1]
+	Loaded [PGRM01000093.1]
+	Loaded [PGRM01000081.1]
+	Loaded [PGRM01000084.1]
+	Loaded [PGRM01000083.1]
+	Loaded [PGRM01000089.1]
+	Loaded [PGRM01000086.1]
+	Loaded [PGRM01000048.1]
+	Loaded [PGRM01000056.1]
+	Loaded [PGRM01000079.1]
+	Loaded [PGRM01000091.1]
+	Loaded [PGRM01000054.1]
+	Loaded [CM010542.1]
+	Loaded [PGRM01000041.1]
+	Loaded [PGRM01000036.1]
+	Loaded [PGRM01000043.1]
+	Loaded [PGRM01000068.1]
+	Loaded [PGRM01000080.1]
+	Loaded [PGRM01000030.1]
+	Loaded [PGRM01000088.1]
+	Loaded [PGRM01000032.1]
+	Loaded [CM010544.1]
+	Loaded [PGRM01000025.1]
+	Loaded [PGRM01000057.1]
+	Loaded [CM010546.1]
+	Loaded [PGRM01000074.1]
+	Loaded [PGRM01000055.1]
+	Loaded [CM010543.1]
+	Loaded [PGRM01000076.1]
+	Loaded [PGRM01000007.1]
+	Loaded [PGRM01000023.1]
+	Loaded [PGRM01000034.1]
+	Loaded [PGRM01000070.1]
+	Loaded [PGRM01000009.1]
+	Loaded [PGRM01000021.1]
+	Loaded [PGRM01000008.1]
+	Loaded [PGRM01000010.1]
+	Loaded [PGRM01000040.1]
+	Loaded [PGRM01000038.1]
+	Loaded [PGRM01000037.1]
+	Loaded [PGRM01000067.1]
+	Loaded [PGRM01000042.1]
+	Loaded [PGRM01000018.1]
+	Loaded [PGRM01000065.1]
+	Loaded [PGRM01000072.1]
+	Loaded [PGRM01000016.1]
+	Loaded [PGRM01000031.1]
+	Loaded [PGRM01000027.1]
+	Loaded [PGRM01000051.1]
+	Loaded [PGRM01000063.1]
+	Loaded [PGRM01000014.1]
+	Loaded [PGRM01000024.1]
+	Loaded [CM010545.1]
+	Loaded [PGRM01000050.1]
+	Loaded [PGRM01000029.1]
+	Loaded [PGRM01000075.1]
+	Loaded [CM010547.1]
+	Loaded [PGRM01000033.1]
+	Loaded [PGRM01000058.1]
+	Loaded [CM010541.1]
+	Loaded [PGRM01000077.1]
+	Loaded [PGRM01000061.1]
+	Loaded [PGRM01000022.1]
+	Loaded [PGRM01000012.1]
+	Loaded [PGRM01000046.1]
+	Loaded [PGRM01000035.1]
+	Loaded [PGRM01000071.1]
+	Loaded [PGRM01000011.1]
+	Loaded [PGRM01000094.1]
+	Loaded [PGRM01000039.1]
+	Loaded [PGRM01000047.1]
+	Loaded [PGRM01000066.1]
+	Loaded [PGRM01000092.1]
+	Loaded [PGRM01000019.1]
+	Loaded [PGRM01000085.1]
+	Loaded [PGRM01000020.1]
+	Loaded [PGRM01000064.1]
+	Loaded [PGRM01000073.1]
+	Loaded [PGRM01000017.1]
+	Loaded [PGRM01000087.1]
+	Loaded [PGRM01000026.1]
+	Loaded [PGRM01000049.1]
+	Loaded [PGRM01000062.1]
+	Loaded [PGRM01000052.1]
+	Loaded [PGRM01000053.1]
+	Loaded [PGRM01000078.1]
+	Loaded [PGRM01000090.1]
+	Loaded [PGRM01000028.1]
+	Loaded [PGRM01000015.1]
+	Loaded [PGRM01000059.1]
+	Loaded [PGRM01000060.1]
+	Loaded [PGRM01000013.1]
+	Loaded [PGRM01000045.1]
+	Total Regions: 96
+	Total Region Length: 140687039
+Analyzing contigs...
+CONTIG: m421637_4452_CCS (946479bp)
+Best alignment score: 946479.0 (LEN: 946479, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21604921 22551399 | 1 946479 | 946479 946479 | 100.0 | CM010542.1 m421637_4452_CCS
+
+CONTIG: m239884_14870_CCS (14870bp)
+Best alignment score: 14870.0 (LEN: 14870, IDY: 100.00), Total number of alignments: 48
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 48043 62675 | 14870 1 | 14633 14870 | 98.33 | PGRM01000022.1 m239884_14870_CCS
+			Skipping alignment 36395 51026 | 14870 1 | 14632 14870 | 98.32 | PGRM01000022.1 m239884_14870_CCS
+			Skipping alignment 8536 22928 | 1 14870 | 14393 14870 | 96.69 | PGRM01000045.1 m239884_14870_CCS
+			Skipping alignment 53301 67669 | 14870 502 | 14369 14369 | 99.94 | PGRM01000020.1 m239884_14870_CCS
+			Skipping alignment 10062 24216 | 1 14870 | 14155 14870 | 95.11 | PGRM01000025.1 m239884_14870_CCS
+			Skipping alignment 7943 22097 | 14870 1 | 14155 14870 | 95.11 | PGRM01000088.1 m239884_14870_CCS
+			Skipping alignment 21853 33389 | 1 11536 | 11537 11536 | 99.9 | PGRM01000034.1 m239884_14870_CCS
+			Skipping alignment 27844 39378 | 11536 1 | 11535 11536 | 99.79 | PGRM01000022.1 m239884_14870_CCS
+			Skipping alignment 26533 37584 | 11052 1 | 11052 11052 | 99.73 | PGRM01000028.1 m239884_14870_CCS
+			Skipping alignment 52988 63566 | 11125 547 | 10579 10579 | 100.0 | PGRM01000088.1 m239884_14870_CCS
+			Skipping alignment 29303 38732 | 543 9972 | 9430 9430 | 100.0 | PGRM01000024.1 m239884_14870_CCS
+			Skipping alignment 58191 66471 | 6590 14870 | 8281 8281 | 99.98 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 31058 39334 | 6594 14870 | 8277 8277 | 100.0 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 2842 10388 | 543 8089 | 7547 7547 | 100.0 | PGRM01000031.1 m239884_14870_CCS
+			Skipping alignment 17127 23785 | 6655 1 | 6659 6655 | 99.86 | PGRM01000036.1 m239884_14870_CCS
+			Skipping alignment 24999 31646 | 6644 1 | 6648 6644 | 99.88 | PGRM01000029.1 m239884_14870_CCS
+			Skipping alignment 24323 30955 | 6629 1 | 6633 6629 | 99.88 | PGRM01000015.1 m239884_14870_CCS
+			Skipping alignment 20461 27093 | 6629 1 | 6633 6629 | 99.88 | PGRM01000041.1 m239884_14870_CCS
+			Skipping alignment 16641 23273 | 6629 1 | 6633 6629 | 99.88 | PGRM01000022.1 m239884_14870_CCS
+			Skipping alignment 11209 17840 | 1 6628 | 6632 6628 | 99.88 | PGRM01000032.1 m239884_14870_CCS
+			Skipping alignment 30656 37287 | 1 6628 | 6632 6628 | 99.88 | PGRM01000039.1 m239884_14870_CCS
+			Skipping alignment 11992 18623 | 1 6628 | 6632 6628 | 99.88 | PGRM01000027.1 m239884_14870_CCS
+			Skipping alignment 14807 21438 | 1 6628 | 6632 6628 | 99.88 | PGRM01000031.1 m239884_14870_CCS
+			Skipping alignment 22200 28831 | 1 6628 | 6632 6628 | 99.88 | PGRM01000016.1 m239884_14870_CCS
+			Skipping alignment 56212 62843 | 1 6628 | 6632 6628 | 99.88 | PGRM01000032.1 m239884_14870_CCS
+			Skipping alignment 17247 23840 | 8277 14870 | 6594 6594 | 99.98 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 6899 13485 | 1 6583 | 6587 6583 | 99.88 | PGRM01000021.1 m239884_14870_CCS
+			Skipping alignment 14584 21002 | 1 6415 | 6419 6415 | 99.88 | PGRM01000017.1 m239884_14870_CCS
+			Skipping alignment 1 6264 | 366 6628 | 6264 6263 | 99.95 | PGRM01000016.1 m239884_14870_CCS
+			Skipping alignment 21402 27452 | 543 6593 | 6051 6051 | 100.0 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 5740 11790 | 543 6593 | 6051 6051 | 100.0 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 48785 54831 | 543 6589 | 6047 6047 | 100.0 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 49689 55735 | 6593 547 | 6047 6047 | 100.0 | PGRM01000020.1 m239884_14870_CCS
+			Skipping alignment 12414 17791 | 9493 14870 | 5378 5378 | 100.0 | PGRM01000031.1 m239884_14870_CCS
+			Skipping alignment 31820 37166 | 9524 14870 | 5347 5347 | 99.98 | PGRM01000049.1 m239884_14870_CCS
+			Skipping alignment 39930 44827 | 9973 14870 | 4898 4898 | 100.0 | PGRM01000024.1 m239884_14870_CCS
+			Skipping alignment 42022 46553 | 11125 6594 | 4532 4532 | 100.0 | PGRM01000020.1 m239884_14870_CCS
+			Skipping alignment 46571 50315 | 14870 11126 | 3745 3745 | 100.0 | PGRM01000088.1 m239884_14870_CCS
+			Skipping alignment 29188 31819 | 6652 9283 | 2632 2632 | 99.96 | PGRM01000049.1 m239884_14870_CCS
+			Skipping alignment 15389 17071 | 6594 8276 | 1683 1683 | 100.0 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 10389 11699 | 8182 9492 | 1311 1311 | 100.0 | PGRM01000031.1 m239884_14870_CCS
+			Skipping alignment 28119 28957 | 5813 6651 | 839 839 | 100.0 | PGRM01000049.1 m239884_14870_CCS
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 107 14976 | 1 14870 | 14870 14870 | 100.0 | PGRM01000027.1 m239884_14870_CCS
+			Skipping alignment 7177 22050 | 14870 1 | 14874 14870 | 99.95 | PGRM01000020.1 m239884_14870_CCS
+			Skipping alignment 980 15853 | 14870 1 | 14874 14870 | 99.95 | PGRM01000029.1 m239884_14870_CCS
+			Skipping alignment 19113 33986 | 14870 1 | 14874 14870 | 99.95 | PGRM01000088.1 m239884_14870_CCS
+			Skipping alignment 36350 51223 | 1 14870 | 14874 14870 | 99.95 | PGRM01000018.1 m239884_14870_CCS
+			Skipping alignment 59691 74564 | 14870 1 | 14874 14870 | 99.95 | PGRM01000022.1 m239884_14870_CCS
+
+CONTIG: m307228_6709_CCS (13998bp)
+Best alignment score: 13998.0 (LEN: 13998, IDY: 100.00), Total number of alignments: 26
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 16411 29926 | 13998 1 | 13516 13998 | 96.47 | PGRM01000045.1 m307228_6709_CCS
+			Skipping alignment 170 13693 | 13479 1 | 13524 13479 | 99.47 | PGRM01000039.1 m307228_6709_CCS
+			Skipping alignment 20972 34206 | 1 13235 | 13235 13235 | 99.95 | PGRM01000015.1 m307228_6709_CCS
+			Skipping alignment 17110 30767 | 1 13427 | 13658 13427 | 98.1 | PGRM01000041.1 m307228_6709_CCS
+			Skipping alignment 26318 40639 | 13740 1 | 14322 13740 | 95.77 | PGRM01000039.1 m307228_6709_CCS
+			Skipping alignment 25075 38100 | 13026 1 | 13026 13026 | 99.93 | PGRM01000021.1 m307228_6709_CCS
+			Skipping alignment 13290 26776 | 1 13253 | 13487 13253 | 98.14 | PGRM01000022.1 m307228_6709_CCS
+			Skipping alignment 69431 82073 | 13998 1114 | 12643 12885 | 98.1 | PGRM01000032.1 m307228_6709_CCS
+			Skipping alignment 8608 21192 | 12586 1 | 12585 12586 | 99.9 | PGRM01000032.1 m307228_6709_CCS
+			Skipping alignment 12345 24790 | 12447 1 | 12446 12447 | 99.94 | PGRM01000031.1 m307228_6709_CCS
+			Skipping alignment 21663 32712 | 1 11050 | 11050 11050 | 99.95 | PGRM01000029.1 m307228_6709_CCS
+			Skipping alignment 55168 66195 | 11028 1 | 11028 11028 | 99.94 | PGRM01000032.1 m307228_6709_CCS
+			Skipping alignment 944 11660 | 1 10717 | 10717 10717 | 99.93 | PGRM01000088.1 m307228_6709_CCS
+			Skipping alignment 13745 24389 | 1 10588 | 10645 10588 | 99.33 | PGRM01000036.1 m307228_6709_CCS
+			Skipping alignment 10570 21029 | 13998 3539 | 10460 10460 | 100.0 | PGRM01000017.1 m307228_6709_CCS
+			Skipping alignment 1 9616 | 9617 1 | 9616 9617 | 99.92 | PGRM01000016.1 m307228_6709_CCS
+			Skipping alignment 12532 21781 | 3337 12586 | 9250 9250 | 100.0 | PGRM01000028.1 m307228_6709_CCS
+			Skipping alignment 43265 50011 | 6747 1 | 6747 6747 | 99.79 | PGRM01000032.1 m307228_6709_CCS
+			Skipping alignment 12139 14222 | 11915 13998 | 2084 2084 | 100.0 | PGRM01000088.1 m307228_6709_CCS
+			Skipping alignment 32951 34939 | 12010 13998 | 1989 1989 | 100.0 | PGRM01000029.1 m307228_6709_CCS
+			Skipping alignment 53466 55167 | 13688 11987 | 1702 1702 | 100.0 | PGRM01000032.1 m307228_6709_CCS
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 178 14175 | 1 13998 | 13998 13998 | 100.0 | PGRM01000020.1 m307228_6709_CCS
+			Skipping alignment 7978 21975 | 13998 1 | 13998 13998 | 99.99 | PGRM01000027.1 m307228_6709_CCS
+			Skipping alignment 18186 32183 | 13998 1 | 13998 13998 | 99.96 | PGRM01000016.1 m307228_6709_CCS
+			Skipping alignment 59473 73470 | 13998 1 | 13998 13998 | 99.94 | PGRM01000018.1 m307228_6709_CCS
+			Skipping alignment 1656 15653 | 1 13998 | 13998 13998 | 99.94 | PGRM01000037.1 m307228_6709_CCS
+
+CONTIG: m29447_5670_CCS (122433bp)
+Best alignment score: 122433.0 (LEN: 122433, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 335 122767 | 1 122433 | 122433 122433 | 100.0 | CM010543.1 m29447_5670_CCS
+
+CONTIG: m655881_12001_CCS (394867bp)
+Best alignment score: 394867.0 (LEN: 394867, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1260955 1655821 | 1 394867 | 394867 394867 | 100.0 | CM010543.1 m655881_12001_CCS
+
+CONTIG: m490113_11626_CCS (28948bp)
+Best alignment score: 28948.0 (LEN: 28948, IDY: 100.00), Total number of alignments: 30
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 43249 67907 | 28948 4764 | 24659 24185 | 98.02 | PGRM01000022.1 m490113_11626_CCS
+			Skipping alignment 31601 56018 | 28948 4764 | 24418 24185 | 97.04 | PGRM01000022.1 m490113_11626_CCS
+			Skipping alignment 54897 79555 | 28948 4764 | 24659 24185 | 96.12 | PGRM01000022.1 m490113_11626_CCS
+			Skipping alignment 14319 39684 | 28948 4764 | 25366 24185 | 95.29 | PGRM01000088.1 m490113_11626_CCS
+			Skipping alignment 31118 54833 | 4764 27760 | 23716 22997 | 96.96 | PGRM01000018.1 m490113_11626_CCS
+			Skipping alignment 1720 18345 | 1 16627 | 16626 16627 | 99.92 | PGRM01000024.1 m490113_11626_CCS
+			Skipping alignment 5938 21002 | 1350 16414 | 15065 15065 | 99.96 | PGRM01000017.1 m490113_11626_CCS
+			Skipping alignment 17247 27452 | 6387 16592 | 10206 10206 | 99.99 | PGRM01000018.1 m490113_11626_CCS
+			Skipping alignment 35298 43821 | 20114 28637 | 8524 8524 | 99.99 | PGRM01000018.1 m490113_11626_CCS
+			Skipping alignment 8378 16679 | 28641 20340 | 8302 8302 | 100.0 | PGRM01000029.1 m490113_11626_CCS
+			Skipping alignment 24999 32712 | 16643 8930 | 7714 7714 | 100.0 | PGRM01000029.1 m490113_11626_CCS
+			Skipping alignment 55168 62859 | 20122 27813 | 7692 7692 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 55168 62858 | 8952 16642 | 7691 7691 | 99.99 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 12632 18997 | 9430 15795 | 6366 6366 | 99.98 | PGRM01000049.1 m490113_11626_CCS
+			Skipping alignment 73618 79851 | 21580 27813 | 6234 6234 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 47302 53465 | 36 6199 | 6164 6164 | 99.84 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 32951 37529 | 7970 3392 | 4579 4579 | 99.96 | PGRM01000029.1 m490113_11626_CCS
+			Skipping alignment 8915 12631 | 4757 8473 | 3717 3717 | 100.0 | PGRM01000049.1 m490113_11626_CCS
+			Skipping alignment 31058 34578 | 16593 20113 | 3521 3521 | 100.0 | PGRM01000018.1 m490113_11626_CCS
+			Skipping alignment 43265 46674 | 13233 16642 | 3410 3410 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 68213 71442 | 16653 19882 | 3230 3230 | 99.97 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 4191 7330 | 36 3175 | 3140 3140 | 99.81 | PGRM01000049.1 m490113_11626_CCS
+			Skipping alignment 16897 19645 | 19401 16653 | 2749 2749 | 100.0 | PGRM01000029.1 m490113_11626_CCS
+			Skipping alignment 53466 55167 | 6292 7993 | 1702 1702 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 53466 55167 | 18181 19882 | 1702 1702 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 71922 73617 | 19883 21578 | 1696 1696 | 99.82 | PGRM01000032.1 m490113_11626_CCS
+			Skipping alignment 15449 17071 | 4764 6386 | 1623 1623 | 100.0 | PGRM01000018.1 m490113_11626_CCS
+			Skipping alignment 7331 8910 | 3177 4756 | 1580 1580 | 99.68 | PGRM01000049.1 m490113_11626_CCS
+			Skipping alignment 52030 53465 | 16653 18088 | 1436 1436 | 100.0 | PGRM01000032.1 m490113_11626_CCS
+		One align captures most of this contig: 67 29014 | 1 28948 | 28948 28948 | 100.0 | PGRM01000025.1 m490113_11626_CCS
+
+CONTIG: m508143_11048_CCS (40537bp)
+Best alignment score: 40537.0 (LEN: 40537, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 50 40586 | 1 40537 | 40537 40537 | 100.0 | PGRM01000072.1 m508143_11048_CCS
+
+CONTIG: m415554_4194_CCS (1068829bp)
+Best alignment score: 1068829.0 (LEN: 1068829, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22710577 23779405 | 1 1068829 | 1068829 1068829 | 100.0 | CM010542.1 m415554_4194_CCS
+
+CONTIG: m254840_13721_CCS (15910bp)
+Best alignment score: 15910.0 (LEN: 15910, IDY: 100.00), Total number of alignments: 19
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 17823 33459 | 218 15855 | 15637 15638 | 99.85 | PGRM01000045.1 m254840_13721_CCS
+			Skipping alignment 18130 33527 | 15855 458 | 15398 15398 | 99.96 | PGRM01000029.1 m254840_13721_CCS
+			Skipping alignment 28795 44173 | 1 15855 | 15379 15855 | 96.9 | PGRM01000039.1 m254840_13721_CCS
+			Skipping alignment 54568 69728 | 698 15855 | 15161 15158 | 99.9 | PGRM01000032.1 m254840_13721_CCS
+			Skipping alignment 11 13978 | 13966 1 | 13968 13966 | 99.93 | PGRM01000037.1 m254840_13721_CCS
+			Skipping alignment 9644 24389 | 15855 1736 | 14746 14120 | 95.65 | PGRM01000036.1 m254840_13721_CCS
+			Skipping alignment 31 12810 | 13239 458 | 12780 12782 | 99.83 | PGRM01000088.1 m254840_13721_CCS
+			Skipping alignment 1 11648 | 2707 14353 | 11648 11647 | 99.97 | PGRM01000016.1 m254840_13721_CCS
+			Skipping alignment 43253 53545 | 5565 15855 | 10293 10291 | 99.86 | PGRM01000032.1 m254840_13721_CCS
+		This contig has 10 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 61148 77057 | 1 15910 | 15910 15910 | 100.0 | PGRM01000018.1 m254840_13721_CCS
+			Skipping alignment 8870 24726 | 1 15855 | 15857 15855 | 99.97 | PGRM01000032.1 m254840_13721_CCS
+			Skipping alignment 17438 33294 | 15855 1 | 15857 15855 | 99.97 | PGRM01000015.1 m254840_13721_CCS
+			Skipping alignment 25778 41634 | 1 15855 | 15857 15855 | 99.97 | PGRM01000021.1 m254840_13721_CCS
+			Skipping alignment 19861 35717 | 1 15855 | 15857 15855 | 99.97 | PGRM01000016.1 m254840_13721_CCS
+			Skipping alignment 12468 28322 | 1 15855 | 15855 15855 | 99.96 | PGRM01000031.1 m254840_13721_CCS
+			Skipping alignment 9756 25612 | 15855 1 | 15857 15855 | 99.96 | PGRM01000022.1 m254840_13721_CCS
+			Skipping alignment 13576 29432 | 15855 1 | 15857 15855 | 99.96 | PGRM01000041.1 m254840_13721_CCS
+			Skipping alignment 9653 25509 | 1 15855 | 15857 15855 | 99.93 | PGRM01000027.1 m254840_13721_CCS
+			Skipping alignment 1322 17197 | 1 15825 | 15876 15825 | 99.63 | PGRM01000039.1 m254840_13721_CCS
+
+CONTIG: m92971_14219_CCS (7667888bp)
+Best alignment score: 7665936.0 (LEN: 7665936, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 14734435 22400384 | 1 7665936 | 7665950 7665936 | 100.0 | CM010541.1 m92971_14219_CCS
+
+CONTIG: m664968_16420_CCS (28727bp)
+Best alignment score: 28727.0 (LEN: 28727, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 159 28885 | 1 28727 | 28727 28727 | 100.0 | PGRM01000084.1 m664968_16420_CCS
+
+CONTIG: m406588_12422_CCS (58754bp)
+Best alignment score: 58754.0 (LEN: 58754, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 12171442 12228783 | 1 58754 | 57342 58754 | 97.48 | CM010544.1 m406588_12422_CCS
+		One align captures most of this contig: 247 59000 | 1 58754 | 58754 58754 | 100.0 | PGRM01000007.1 m406588_12422_CCS
+
+CONTIG: m347258_10605_CCS (1203050bp)
+Best alignment score: 1203050.0 (LEN: 1203050, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22407570 23610619 | 1 1203050 | 1203050 1203050 | 100.0 | CM010541.1 m347258_10605_CCS
+
+CONTIG: m224068_12111_CCS (56044bp)
+Best alignment score: 56044.0 (LEN: 56044, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 261986 318029 | 1 56044 | 56044 56044 | 100.0 | CM010545.1 m224068_12111_CCS
+
+CONTIG: m40873_12898_CCS (14873452bp)
+Best alignment score: 14857353.0 (LEN: 14857353, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 15212 14872564 | 1 14857353 | 14857353 14857353 | 100.0 | CM010542.1 m40873_12898_CCS
+
+CONTIG: m132308_5861_CCS (1323242bp)
+Best alignment score: 1323242.0 (LEN: 1323242, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27726059 29049300 | 1 1323242 | 1323242 1323242 | 100.0 | CM010544.1 m132308_5861_CCS
+
+CONTIG: m133871_11101_CCS (45740bp)
+Best alignment score: 45740.0 (LEN: 45740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 59 45798 | 1 45740 | 45740 45740 | 100.0 | PGRM01000060.1 m133871_11101_CCS
+
+CONTIG: m284768_5780_CCS (58682bp)
+Best alignment score: 58682.0 (LEN: 58682, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 49 58730 | 1 58682 | 58682 58682 | 100.0 | PGRM01000071.1 m284768_5780_CCS
+
+CONTIG: m31615_8263_CCS (48880bp)
+Best alignment score: 48880.0 (LEN: 48880, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4422788 4464376 | 42337 1 | 41589 42337 | 97.82 | CM010544.1 m31615_8263_CCS
+		One align captures most of this contig: 242 49121 | 1 48880 | 48880 48880 | 100.0 | PGRM01000008.1 m31615_8263_CCS
+
+CONTIG: m17593_8794_CCS (43597bp)
+Best alignment score: 43597.0 (LEN: 43597, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 191 43787 | 1 43597 | 43597 43597 | 100.0 | PGRM01000063.1 m17593_8794_CCS
+
+CONTIG: m280558_3345_CCS (45920bp)
+Best alignment score: 45920.0 (LEN: 45920, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 244 46163 | 1 45920 | 45920 45920 | 100.0 | PGRM01000091.1 m280558_3345_CCS
+
+CONTIG: m446202_17229_CCS (74857bp)
+Best alignment score: 21084.0 (LEN: 21084, IDY: 100.00), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4331 11660 | 61461 68790 | 7330 7330 | 99.99 | PGRM01000088.1 m446202_17229_CCS
+		Skipping redundant alignment 732 11786 | 72519 61465 | 11055 11055 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+		Skipping redundant alignment 221 731 | 73031 72521 | 511 511 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+		Skipping redundant alignment 12139 17008 | 69988 74857 | 4870 4870 | 100.0 | PGRM01000088.1 m446202_17229_CCS
+		Skipping redundant alignment 3565 16961 | 61461 74857 | 13397 13397 | 100.0 | PGRM01000020.1 m446202_17229_CCS
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 69729.8, number of alignments: 10, unaligned bases: 4742
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 70115 out of 74857 non-N bases (93.67%))
+			Real Alignment 1: 62532 73683 | 11718 567 | 11152 11152 | 99.96 | PGRM01000018.1 m446202_17229_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = 719
+			Real Alignment 2: 58191 61556 | 15340 11975 | 3366 3366 | 99.94 | PGRM01000018.1 m446202_17229_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = 3359
+			Real Alignment 3: 33748 54831 | 36424 15341 | 21084 21084 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = -862
+			Real Alignment 4: 31039 33609 | 39995 37425 | 2571 2571 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+			  Indel (<= 5bp) between these two alignments: deletion of length 3; 0 mismatches (number of Ns: 0)
+			Real Alignment 5: 27451 31035 | 43580 39996 | 3585 3585 | 99.92 | PGRM01000018.1 m446202_17229_CCS
+			  Indel (> 5bp) between these two alignments: deletion of length 54; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 19646 27389 | 51331 43588 | 7744 7744 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = -2912
+			Real Alignment 7: 17247 19645 | 56642 54244 | 2399 2399 | 99.96 | PGRM01000018.1 m446202_17229_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = 175
+			Real Alignment 8: 15365 17071 | 58349 56643 | 1707 1707 | 100.0 | PGRM01000018.1 m446202_17229_CCS
+			  Indel (<= 5bp) between these two alignments: insertion of length 1; 0 mismatches (number of Ns: 0)
+			Excluding internal overlap of size 4 between Alignment 9 and 10: 12251 15364 | 61464 58351 | 3114 3114 --> 12255 15364 | 61460 58351 | 3110 3110
+			Real Alignment 9: 12255 15364 | 61460 58351 | 3110 3110 | 99.94 | PGRM01000018.1 m446202_17229_CCS
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 10: 5043 18439 | 61461 74857 | 13397 13397 | 100.0 | PGRM01000037.1 m446202_17229_CCS
+		Unaligned bases: 4742
+
+CONTIG: m676909_6039_CCS (42884bp)
+Best alignment score: 42884.0 (LEN: 42884, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 133 43016 | 1 42884 | 42884 42884 | 100.0 | PGRM01000062.1 m676909_6039_CCS
+
+CONTIG: m412671_6022_CCS (14955279bp)
+Best alignment score: 14955279.0 (LEN: 14955279, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 10037440 24992724 | 1 14955279 | 14955285 14955279 | 100.0 | CM010543.1 m412671_6022_CCS
+
+CONTIG: m549703_11884_CCS (13453bp)
+Best alignment score: 13453.0 (LEN: 13453, IDY: 100.00), Total number of alignments: 21
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 14482 27715 | 13230 1 | 13234 13230 | 99.83 | PGRM01000015.1 m549703_11884_CCS
+			Skipping alignment 14449 27682 | 1 13230 | 13234 13230 | 99.81 | PGRM01000032.1 m549703_11884_CCS
+			Skipping alignment 6800 20033 | 13230 1 | 13234 13230 | 99.79 | PGRM01000022.1 m549703_11884_CCS
+			Skipping alignment 18047 31278 | 1 13230 | 13232 13230 | 99.79 | PGRM01000031.1 m549703_11884_CCS
+			Skipping alignment 15232 28466 | 1 13230 | 13235 13230 | 99.74 | PGRM01000027.1 m549703_11884_CCS
+			Skipping alignment 23184 36409 | 1 13230 | 13226 13230 | 99.7 | PGRM01000045.1 m549703_11884_CCS
+			Skipping alignment 25440 38477 | 1 13034 | 13038 13034 | 99.81 | PGRM01000016.1 m549703_11884_CCS
+			Skipping alignment 59452 72488 | 1 13034 | 13037 13034 | 99.79 | PGRM01000032.1 m549703_11884_CCS
+			Skipping alignment 10822 23853 | 13034 1 | 13032 13034 | 99.76 | PGRM01000041.1 m549703_11884_CCS
+			Skipping alignment 216 12869 | 56 12702 | 12654 12647 | 99.67 | PGRM01000049.1 m549703_11884_CCS
+			Skipping alignment 43268 55883 | 1 12702 | 12616 12702 | 98.99 | PGRM01000032.1 m549703_11884_CCS
+			Skipping alignment 16240 28406 | 12168 1 | 12167 12168 | 99.84 | PGRM01000029.1 m549703_11884_CCS
+			Skipping alignment 66727 77078 | 1 10352 | 10352 10352 | 99.94 | PGRM01000018.1 m549703_11884_CCS
+			Skipping alignment 33896 44247 | 1 10352 | 10352 10352 | 99.88 | PGRM01000039.1 m549703_11884_CCS
+			Skipping alignment 6901 17197 | 1 10248 | 10297 10248 | 99.48 | PGRM01000039.1 m549703_11884_CCS
+			Skipping alignment 23967 33652 | 3358 13034 | 9686 9677 | 99.66 | PGRM01000017.1 m549703_11884_CCS
+			Skipping alignment 2873 11648 | 1 8776 | 8776 8776 | 99.98 | PGRM01000016.1 m549703_11884_CCS
+			Skipping alignment 12281 17080 | 8208 3409 | 4800 4800 | 99.75 | PGRM01000036.1 m549703_11884_CCS
+			Skipping alignment 17138 20545 | 3408 1 | 3408 3408 | 100.0 | PGRM01000036.1 m549703_11884_CCS
+			Skipping alignment 8571 11713 | 11351 8209 | 3143 3143 | 99.97 | PGRM01000036.1 m549703_11884_CCS
+		One align captures most of this contig: 31357 44809 | 1 13453 | 13453 13453 | 100.0 | PGRM01000021.1 m549703_11884_CCS
+
+CONTIG: m463958_22580_CCS (42495bp)
+Best alignment score: 22417.0 (LEN: 22417, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 22417.0, number of alignments: 1, unaligned bases: 20078
+		This contig is partially unaligned. (Aligned 22417 out of 42495 non-N bases (52.75%))
+		Alignment: 47135 69551 | 20079 42495 | 22417 22417 | 100.0 | PGRM01000095.1 m463958_22580_CCS
+		Unaligned bases: 1 to 20078 (20078)
+
+CONTIG: m528881_17954_CCS (404181bp)
+Best alignment score: 357615.0 (LEN: 357615, IDY: 100.00), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 14692194 14739850 | 47677 1 | 47657 47677 | 99.88 | CM010541.1 m528881_17954_CCS
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 403171.1, number of alignments: 3, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 20948 between Alignment 1 and 2: 34039 81713 | 47677 1 | 47675 47677 --> 54985 81713 | 26729 1 | 26729 26729
+			Real Alignment 1: 54985 81713 | 26729 1 | 26729 26729 | 100.0 | PGRM01000014.1 m528881_17954_CCS
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 31654 between Alignment 2 and 3: 1 51502 | 352691 404181 | 51502 51491 --> 31666 51502 | 384345 404181 | 19837 19837
+			Real Alignment 2: 14390285 14747899 | 26730 384344 | 357615 357615 | 100.0 | CM010541.1 m528881_17954_CCS
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 31666 51502 | 384345 404181 | 19837 19837 | 99.95 | PGRM01000014.1 m528881_17954_CCS
+
+CONTIG: m430421_9641_CCS (593573bp)
+Best alignment score: 593573.0 (LEN: 593573, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2450383 3043955 | 1 593573 | 593573 593573 | 100.0 | CM010545.1 m430421_9641_CCS
+
+CONTIG: m438872_9931_CCS (46992bp)
+Best alignment score: 46992.0 (LEN: 46992, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 132 47123 | 1 46992 | 46992 46992 | 100.0 | PGRM01000024.1 m438872_9931_CCS
+
+CONTIG: m136951_8772_CCS (43021bp)
+Best alignment score: 43021.0 (LEN: 43021, IDY: 100.00), Total number of alignments: 14
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 30999025 31009722 | 8387 19084 | 10698 10698 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31015732 31025274 | 19864 29406 | 9543 9543 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31025276 31028960 | 29407 33091 | 3685 3685 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31036472 31037742 | 40596 41866 | 1271 1271 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31032513 31033721 | 36641 37849 | 1209 1209 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 30995699 30996893 | 5064 6258 | 1195 1195 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 30996895 30997987 | 6259 7351 | 1093 1093 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31029201 31030291 | 33329 34419 | 1091 1091 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 30997989 30999023 | 7352 8386 | 1035 1035 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31037744 31038699 | 41867 42822 | 956 956 | 99.9 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31030349 31031143 | 34477 35271 | 795 795 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31014954 31015731 | 19085 19862 | 778 778 | 100.0 | CM010545.1 m136951_8772_CCS
+			Skipping alignment 31031145 31031679 | 35272 35806 | 535 535 | 100.0 | CM010545.1 m136951_8772_CCS
+		One align captures most of this contig: 103 43123 | 1 43021 | 43021 43021 | 100.0 | PGRM01000011.1 m136951_8772_CCS
+
+CONTIG: m569312_9147_CCS (27949603bp)
+Best alignment score: 27949603.0 (LEN: 27949603, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4785218 32734820 | 1 27949603 | 27949603 27949603 | 100.0 | CM010545.1 m569312_9147_CCS
+
+CONTIG: m406870_12410_CCS (30179bp)
+Best alignment score: 30179.0 (LEN: 30179, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 462 30640 | 1 30179 | 30179 30179 | 100.0 | PGRM01000073.1 m406870_12410_CCS
+
+CONTIG: m333156_7775_CCS (55994bp)
+Best alignment score: 55994.0 (LEN: 55994, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 605 56598 | 1 55994 | 55994 55994 | 100.0 | PGRM01000083.1 m333156_7775_CCS
+
+CONTIG: m138030_8667_CCS (146520bp)
+Best alignment score: 146520.0 (LEN: 146520, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 145 146664 | 1 146520 | 146520 146520 | 100.0 | PGRM01000047.1 m138030_8667_CCS
+
+CONTIG: m246942_11066_CCS (59219bp)
+Best alignment score: 59219.0 (LEN: 59219, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 554 59772 | 1 59219 | 59219 59219 | 100.0 | PGRM01000042.1 m246942_11066_CCS
+
+CONTIG: m85731_6198_CCS (76962bp)
+Best alignment score: 60377.0 (LEN: 60377, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 67642.0, number of alignments: 2, unaligned bases: 9320
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 67642 out of 76962 non-N bases (87.89%))
+			Real Alignment 1: 64 60440 | 1 60377 | 60377 60377 | 100.0 | PGRM01000057.1 m85731_6198_CCS
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 2: 69761 77025 | 69698 76962 | 7265 7265 | 100.0 | PGRM01000057.1 m85731_6198_CCS
+		Unaligned bases: 9320
+
+CONTIG: m342998_7616_CCS (57034bp)
+Best alignment score: 57034.0 (LEN: 57034, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 389 57422 | 1 57034 | 57034 57034 | 100.0 | PGRM01000090.1 m342998_7616_CCS
+
+CONTIG: m470881_9875_CCS (28253bp)
+Best alignment score: 28253.0 (LEN: 28253, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 154 28406 | 1 28253 | 28253 28253 | 100.0 | PGRM01000076.1 m470881_9875_CCS
+
+CONTIG: m52992_7654_CCS (32512bp)
+Best alignment score: 32512.0 (LEN: 32512, IDY: 100.00), Total number of alignments: 19
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4725 33510 | 2285 32512 | 28786 30228 | 95.22 | PGRM01000029.1 m52992_7654_CCS
+			Skipping alignment 54568 79851 | 32289 6766 | 25284 25524 | 99.01 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 3781 28958 | 6850 32512 | 25178 25663 | 98.09 | PGRM01000041.1 m52992_7654_CCS
+			Skipping alignment 1 25138 | 7369 32512 | 25138 25144 | 99.96 | PGRM01000022.1 m52992_7654_CCS
+			Skipping alignment 10127 34165 | 32512 8475 | 24039 24038 | 99.95 | PGRM01000027.1 m52992_7654_CCS
+			Skipping alignment 9344 25703 | 32512 16153 | 16360 16360 | 99.99 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 1796 17152 | 32512 17205 | 15357 15308 | 99.65 | PGRM01000039.1 m52992_7654_CCS
+			Skipping alignment 15898 28847 | 19715 6766 | 12950 12950 | 99.99 | PGRM01000016.1 m52992_7654_CCS
+			Skipping alignment 47 10564 | 30233 19716 | 10518 10518 | 99.99 | PGRM01000016.1 m52992_7654_CCS
+			Skipping alignment 43253 53465 | 27422 17210 | 10213 10213 | 99.87 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 55168 62859 | 14457 6766 | 7692 7692 | 99.99 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 17138 24389 | 24000 31251 | 7252 7252 | 99.99 | PGRM01000036.1 m52992_7654_CCS
+			Skipping alignment 1447 7761 | 8310 14624 | 6315 6315 | 99.98 | PGRM01000036.1 m52992_7654_CCS
+			Skipping alignment 28190 34138 | 16152 10204 | 5949 5949 | 100.0 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 12281 17080 | 19200 23999 | 4800 4800 | 99.75 | PGRM01000036.1 m52992_7654_CCS
+			Skipping alignment 8194 11713 | 15680 19199 | 3520 3520 | 99.97 | PGRM01000036.1 m52992_7654_CCS
+			Skipping alignment 53466 55167 | 17117 15416 | 1702 1702 | 100.0 | PGRM01000032.1 m52992_7654_CCS
+			Skipping alignment 894 1446 | 7756 8308 | 553 553 | 100.0 | PGRM01000036.1 m52992_7654_CCS
+		One align captures most of this contig: 309 32820 | 1 32512 | 32512 32512 | 100.0 | PGRM01000015.1 m52992_7654_CCS
+
+CONTIG: m105243_5693_CCS (37952bp)
+Best alignment score: 37952.0 (LEN: 37952, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 187 38138 | 1 37952 | 37952 37952 | 100.0 | PGRM01000089.1 m105243_5693_CCS
+
+CONTIG: m22509_24737_CCS (29886bp)
+Best alignment score: 29886.0 (LEN: 29886, IDY: 100.00), Total number of alignments: 21
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 52030 78105 | 2518 29886 | 26076 27369 | 95.24 | PGRM01000032.1 m22509_24737_CCS
+			Skipping alignment 16968 42394 | 2518 28186 | 25427 25669 | 99.0 | PGRM01000016.1 m22509_24737_CCS
+			Skipping alignment 8820 34206 | 29886 4499 | 25387 25388 | 99.95 | PGRM01000015.1 m22509_24737_CCS
+			Skipping alignment 1138 26776 | 29886 4481 | 25639 25406 | 99.0 | PGRM01000022.1 m22509_24737_CCS
+			Skipping alignment 5443 30767 | 29886 4307 | 25325 25580 | 97.1 | PGRM01000041.1 m22509_24737_CCS
+			Skipping alignment 6436 31685 | 1 24635 | 25250 24635 | 96.74 | PGRM01000031.1 m22509_24737_CCS
+			Skipping alignment 29701 44189 | 6795 21283 | 14489 14489 | 99.88 | PGRM01000039.1 m22509_24737_CCS
+			Skipping alignment 20085 32712 | 19311 6684 | 12628 12628 | 99.94 | PGRM01000029.1 m22509_24737_CCS
+			Skipping alignment 43265 53465 | 10987 21187 | 10201 10201 | 99.82 | PGRM01000032.1 m22509_24737_CCS
+			Skipping alignment 17138 24389 | 14397 7146 | 7252 7252 | 99.99 | PGRM01000036.1 m22509_24737_CCS
+			Skipping alignment 1649 8193 | 29886 23342 | 6545 6545 | 99.97 | PGRM01000036.1 m22509_24737_CCS
+			Skipping alignment 55168 61113 | 23941 29886 | 5946 5946 | 99.98 | PGRM01000032.1 m22509_24737_CCS
+			Skipping alignment 10952 16679 | 29886 24159 | 5728 5728 | 100.0 | PGRM01000029.1 m22509_24737_CCS
+			Skipping alignment 12281 17080 | 19197 14398 | 4800 4800 | 99.65 | PGRM01000036.1 m22509_24737_CCS
+			Skipping alignment 8194 11713 | 22717 19198 | 3520 3520 | 99.97 | PGRM01000036.1 m22509_24737_CCS
+			Skipping alignment 32951 36157 | 5724 2518 | 3207 3207 | 100.0 | PGRM01000029.1 m22509_24737_CCS
+			Skipping alignment 16897 20084 | 22500 19313 | 3188 3188 | 100.0 | PGRM01000029.1 m22509_24737_CCS
+			Skipping alignment 53466 55167 | 21280 22981 | 1702 1702 | 100.0 | PGRM01000032.1 m22509_24737_CCS
+			Skipping alignment 28194 29700 | 4810 6316 | 1507 1507 | 100.0 | PGRM01000039.1 m22509_24737_CCS
+			Skipping alignment 26318 27133 | 3994 4809 | 816 816 | 100.0 | PGRM01000039.1 m22509_24737_CCS
+		One align captures most of this contig: 4243 34128 | 1 29886 | 29886 29886 | 100.0 | PGRM01000027.1 m22509_24737_CCS
+
+CONTIG: m94325_6693_CCS (37191bp)
+Best alignment score: 37191.0 (LEN: 37191, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 75 37265 | 1 37191 | 37191 37191 | 100.0 | PGRM01000036.1 m94325_6693_CCS
+
+CONTIG: m41844_7980_CCS (77069bp)
+Best alignment score: 77069.0 (LEN: 77069, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 175 77243 | 1 77069 | 77069 77069 | 100.0 | PGRM01000033.1 m41844_7980_CCS
+
+CONTIG: m398566_10362_CCS (101305bp)
+Best alignment score: 101305.0 (LEN: 101305, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21503104 21604408 | 1 101305 | 101305 101305 | 100.0 | CM010542.1 m398566_10362_CCS
+
+CONTIG: m366308_16205_CCS (31932bp)
+Best alignment score: 31932.0 (LEN: 31932, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 80 32011 | 1 31932 | 31932 31932 | 100.0 | PGRM01000082.1 m366308_16205_CCS
+
+CONTIG: m91925_14592_CCS (14592bp)
+Best alignment score: 14592.0 (LEN: 14592, IDY: 100.00), Total number of alignments: 35
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 22408476 22422727 | 334 14592 | 14252 14259 | 99.63 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22413085 22426543 | 1 13486 | 13459 13486 | 99.37 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22391864 22405247 | 1 13398 | 13384 13398 | 99.8 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22358298 22371823 | 1118 14592 | 13526 13475 | 98.68 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22408910 22420252 | 3255 14592 | 11343 11338 | 99.72 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22394339 22400297 | 1 5959 | 5959 5959 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22396814 22400297 | 1 3484 | 3484 3484 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22414360 22417777 | 11175 14592 | 3418 3418 | 99.77 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22402042 22404196 | 7720 9874 | 2155 2155 | 99.81 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22402042 22404196 | 5245 7399 | 2155 2155 | 99.81 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22402042 22404196 | 2770 4924 | 2155 2155 | 99.81 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22409962 22411883 | 6778 8699 | 1922 1922 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22400298 22402041 | 5975 7718 | 1744 1744 | 99.89 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22400298 22402041 | 3500 5243 | 1744 1744 | 99.89 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22400298 22402041 | 1025 2768 | 1744 1744 | 99.89 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22412691 22414358 | 9507 11174 | 1668 1668 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22399289 22400297 | 1 1009 | 1009 1009 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22404198 22405035 | 9875 10712 | 838 838 | 99.88 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22404198 22405035 | 7400 8237 | 838 838 | 99.88 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22404198 22405035 | 4925 5762 | 838 838 | 99.88 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22411885 22412690 | 8700 9505 | 806 806 | 99.63 | CM010541.1 m91925_14592_CCS
+		This contig has 14 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 22381964 22396555 | 1 14592 | 14592 14592 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22384439 22399030 | 1 14592 | 14592 14592 | 100.0 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22379490 22394080 | 1 14592 | 14591 14592 | 99.99 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22377016 22391605 | 1 14592 | 14590 14592 | 99.97 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22386914 22401490 | 1 14592 | 14577 14592 | 99.89 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22389389 22403964 | 1 14592 | 14576 14592 | 99.85 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22410610 22425202 | 1 14592 | 14593 14592 | 99.83 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22374556 22389130 | 1 14592 | 14575 14592 | 99.81 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22372082 22386655 | 1 14592 | 14574 14592 | 99.77 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22369608 22384180 | 1 14592 | 14573 14592 | 99.73 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22362187 22376757 | 1 14592 | 14571 14592 | 99.7 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22367133 22381705 | 1 14592 | 14573 14592 | 99.69 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22364660 22379231 | 1 14592 | 14572 14592 | 99.69 | CM010541.1 m91925_14592_CCS
+			Skipping alignment 22359723 22374297 | 1 14592 | 14575 14592 | 99.62 | CM010541.1 m91925_14592_CCS
+
+CONTIG: m571231_6364_CCS (6490bp)
+Best alignment score: 6490.0 (LEN: 6490, IDY: 100.00), Total number of alignments: 51
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 5347 11767 | 1 6419 | 6421 6419 | 99.97 | PGRM01000018.1 m571231_6364_CCS
+			Skipping alignment 21009 27429 | 1 6419 | 6421 6419 | 99.97 | PGRM01000018.1 m571231_6364_CCS
+			Skipping alignment 49712 56132 | 6419 1 | 6421 6419 | 99.97 | PGRM01000020.1 m571231_6364_CCS
+			Skipping alignment 48392 54812 | 1 6419 | 6421 6419 | 99.97 | PGRM01000018.1 m571231_6364_CCS
+			Skipping alignment 3738 10153 | 1 6416 | 6416 6416 | 99.94 | PGRM01000034.1 m571231_6364_CCS
+			Skipping alignment 3781 10191 | 6409 1 | 6411 6409 | 99.97 | PGRM01000041.1 m571231_6364_CCS
+			Skipping alignment 43036 49402 | 6366 1 | 6367 6366 | 99.98 | PGRM01000088.1 m571231_6364_CCS
+		This contig has 44 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 34283 40772 | 1 6490 | 6490 6490 | 100.0 | PGRM01000017.1 m571231_6364_CCS
+			Skipping alignment 9208 15700 | 6490 1 | 6493 6490 | 99.95 | PGRM01000029.1 m571231_6364_CCS
+			Skipping alignment 8689 15181 | 1 6490 | 6493 6490 | 99.95 | PGRM01000045.1 m571231_6364_CCS
+			Skipping alignment 15405 21897 | 6490 1 | 6493 6490 | 99.95 | PGRM01000020.1 m571231_6364_CCS
+			Skipping alignment 36503 42995 | 1 6490 | 6493 6490 | 99.95 | PGRM01000018.1 m571231_6364_CCS
+			Skipping alignment 16628 23120 | 6490 1 | 6493 6490 | 99.95 | PGRM01000022.1 m571231_6364_CCS
+			Skipping alignment 24310 30802 | 6490 1 | 6493 6490 | 99.95 | PGRM01000015.1 m571231_6364_CCS
+			Skipping alignment 57471 63963 | 6490 1 | 6493 6490 | 99.95 | PGRM01000088.1 m571231_6364_CCS
+			Skipping alignment 56365 62857 | 1 6490 | 6493 6490 | 99.95 | PGRM01000032.1 m571231_6364_CCS
+			Skipping alignment 7076 13568 | 6490 1 | 6493 6490 | 99.95 | PGRM01000015.1 m571231_6364_CCS
+			Skipping alignment 20448 26940 | 6490 1 | 6493 6490 | 99.95 | PGRM01000041.1 m571231_6364_CCS
+			Skipping alignment 11362 17854 | 1 6490 | 6493 6490 | 99.95 | PGRM01000032.1 m571231_6364_CCS
+			Skipping alignment 22006 28498 | 1 6490 | 6493 6490 | 99.95 | PGRM01000034.1 m571231_6364_CCS
+			Skipping alignment 27341 33833 | 6490 1 | 6493 6490 | 99.95 | PGRM01000088.1 m571231_6364_CCS
+			Skipping alignment 10215 16707 | 1 6490 | 6493 6490 | 99.95 | PGRM01000025.1 m571231_6364_CCS
+			Skipping alignment 67919 74411 | 6490 1 | 6493 6490 | 99.95 | PGRM01000022.1 m571231_6364_CCS
+			Skipping alignment 30809 37301 | 1 6490 | 6493 6490 | 99.95 | PGRM01000039.1 m571231_6364_CCS
+			Skipping alignment 63640 70132 | 1 6490 | 6493 6490 | 99.95 | PGRM01000018.1 m571231_6364_CCS
+			Skipping alignment 12534 19026 | 6490 1 | 6493 6490 | 99.95 | PGRM01000028.1 m571231_6364_CCS
+			Skipping alignment 22353 28845 | 1 6490 | 6493 6490 | 99.95 | PGRM01000016.1 m571231_6364_CCS
+			Skipping alignment 56030 62522 | 6490 1 | 6493 6490 | 99.95 | PGRM01000022.1 m571231_6364_CCS
+			Skipping alignment 21385 27877 | 1 6490 | 6493 6490 | 99.95 | PGRM01000025.1 m571231_6364_CCS
+			Skipping alignment 3516 10008 | 6490 1 | 6493 6490 | 99.95 | PGRM01000020.1 m571231_6364_CCS
+			Skipping alignment 2449 8941 | 1 6490 | 6493 6490 | 99.95 | PGRM01000031.1 m571231_6364_CCS
+			Skipping alignment 3814 10306 | 1 6490 | 6493 6490 | 99.95 | PGRM01000039.1 m571231_6364_CCS
+			Skipping alignment 25001 31493 | 6490 1 | 6493 6490 | 99.95 | PGRM01000029.1 m571231_6364_CCS
+			Skipping alignment 28910 35402 | 1 6490 | 6493 6490 | 99.95 | PGRM01000024.1 m571231_6364_CCS
+			Skipping alignment 14960 21452 | 1 6490 | 6493 6490 | 99.95 | PGRM01000031.1 m571231_6364_CCS
+			Skipping alignment 11867 18359 | 1 6490 | 6493 6490 | 99.95 | PGRM01000024.1 m571231_6364_CCS
+			Skipping alignment 4994 11486 | 6490 1 | 6493 6490 | 99.95 | PGRM01000037.1 m571231_6364_CCS
+			Skipping alignment 15452 21944 | 6490 1 | 6493 6490 | 99.95 | PGRM01000088.1 m571231_6364_CCS
+			Skipping alignment 12145 18637 | 1 6490 | 6493 6490 | 99.95 | PGRM01000027.1 m571231_6364_CCS
+			Skipping alignment 34335 40827 | 1 6490 | 6493 6490 | 99.94 | PGRM01000049.1 m571231_6364_CCS
+			Skipping alignment 28270 34762 | 1 6490 | 6493 6490 | 99.94 | PGRM01000021.1 m571231_6364_CCS
+			Skipping alignment 36385 42877 | 1 6490 | 6493 6490 | 99.94 | PGRM01000034.1 m571231_6364_CCS
+			Skipping alignment 17140 23632 | 6490 1 | 6493 6490 | 99.94 | PGRM01000036.1 m571231_6364_CCS
+			Skipping alignment 4282 10774 | 6490 1 | 6493 6490 | 99.94 | PGRM01000088.1 m571231_6364_CCS
+			Skipping alignment 32734 39225 | 6490 1 | 6492 6490 | 99.94 | PGRM01000022.1 m571231_6364_CCS
+			Skipping alignment 20098 26589 | 1 6490 | 6492 6490 | 99.94 | PGRM01000045.1 m571231_6364_CCS
+			Skipping alignment 44382 50873 | 6490 1 | 6492 6490 | 99.94 | PGRM01000022.1 m571231_6364_CCS
+			Skipping alignment 73358 79849 | 1 6490 | 6492 6490 | 99.94 | PGRM01000032.1 m571231_6364_CCS
+			Skipping alignment 260 6748 | 1 6490 | 6489 6490 | 99.89 | PGRM01000027.1 m571231_6364_CCS
+			Skipping alignment 30943 37431 | 6490 1 | 6489 6490 | 99.62 | PGRM01000028.1 m571231_6364_CCS
+			Skipping alignment 7052 13495 | 1 6441 | 6444 6441 | 99.95 | PGRM01000021.1 m571231_6364_CCS
+
+CONTIG: m99674_7638_CCS (63785bp)
+Best alignment score: 63785.0 (LEN: 63785, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 190 63974 | 1 63785 | 63785 63785 | 100.0 | CM010545.1 m99674_7638_CCS
+
+CONTIG: m384319_10201_CCS (45485bp)
+Best alignment score: 45485.0 (LEN: 45485, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 79 45563 | 1 45485 | 45485 45485 | 100.0 | PGRM01000075.1 m384319_10201_CCS
+
+CONTIG: m200800_7773_CCS (29503bp)
+Best alignment score: 29503.0 (LEN: 29503, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 272 29774 | 1 29503 | 29503 29503 | 100.0 | PGRM01000059.1 m200800_7773_CCS
+
+CONTIG: m440153_4714_CCS (32032bp)
+Best alignment score: 32032.0 (LEN: 32032, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 39 32070 | 1 32032 | 32032 32032 | 100.0 | PGRM01000054.1 m440153_4714_CCS
+
+CONTIG: m51664_11915_CCS (36377bp)
+Best alignment score: 36377.0 (LEN: 36377, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 38 36414 | 1 36377 | 36377 36377 | 100.0 | PGRM01000069.1 m51664_11915_CCS
+
+CONTIG: m325915_3780_CCS (36447bp)
+Best alignment score: 36447.0 (LEN: 36447, IDY: 100.00), Total number of alignments: 21
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 58979 62966 | 8299 12286 | 3988 3988 | 99.45 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 67436 71117 | 16737 20418 | 3682 3682 | 99.67 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 81109 83688 | 23175 25754 | 2580 2580 | 99.92 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 78968 81108 | 21033 23173 | 2141 2141 | 99.53 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 56912 58977 | 6233 8298 | 2066 2066 | 99.47 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 86359 88306 | 28436 30383 | 1948 1948 | 99.64 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 62978 64750 | 12287 14059 | 1773 1773 | 99.72 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 54395 55879 | 3716 5200 | 1485 1485 | 99.53 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 51707 53149 | 1040 2482 | 1443 1443 | 99.51 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 53180 54373 | 2522 3715 | 1194 1194 | 98.74 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 91422 92597 | 33541 34716 | 1176 1176 | 99.49 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 90254 91421 | 32372 33539 | 1168 1168 | 99.83 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 88307 89467 | 30387 31547 | 1161 1161 | 100.0 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 64772 65908 | 14084 15220 | 1137 1137 | 99.65 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 83811 84860 | 25875 26924 | 1050 1050 | 99.62 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 55880 56909 | 5203 6232 | 1030 1030 | 99.71 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 85347 86358 | 27422 28433 | 1012 1012 | 99.8 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 89473 90235 | 31548 32310 | 763 763 | 99.61 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 66759 67427 | 16064 16732 | 669 669 | 99.7 | PGRM01000046.1 m325915_3780_CCS
+			Skipping alignment 66193 66758 | 15492 16057 | 566 566 | 99.82 | PGRM01000046.1 m325915_3780_CCS
+		One align captures most of this contig: 55 36501 | 1 36447 | 36447 36447 | 100.0 | PGRM01000092.1 m325915_3780_CCS
+
+CONTIG: m484291_9460_CCS (61052bp)
+Best alignment score: 61052.0 (LEN: 61052, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 62 61113 | 1 61052 | 61052 61052 | 100.0 | PGRM01000093.1 m484291_9460_CCS
+
+CONTIG: m447361_8260_CCS (52225bp)
+Best alignment score: 52225.0 (LEN: 52225, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 284 52508 | 1 52225 | 52225 52225 | 100.0 | PGRM01000074.1 m447361_8260_CCS
+
+CONTIG: m191937_11861_CCS (62700bp)
+Best alignment score: 62700.0 (LEN: 62700, IDY: 100.00), Total number of alignments: 30
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4107582 4119090 | 49520 38012 | 11509 11509 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4131174 4135327 | 32581 28428 | 4154 4154 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4102164 4106077 | 54937 51024 | 3914 3914 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4128075 4131173 | 35681 32583 | 3099 3099 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4153137 4155846 | 10637 7928 | 2710 2710 | 99.96 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4119091 4121419 | 38010 35682 | 2329 2329 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4142416 4144546 | 21347 19217 | 2131 2131 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4096005 4098020 | 61094 59079 | 2016 2016 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4161315 4163115 | 2462 662 | 1801 1801 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4159570 4161313 | 4206 2463 | 1744 1744 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4135329 4136879 | 28427 26877 | 1551 1551 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4137232 4138714 | 26526 25044 | 1483 1483 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4139871 4141260 | 23888 22499 | 1390 1390 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4148945 4150142 | 14825 13628 | 1198 1198 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4158452 4159568 | 5323 4207 | 1117 1117 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4100721 4101676 | 56378 55423 | 956 956 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4151219 4152160 | 12553 11612 | 942 942 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4106788 4107581 | 50315 49522 | 794 794 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4146822 4147574 | 16945 16193 | 753 753 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4141261 4141972 | 22497 21786 | 712 712 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4139161 4139869 | 24597 23889 | 709 709 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4106079 4106786 | 51023 50316 | 708 708 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4098354 4099060 | 58744 58038 | 707 707 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4156214 4156920 | 7565 6859 | 707 707 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4148023 4148713 | 15747 15057 | 691 691 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4150239 4150881 | 13531 12889 | 643 643 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4144721 4145247 | 19042 18516 | 527 527 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4100201 4100719 | 56897 56379 | 519 519 | 100.0 | CM010544.1 m191937_11861_CCS
+			Skipping alignment 4099249 4099764 | 57847 57332 | 516 516 | 100.0 | CM010544.1 m191937_11861_CCS
+		One align captures most of this contig: 156 62855 | 1 62700 | 62700 62700 | 100.0 | PGRM01000009.1 m191937_11861_CCS
+
+CONTIG: m449651_4144_CCS (1349773bp)
+Best alignment score: 1349773.0 (LEN: 1349773, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 263 1350035 | 1 1349773 | 1349773 1349773 | 100.0 | CM010546.1 m449651_4144_CCS
+
+CONTIG: m265998_4500_CCS (522941bp)
+Best alignment score: 522941.0 (LEN: 522941, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1927330 2450270 | 1 522941 | 522941 522941 | 100.0 | CM010545.1 m265998_4500_CCS
+
+CONTIG: m475786_13554_CCS (16007bp)
+Best alignment score: 16007.0 (LEN: 16007, IDY: 100.00), Total number of alignments: 47
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 12211 28460 | 1 16007 | 16250 16007 | 98.42 | PGRM01000088.1 m475786_13554_CCS
+			Skipping alignment 52789 69038 | 1 16007 | 16250 16007 | 98.41 | PGRM01000022.1 m475786_13554_CCS
+			Skipping alignment 31058 46236 | 14938 1 | 15179 14938 | 98.41 | PGRM01000018.1 m475786_13554_CCS
+			Skipping alignment 4830 19948 | 14878 1 | 15119 14878 | 98.41 | PGRM01000025.1 m475786_13554_CCS
+			Skipping alignment 3835 18953 | 1 14878 | 15119 14878 | 98.41 | PGRM01000015.1 m475786_13554_CCS
+			Skipping alignment 24100 39744 | 1 14938 | 15645 14938 | 95.45 | PGRM01000088.1 m475786_13554_CCS
+			Skipping alignment 3461 17673 | 1 14878 | 14213 14878 | 95.09 | PGRM01000094.1 m475786_13554_CCS
+			Skipping alignment 27702 41466 | 1 13769 | 13765 13769 | 99.81 | PGRM01000028.1 m475786_13554_CCS
+			Skipping alignment 15588 29065 | 16007 2058 | 13478 13950 | 96.39 | PGRM01000025.1 m475786_13554_CCS
+			Skipping alignment 5629 18639 | 16007 3240 | 13011 12768 | 98.03 | PGRM01000027.1 m475786_13554_CCS
+			Skipping alignment 4992 18002 | 3240 16007 | 13011 12768 | 98.03 | PGRM01000037.1 m475786_13554_CCS
+			Skipping alignment 3514 16524 | 3240 16007 | 13011 12768 | 98.03 | PGRM01000020.1 m475786_13554_CCS
+			Skipping alignment 14062 26591 | 16007 3240 | 12530 12768 | 97.96 | PGRM01000045.1 m475786_13554_CCS
+			Skipping alignment 49689 62648 | 3291 16007 | 12960 12717 | 98.02 | PGRM01000020.1 m475786_13554_CCS
+			Skipping alignment 41876 54833 | 16007 3293 | 12958 12715 | 98.02 | PGRM01000018.1 m475786_13554_CCS
+			Skipping alignment 4280 16571 | 3240 16007 | 12292 12768 | 96.1 | PGRM01000088.1 m475786_13554_CCS
+			Skipping alignment 28119 40851 | 15716 3218 | 12733 12499 | 98.12 | PGRM01000049.1 m475786_13554_CCS
+			Skipping alignment 12164 24412 | 1 12249 | 12249 12249 | 100.0 | PGRM01000020.1 m475786_13554_CCS
+			Skipping alignment 6175 18422 | 12249 1 | 12248 12249 | 99.99 | PGRM01000045.1 m475786_13554_CCS
+			Skipping alignment 58195 70134 | 14938 3240 | 11940 11699 | 97.98 | PGRM01000018.1 m475786_13554_CCS
+			Skipping alignment 1607 13495 | 14938 3291 | 11889 11648 | 97.97 | PGRM01000021.1 m475786_13554_CCS
+			Skipping alignment 16968 28847 | 14878 3240 | 11880 11639 | 97.97 | PGRM01000016.1 m475786_13554_CCS
+			Skipping alignment 52 11790 | 14792 3291 | 11739 11502 | 97.91 | PGRM01000018.1 m475786_13554_CCS
+			Skipping alignment 15389 27452 | 14938 3291 | 12064 11648 | 96.54 | PGRM01000018.1 m475786_13554_CCS
+			Skipping alignment 24999 36157 | 3240 14878 | 11159 11639 | 95.85 | PGRM01000029.1 m475786_13554_CCS
+			Skipping alignment 33870 45016 | 12249 1103 | 11147 11147 | 99.97 | PGRM01000034.1 m475786_13554_CCS
+			Skipping alignment 5967 16679 | 1 10713 | 10713 10713 | 100.0 | PGRM01000029.1 m475786_13554_CCS
+			Skipping alignment 21437 31739 | 10303 1 | 10303 10303 | 99.99 | PGRM01000034.1 m475786_13554_CCS
+			Skipping alignment 42947 52974 | 3302 13067 | 10028 9766 | 97.2 | PGRM01000088.1 m475786_13554_CCS
+			Skipping alignment 25075 34764 | 12689 3240 | 9690 9450 | 97.49 | PGRM01000021.1 m475786_13554_CCS
+			Skipping alignment 12511 21541 | 3219 12249 | 9031 9031 | 100.0 | PGRM01000028.1 m475786_13554_CCS
+			Skipping alignment 8847 17856 | 12249 3240 | 9010 9010 | 100.0 | PGRM01000032.1 m475786_13554_CCS
+			Skipping alignment 16626 25635 | 3240 12249 | 9010 9010 | 100.0 | PGRM01000022.1 m475786_13554_CCS
+			Skipping alignment 12445 21454 | 12249 3240 | 9010 9010 | 100.0 | PGRM01000031.1 m475786_13554_CCS
+			Skipping alignment 31816 40710 | 3354 12249 | 8895 8896 | 99.92 | PGRM01000020.1 m475786_13554_CCS
+			Skipping alignment 55257 62859 | 10842 3240 | 7603 7603 | 100.0 | PGRM01000032.1 m475786_13554_CCS
+			Skipping alignment 16897 19571 | 12131 14805 | 2675 2675 | 100.0 | PGRM01000029.1 m475786_13554_CCS
+			Skipping alignment 13896 16453 | 14807 12250 | 2558 2558 | 100.0 | PGRM01000034.1 m475786_13554_CCS
+			Skipping alignment 25651 28070 | 12386 14805 | 2420 2420 | 100.0 | PGRM01000020.1 m475786_13554_CCS
+			Skipping alignment 16694 18639 | 12249 10304 | 1946 1946 | 100.0 | PGRM01000034.1 m475786_13554_CCS
+			Skipping alignment 53466 55256 | 13351 11561 | 1791 1791 | 99.94 | PGRM01000032.1 m475786_13554_CCS
+			Skipping alignment 9025 10388 | 14807 13444 | 1364 1364 | 100.0 | PGRM01000031.1 m475786_13554_CCS
+			Skipping alignment 52102 53465 | 14807 13444 | 1364 1364 | 100.0 | PGRM01000032.1 m475786_13554_CCS
+			Skipping alignment 10389 11490 | 13351 12250 | 1102 1102 | 100.0 | PGRM01000031.1 m475786_13554_CCS
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 64678 80684 | 1 16007 | 16007 16007 | 100.0 | PGRM01000022.1 m475786_13554_CCS
+			Skipping alignment 29493 45501 | 1 16007 | 16009 16007 | 99.89 | PGRM01000022.1 m475786_13554_CCS
+			Skipping alignment 41141 57149 | 1 16007 | 16009 16007 | 99.88 | PGRM01000022.1 m475786_13554_CCS
+
+CONTIG: m680275_18181_CCS (34099bp)
+Best alignment score: 34099.0 (LEN: 34099, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1340251 1374349 | 1 34099 | 34099 34099 | 100.0 | CM010546.1 m680275_18181_CCS
+			Skipping alignment 1352523 1386621 | 1 34099 | 34099 34099 | 99.98 | CM010546.1 m680275_18181_CCS
+
+CONTIG: m190343_8818_CCS (68422bp)
+Best alignment score: 68422.0 (LEN: 68422, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 123306 191727 | 1 68422 | 68422 68422 | 100.0 | CM010543.1 m190343_8818_CCS
+
+CONTIG: m490157_11842_CCS (24226bp)
+Best alignment score: 24226.0 (LEN: 24226, IDY: 100.00), Total number of alignments: 29
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 731 22815 | 24213 1508 | 22085 22706 | 96.41 | PGRM01000020.1 m490157_11842_CCS
+			Skipping alignment 9 21422 | 2174 24213 | 21414 22040 | 96.28 | PGRM01000027.1 m490157_11842_CCS
+			Skipping alignment 25724 37560 | 12390 24226 | 11837 11837 | 99.99 | PGRM01000021.1 m490157_11842_CCS
+			Skipping alignment 61094 72930 | 12390 24226 | 11837 11837 | 99.98 | PGRM01000018.1 m490157_11842_CCS
+			Skipping alignment 13830 25666 | 24226 12390 | 11837 11837 | 99.97 | PGRM01000022.1 m490157_11842_CCS
+			Skipping alignment 1484 11660 | 24226 14050 | 10177 10177 | 99.99 | PGRM01000088.1 m490157_11842_CCS
+			Skipping alignment 28305 38349 | 11463 1508 | 10045 9956 | 98.77 | PGRM01000028.1 m490157_11842_CCS
+			Skipping alignment 13805 22523 | 10564 1846 | 8719 8719 | 100.0 | PGRM01000088.1 m490157_11842_CCS
+			Skipping alignment 8110 16628 | 1846 10364 | 8519 8519 | 100.0 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 73618 81726 | 15197 23305 | 8109 8109 | 100.0 | PGRM01000032.1 m490157_11842_CCS
+			Skipping alignment 31087 38965 | 10564 2686 | 7879 7879 | 100.0 | PGRM01000022.1 m490157_11842_CCS
+			Skipping alignment 20358 28118 | 15197 22957 | 7761 7761 | 100.0 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 47813 54831 | 1846 8864 | 7019 7019 | 100.0 | PGRM01000018.1 m490157_11842_CCS
+			Skipping alignment 55855 62858 | 1915 8918 | 7004 7004 | 100.0 | PGRM01000032.1 m490157_11842_CCS
+			Skipping alignment 70843 73617 | 12421 15195 | 2775 2775 | 100.0 | PGRM01000032.1 m490157_11842_CCS
+			Skipping alignment 22540 24457 | 10365 12282 | 1918 1918 | 99.95 | PGRM01000021.1 m490157_11842_CCS
+			Skipping alignment 29421 30994 | 12138 10565 | 1574 1574 | 100.0 | PGRM01000022.1 m490157_11842_CCS
+			Skipping alignment 58191 59690 | 8865 10364 | 1500 1500 | 99.87 | PGRM01000018.1 m490157_11842_CCS
+			Skipping alignment 20973 22447 | 8890 10364 | 1475 1475 | 100.0 | PGRM01000021.1 m490157_11842_CCS
+			Skipping alignment 68213 69648 | 8929 10364 | 1436 1436 | 100.0 | PGRM01000032.1 m490157_11842_CCS
+			Skipping alignment 18988 20357 | 13826 15195 | 1370 1370 | 100.0 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 12379 13712 | 11898 10565 | 1334 1334 | 100.0 | PGRM01000088.1 m490157_11842_CCS
+			Skipping alignment 59783 61093 | 10365 11675 | 1311 1311 | 100.0 | PGRM01000018.1 m490157_11842_CCS
+			Skipping alignment 28119 29386 | 22959 24226 | 1268 1268 | 99.84 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 17823 18987 | 12421 13585 | 1165 1165 | 99.83 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 16721 17822 | 10365 11466 | 1102 1102 | 100.0 | PGRM01000045.1 m490157_11842_CCS
+			Skipping alignment 69741 70842 | 10365 11466 | 1102 1102 | 100.0 | PGRM01000032.1 m490157_11842_CCS
+			Skipping alignment 38966 39804 | 2684 1846 | 839 839 | 100.0 | PGRM01000022.1 m490157_11842_CCS
+		One align captures most of this contig: 25 24250 | 1 24226 | 24226 24226 | 100.0 | PGRM01000031.1 m490157_11842_CCS
+
+CONTIG: m630676_17176_CCS (39126bp)
+Best alignment score: 39126.0 (LEN: 39126, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 24986121 25025246 | 1 39126 | 39126 39126 | 100.0 | CM010543.1 m630676_17176_CCS
+
+CONTIG: m657079_3463_CCS (56847bp)
+Best alignment score: 56847.0 (LEN: 56847, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 204618 261464 | 1 56847 | 56847 56847 | 100.0 | CM010545.1 m657079_3463_CCS
+
+CONTIG: m608917_15048_CCS (2607535bp)
+Best alignment score: 2607535.0 (LEN: 2607535, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 24992284 27599818 | 1 2607535 | 2607535 2607535 | 100.0 | CM010544.1 m608917_15048_CCS
+
+CONTIG: m239598_4599_CCS (6493216bp)
+Best alignment score: 6493216.0 (LEN: 6493216, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3569240 10062455 | 1 6493216 | 6493216 6493216 | 100.0 | CM010543.1 m239598_4599_CCS
+
+CONTIG: m605986_7011_CCS (74986bp)
+Best alignment score: 74986.0 (LEN: 74986, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 29 75014 | 1 74986 | 74986 74986 | 100.0 | PGRM01000035.1 m605986_7011_CCS
+
+CONTIG: m666771_16049_CCS (41771bp)
+Best alignment score: 41771.0 (LEN: 41771, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1046 42816 | 1 41771 | 41771 41771 | 100.0 | PGRM01000016.1 m666771_16049_CCS
+
+CONTIG: m626388_8976_CCS (107050bp)
+Best alignment score: 107050.0 (LEN: 107050, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 108 107157 | 1 107050 | 107050 107050 | 100.0 | PGRM01000044.1 m626388_8976_CCS
+
+CONTIG: m485594_11395_CCS (38756bp)
+Best alignment score: 38756.0 (LEN: 38756, IDY: 100.00), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 60494 74555 | 24695 38756 | 14062 14062 | 99.97 | PGRM01000018.1 m485594_11395_CCS
+			Skipping alignment 55023 58175 | 17342 20494 | 3153 3153 | 99.94 | PGRM01000018.1 m485594_11395_CCS
+			Skipping alignment 58176 60493 | 20504 22821 | 2318 2318 | 100.0 | PGRM01000018.1 m485594_11395_CCS
+		One align captures most of this contig: 430 39185 | 1 38756 | 38756 38756 | 100.0 | PGRM01000021.1 m485594_11395_CCS
+
+CONTIG: m103234_9267_CCS (20804bp)
+Best alignment score: 20804.0 (LEN: 20804, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 64814 79494 | 5882 20804 | 14681 14923 | 98.34 | PGRM01000032.1 m103234_9267_CCS
+		One align captures most of this contig: 71 20874 | 1 20804 | 20804 20804 | 100.0 | PGRM01000017.1 m103234_9267_CCS
+
+CONTIG: m432735_9126_CCS (147622bp)
+Best alignment score: 147622.0 (LEN: 147622, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21355256 21502877 | 1 147622 | 147622 147622 | 100.0 | CM010542.1 m432735_9126_CCS
+
+CONTIG: m302965_15469_CCS (139437bp)
+Best alignment score: 139437.0 (LEN: 139437, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 64665 204101 | 1 139437 | 139437 139437 | 100.0 | CM010545.1 m302965_15469_CCS
+
+CONTIG: m610574_11093_CCS (169337bp)
+Best alignment score: 169337.0 (LEN: 169337, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 10 169346 | 1 169337 | 169337 169337 | 100.0 | PGRM01000030.1 m610574_11093_CCS
+
+CONTIG: m91734_6454_CCS (35965bp)
+Best alignment score: 35965.0 (LEN: 35965, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 106 36070 | 1 35965 | 35965 35965 | 100.0 | PGRM01000080.1 m91734_6454_CCS
+
+CONTIG: m489366_13823_CCS (520468bp)
+Best alignment score: 520468.0 (LEN: 520468, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 192009 712476 | 1 520468 | 520468 520468 | 100.0 | CM010543.1 m489366_13823_CCS
+
+CONTIG: m518165_5620_CCS (142873bp)
+Best alignment score: 142873.0 (LEN: 142873, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 366 143238 | 1 142873 | 142873 142873 | 100.0 | PGRM01000019.1 m518165_5620_CCS
+
+CONTIG: m382036_8953_CCS (49211bp)
+Best alignment score: 49211.0 (LEN: 49211, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 560 49770 | 1 49211 | 49211 49211 | 100.0 | PGRM01000064.1 m382036_8953_CCS
+
+CONTIG: m299892_8342_CCS (24984916bp)
+Best alignment score: 24984916.0 (LEN: 24984916, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 867 24985782 | 1 24984916 | 24984916 24984916 | 100.0 | CM010544.1 m299892_8342_CCS
+
+CONTIG: m382640_3943_CCS (871461bp)
+Best alignment score: 871461.0 (LEN: 871461, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3719242 4590702 | 1 871461 | 871461 871461 | 100.0 | CM010545.1 m382640_3943_CCS
+
+CONTIG: m245217_4592_CCS (36428bp)
+Best alignment score: 36428.0 (LEN: 36428, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 27843033 27879433 | 36428 1 | 36401 36428 | 97.34 | CM010544.1 m245217_4592_CCS
+		One align captures most of this contig: 459 36886 | 1 36428 | 36428 36428 | 100.0 | PGRM01000058.1 m245217_4592_CCS
+
+CONTIG: m120634_16361_CCS (125245bp)
+Best alignment score: 125245.0 (LEN: 125245, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27600549 27725793 | 1 125245 | 125245 125245 | 100.0 | CM010544.1 m120634_16361_CCS
+
+CONTIG: m133083_10158_CCS (28588bp)
+Best alignment score: 28588.0 (LEN: 28588, IDY: 100.00), Total number of alignments: 19
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 188747 190576 | 15623 17452 | 1830 1830 | 99.78 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 186581 188149 | 13454 15022 | 1569 1569 | 99.81 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 178016 179218 | 4486 5688 | 1203 1203 | 99.83 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 190578 191742 | 17453 18617 | 1165 1165 | 99.83 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 183807 184971 | 10273 11437 | 1165 1165 | 99.57 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 182278 183315 | 8700 9737 | 1038 1038 | 98.94 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 192290 193313 | 19177 20200 | 1024 1024 | 99.41 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 185537 186274 | 11978 12715 | 738 738 | 99.73 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 179655 180393 | 6107 6845 | 739 739 | 99.19 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 195529 196266 | 22656 23393 | 738 738 | 98.78 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 188150 188746 | 15025 15621 | 597 597 | 99.33 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 176125 176693 | 2892 3460 | 569 569 | 99.65 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 198713 199273 | 25935 26495 | 561 561 | 99.64 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 175567 176124 | 2333 2890 | 558 558 | 99.82 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 191743 192289 | 18622 19168 | 547 547 | 99.82 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 198039 198581 | 25273 25815 | 543 543 | 99.45 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 177151 177684 | 3952 4485 | 534 534 | 97.75 | CM010545.1 m133083_10158_CCS
+			Skipping alignment 173518 174017 | 268 767 | 500 500 | 99.2 | CM010545.1 m133083_10158_CCS
+		One align captures most of this contig: 251 28838 | 1 28588 | 28588 28588 | 100.0 | PGRM01000040.1 m133083_10158_CCS
+
+CONTIG: m399018_9660_CCS (43740bp)
+Best alignment score: 43740.0 (LEN: 43740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 163 43902 | 1 43740 | 43740 43740 | 100.0 | PGRM01000065.1 m399018_9660_CCS
+
+CONTIG: m182591_12402_CCS (54119bp)
+Best alignment score: 54119.0 (LEN: 54119, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 620 54738 | 1 54119 | 54119 54119 | 100.0 | PGRM01000066.1 m182591_12402_CCS
+
+CONTIG: m683885_7660_CCS (155806bp)
+Best alignment score: 155806.0 (LEN: 155806, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 127 155932 | 1 155806 | 155806 155806 | 100.0 | PGRM01000023.1 m683885_7660_CCS
+
+CONTIG: m639582_13394_CCS (26434bp)
+Best alignment score: 26434.0 (LEN: 26434, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 53 26486 | 1 26434 | 26434 26434 | 100.0 | PGRM01000078.1 m639582_13394_CCS
+
+CONTIG: m247440_6069_CCS (1154112bp)
+Best alignment score: 1149149.3 (LEN: 1154112, IDY: 99.57), Total number of alignments: 1
+		One align captures most of this contig: 318480 1477713 | 1 1154112 | 1159234 1154112 | 99.57 | CM010545.1 m247440_6069_CCS
+
+CONTIG: m214852_11564_CCS (41285bp)
+Best alignment score: 41285.0 (LEN: 41285, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 117 41401 | 1 41285 | 41285 41285 | 100.0 | PGRM01000028.1 m214852_11564_CCS
+
+CONTIG: m222392_7248_CCS (45111bp)
+Best alignment score: 45111.0 (LEN: 45111, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 293 45403 | 1 45111 | 45111 45111 | 100.0 | PGRM01000086.1 m222392_7248_CCS
+
+CONTIG: m208431_1645_CCS (28031bp)
+Best alignment score: 28031.0 (LEN: 28031, IDY: 100.00), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 58158 82042 | 1 23894 | 23885 23894 | 99.89 | PGRM01000014.1 m208431_1645_CCS
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 58 28088 | 1 28031 | 28031 28031 | 100.0 | PGRM01000014.1 m208431_1645_CCS
+			Skipping alignment 14716303 14744322 | 1 28031 | 28020 28031 | 99.9 | CM010541.1 m208431_1645_CCS
+			Skipping alignment 14658302 14686251 | 1 28031 | 27950 28031 | 99.62 | CM010541.1 m208431_1645_CCS
+
+CONTIG: m70798_10228_CCS (44707bp)
+Best alignment score: 44707.0 (LEN: 44707, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 28 44734 | 1 44707 | 44707 44707 | 100.0 | PGRM01000061.1 m70798_10228_CCS
+
+CONTIG: m124886_14166_CCS (31036bp)
+Best alignment score: 31036.0 (LEN: 31036, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 9356 40391 | 1 31036 | 31036 31036 | 100.0 | PGRM01000017.1 m124886_14166_CCS
+
+CONTIG: m70545_10910_CCS (46000bp)
+Best alignment score: 46000.0 (LEN: 46000, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 221 46220 | 1 46000 | 46000 46000 | 100.0 | PGRM01000048.1 m70545_10910_CCS
+
+CONTIG: m298145_8271_CCS (37678bp)
+Best alignment score: 37678.0 (LEN: 37678, IDY: 100.00), Total number of alignments: 38
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 9 28853 | 8364 36723 | 28845 28360 | 98.17 | PGRM01000027.1 m298145_8271_CCS
+			Skipping alignment 29036 38965 | 18805 8876 | 9930 9930 | 99.99 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 46310 54831 | 6533 15054 | 8522 8522 | 100.0 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 1870 10388 | 8036 16554 | 8519 8519 | 100.0 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 15097 22859 | 28046 20284 | 7763 7763 | 99.99 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 15221 22981 | 20284 28044 | 7761 7761 | 100.0 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 56626 64386 | 20284 28044 | 7761 7761 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 28531 36291 | 20284 28044 | 7761 7761 | 100.0 | PGRM01000021.1 m298145_8271_CCS
+			Skipping alignment 63901 71661 | 20284 28044 | 7761 7761 | 99.97 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 7585 12767 | 35556 30374 | 5183 5183 | 99.88 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 26364 30492 | 31427 35555 | 4129 4129 | 99.98 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 38623 42704 | 30374 34455 | 4082 4082 | 99.85 | PGRM01000021.1 m298145_8271_CCS
+			Skipping alignment 58191 61797 | 15055 18661 | 3607 3607 | 99.92 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 20973 24554 | 15080 18661 | 3582 3582 | 99.97 | PGRM01000021.1 m298145_8271_CCS
+			Skipping alignment 43265 46674 | 11699 15108 | 3410 3410 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 43007 46309 | 646 3948 | 3303 3303 | 100.0 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 67654 70842 | 31311 34499 | 3189 3189 | 99.97 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 22983 25311 | 28045 30373 | 2329 2329 | 99.91 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 64388 66716 | 28045 30373 | 2329 2329 | 99.91 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 71663 73991 | 28045 30373 | 2329 2329 | 99.87 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 36293 38621 | 28045 30373 | 2329 2329 | 99.87 | PGRM01000021.1 m298145_8271_CCS
+			Skipping alignment 12769 15095 | 30373 28047 | 2327 2327 | 99.79 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 75044 77002 | 31427 33385 | 1959 1959 | 99.95 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 10389 12307 | 16647 18565 | 1919 1919 | 100.0 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 53466 55256 | 16647 18437 | 1791 1791 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 52030 53465 | 15119 16554 | 1436 1436 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 13850 15219 | 18914 20283 | 1370 1370 | 100.0 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 62530 63899 | 18914 20283 | 1370 1370 | 100.0 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 27160 28529 | 18914 20283 | 1370 1370 | 100.0 | PGRM01000021.1 m298145_8271_CCS
+			Skipping alignment 55257 56624 | 18916 20283 | 1368 1368 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 22861 24227 | 20283 18917 | 1367 1367 | 100.0 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 38966 40111 | 8874 7729 | 1146 1146 | 100.0 | PGRM01000022.1 m298145_8271_CCS
+			Skipping alignment 66718 67653 | 30374 31309 | 936 936 | 99.57 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 73993 74928 | 30374 31309 | 936 936 | 99.57 | PGRM01000018.1 m298145_8271_CCS
+			Skipping alignment 25313 26248 | 30374 31309 | 936 936 | 99.36 | PGRM01000031.1 m298145_8271_CCS
+			Skipping alignment 70843 71658 | 34740 35555 | 816 816 | 100.0 | PGRM01000032.1 m298145_8271_CCS
+			Skipping alignment 40829 41571 | 6532 5790 | 743 743 | 99.87 | PGRM01000022.1 m298145_8271_CCS
+		One align captures most of this contig: 75 37752 | 1 37678 | 37678 37678 | 100.0 | PGRM01000045.1 m298145_8271_CCS
+
+CONTIG: m94698_11926_CCS (45364bp)
+Best alignment score: 45364.0 (LEN: 45364, IDY: 100.00), Total number of alignments: 11
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 44761 70134 | 17277 42896 | 25374 25620 | 99.0 | PGRM01000018.1 m94698_11926_CCS
+			Skipping alignment 12935 24652 | 45364 33647 | 11718 11718 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 49689 60745 | 11689 633 | 11057 11057 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 31816 39109 | 27288 19995 | 7294 7294 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 28205 31808 | 30953 27350 | 3604 3604 | 99.92 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 46555 49688 | 15287 12154 | 3134 3134 | 99.94 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 42022 44748 | 19994 17268 | 2727 2727 | 99.96 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 25651 28204 | 33510 30957 | 2554 2554 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 44749 46553 | 17092 15288 | 1805 1805 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+			Skipping alignment 60747 61258 | 632 121 | 512 512 | 100.0 | PGRM01000020.1 m94698_11926_CCS
+		One align captures most of this contig: 102 45465 | 1 45364 | 45364 45364 | 100.0 | PGRM01000018.1 m94698_11926_CCS
+
+CONTIG: m477759_3399_CCS (52160bp)
+Best alignment score: 52160.0 (LEN: 52160, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 317 52476 | 1 52160 | 52160 52160 | 100.0 | PGRM01000067.1 m477759_3399_CCS
+
+CONTIG: m261994_14269_CCS (30048bp)
+Best alignment score: 30048.0 (LEN: 30048, IDY: 100.00), Total number of alignments: 32
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 15389 42997 | 1964 29151 | 27609 27188 | 98.44 | PGRM01000018.1 m261994_14269_CCS
+			Skipping alignment 52 27452 | 2111 29100 | 27401 26990 | 98.44 | PGRM01000018.1 m261994_14269_CCS
+			Skipping alignment 56079 69930 | 13852 1 | 13852 13852 | 99.99 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 15501 29352 | 13852 1 | 13852 13852 | 99.99 | PGRM01000088.1 m261994_14269_CCS
+			Skipping alignment 49691 63540 | 13850 1 | 13850 13850 | 100.0 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 2617 15453 | 30048 17212 | 12837 12837 | 99.98 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 1607 13492 | 1964 13849 | 11886 11886 | 100.0 | PGRM01000021.1 m261994_14269_CCS
+			Skipping alignment 25378 35661 | 19765 30048 | 10284 10284 | 99.97 | PGRM01000021.1 m261994_14269_CCS
+			Skipping alignment 15454 24652 | 13852 4654 | 9199 9199 | 99.98 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 15729 24484 | 30048 21293 | 8756 8756 | 99.99 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 3383 11660 | 30048 21771 | 8278 8278 | 99.96 | PGRM01000088.1 m261994_14269_CCS
+			Skipping alignment 31816 39109 | 29037 21744 | 7294 7294 | 100.0 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 44380 50613 | 29151 22918 | 6234 6234 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 32732 38965 | 29151 22918 | 6234 6234 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 44431 50613 | 13852 7670 | 6183 6183 | 99.97 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 32783 38965 | 13852 7670 | 6183 6183 | 99.97 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 52957 58041 | 5085 1 | 5085 5085 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 41309 46393 | 5085 1 | 5085 5085 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 42022 46553 | 21743 17212 | 4532 4532 | 100.0 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 28702 32782 | 21292 17212 | 4081 4081 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 12139 15500 | 20573 17212 | 3362 3362 | 100.0 | PGRM01000088.1 m261994_14269_CCS
+			Skipping alignment 46560 49690 | 17211 14081 | 3131 3131 | 99.94 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 52957 56078 | 20333 17212 | 3122 3122 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 41309 44430 | 20333 17212 | 3122 3122 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 18186 20923 | 14455 17192 | 2738 2738 | 99.96 | PGRM01000021.1 m261994_14269_CCS
+			Skipping alignment 20933 23504 | 17193 19764 | 2572 2572 | 100.0 | PGRM01000021.1 m261994_14269_CCS
+			Skipping alignment 25651 28204 | 4517 1964 | 2554 2554 | 100.0 | PGRM01000020.1 m261994_14269_CCS
+			Skipping alignment 50614 52956 | 22916 20574 | 2343 2343 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 38966 41308 | 22916 20574 | 2343 2343 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 50614 52956 | 7668 5326 | 2343 2343 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+			Skipping alignment 38966 41308 | 7668 5326 | 2343 2343 | 100.0 | PGRM01000022.1 m261994_14269_CCS
+		One align captures most of this contig: 40984 71031 | 1 30048 | 30048 30048 | 100.0 | PGRM01000018.1 m261994_14269_CCS
+
+CONTIG: m507601_8041_CCS (12904bp)
+Best alignment score: 12904.0 (LEN: 12904, IDY: 100.00), Total number of alignments: 69
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 47275 59940 | 1 12904 | 12666 12904 | 98.09 | PGRM01000022.1 m507601_8041_CCS
+			Skipping alignment 35627 48292 | 1 12904 | 12666 12904 | 98.09 | PGRM01000022.1 m507601_8041_CCS
+			Skipping alignment 11271 23696 | 12904 1 | 12426 12904 | 96.2 | PGRM01000045.1 m507601_8041_CCS
+			Skipping alignment 7887 20307 | 1 12418 | 12421 12418 | 99.95 | PGRM01000037.1 m507601_8041_CCS
+			Skipping alignment 28119 37934 | 9823 1 | 9816 9823 | 95.25 | PGRM01000049.1 m507601_8041_CCS
+			Skipping alignment 2287 11271 | 1 8982 | 8985 8982 | 99.93 | PGRM01000022.1 m507601_8041_CCS
+			Skipping alignment 9969 18953 | 1 8982 | 8985 8982 | 99.93 | PGRM01000015.1 m507601_8041_CCS
+			Skipping alignment 16968 25952 | 8982 1 | 8985 8982 | 99.93 | PGRM01000016.1 m507601_8041_CCS
+			Skipping alignment 23994 32979 | 8982 1 | 8986 8982 | 99.88 | PGRM01000027.1 m507601_8041_CCS
+			Skipping alignment 27844 36644 | 4100 12904 | 8801 8805 | 99.83 | PGRM01000022.1 m507601_8041_CCS
+			Skipping alignment 58191 66957 | 9046 280 | 8767 8767 | 99.98 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 31058 39820 | 9042 280 | 8763 8763 | 100.0 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 68213 76956 | 8982 1 | 8744 8982 | 97.25 | PGRM01000032.1 m507601_8041_CCS
+			Skipping alignment 30234 39744 | 1 9042 | 9511 9042 | 95.0 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 52988 61381 | 4511 12904 | 8394 8394 | 100.0 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 26533 34849 | 4584 12904 | 8317 8321 | 99.74 | PGRM01000028.1 m507601_8041_CCS
+			Skipping alignment 34202 42394 | 8982 549 | 8193 8434 | 97.1 | PGRM01000016.1 m507601_8041_CCS
+			Skipping alignment 12797 20179 | 12904 5522 | 7383 7383 | 100.0 | PGRM01000025.1 m507601_8041_CCS
+			Skipping alignment 31492 38732 | 12904 5664 | 7241 7241 | 100.0 | PGRM01000024.1 m507601_8041_CCS
+			Skipping alignment 12139 19362 | 5681 12904 | 7224 7224 | 100.0 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 17247 24326 | 7359 280 | 7080 7080 | 99.99 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 24588 30987 | 12904 6505 | 6400 6400 | 100.0 | PGRM01000034.1 m507601_8041_CCS
+			Skipping alignment 33478 39702 | 6504 280 | 6225 6225 | 99.98 | PGRM01000034.1 m507601_8041_CCS
+			Skipping alignment 25378 31587 | 6489 280 | 6210 6210 | 99.98 | PGRM01000021.1 m507601_8041_CCS
+			Skipping alignment 18580 24652 | 280 6352 | 6073 6073 | 100.0 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 12414 18277 | 6143 280 | 5864 5864 | 100.0 | PGRM01000031.1 m507601_8041_CCS
+			Skipping alignment 5031 10388 | 12904 7547 | 5358 5358 | 100.0 | PGRM01000031.1 m507601_8041_CCS
+			Skipping alignment 39930 45068 | 5663 525 | 5139 5139 | 100.0 | PGRM01000024.1 m507601_8041_CCS
+			Skipping alignment 23211 28092 | 8982 4100 | 4882 4883 | 99.98 | PGRM01000032.1 m507601_8041_CCS
+			Skipping alignment 26807 31685 | 8982 4100 | 4879 4883 | 99.88 | PGRM01000031.1 m507601_8041_CCS
+			Skipping alignment 13764 18639 | 9042 4167 | 4876 4876 | 100.0 | PGRM01000034.1 m507601_8041_CCS
+			Skipping alignment 3080 7761 | 280 4961 | 4682 4682 | 99.98 | PGRM01000036.1 m507601_8041_CCS
+			Skipping alignment 42022 46553 | 4511 9042 | 4532 4532 | 100.0 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 20180 24702 | 4802 280 | 4523 4523 | 99.98 | PGRM01000025.1 m507601_8041_CCS
+			Skipping alignment 55168 59682 | 4794 280 | 4515 4515 | 99.98 | PGRM01000032.1 m507601_8041_CCS
+			Skipping alignment 6874 11299 | 280 4705 | 4426 4426 | 100.0 | PGRM01000041.1 m507601_8041_CCS
+			Skipping alignment 33175 37600 | 4705 280 | 4426 4426 | 99.98 | PGRM01000017.1 m507601_8041_CCS
+			Skipping alignment 12383 16679 | 280 4576 | 4297 4297 | 100.0 | PGRM01000029.1 m507601_8041_CCS
+			Skipping alignment 46085 50315 | 280 4510 | 4231 4231 | 100.0 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 7457 11660 | 280 4483 | 4204 4204 | 99.98 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 12632 16668 | 4316 280 | 4037 4037 | 99.98 | PGRM01000049.1 m507601_8041_CCS
+			Skipping alignment 71017 74986 | 369 4338 | 3970 3970 | 99.92 | PGRM01000087.1 m507601_8041_CCS
+			Skipping alignment 21437 25323 | 4166 280 | 3887 3887 | 99.97 | PGRM01000034.1 m507601_8041_CCS
+			Skipping alignment 23608 27452 | 12887 9043 | 3845 3845 | 100.0 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 7946 11790 | 12887 9043 | 3845 3845 | 100.0 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 49689 53533 | 9043 12887 | 3845 3845 | 100.0 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 81292 85137 | 9042 12887 | 3846 3846 | 99.9 | PGRM01000087.1 m507601_8041_CCS
+			Skipping alignment 50991 54831 | 12887 9047 | 3841 3841 | 100.0 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 8922 12631 | 8982 5273 | 3710 3710 | 100.0 | PGRM01000049.1 m507601_8041_CCS
+			Skipping alignment 29377 33085 | 8982 5274 | 3709 3709 | 99.89 | PGRM01000017.1 m507601_8041_CCS
+			Skipping alignment 11645 15091 | 5536 8982 | 3447 3447 | 99.97 | PGRM01000041.1 m507601_8041_CCS
+			Skipping alignment 8194 11159 | 6017 8982 | 2966 2966 | 99.97 | PGRM01000036.1 m507601_8041_CCS
+			Skipping alignment 16897 19645 | 6234 8982 | 2749 2749 | 100.0 | PGRM01000029.1 m507601_8041_CCS
+			Skipping alignment 25651 28204 | 6489 9042 | 2554 2554 | 100.0 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 20952 23504 | 9042 6490 | 2553 2553 | 100.0 | PGRM01000021.1 m507601_8041_CCS
+			Skipping alignment 75709 77676 | 7074 9041 | 1968 1968 | 99.95 | PGRM01000087.1 m507601_8041_CCS
+			Skipping alignment 53466 55167 | 7454 5753 | 1702 1702 | 100.0 | PGRM01000032.1 m507601_8041_CCS
+			Skipping alignment 15389 17071 | 9042 7360 | 1683 1683 | 100.0 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 52030 53465 | 8982 7547 | 1436 1436 | 100.0 | PGRM01000032.1 m507601_8041_CCS
+			Skipping alignment 42658 44093 | 8982 7547 | 1436 1436 | 100.0 | PGRM01000039.1 m507601_8041_CCS
+			Skipping alignment 10389 11699 | 7454 6144 | 1311 1311 | 100.0 | PGRM01000031.1 m507601_8041_CCS
+			Skipping alignment 74987 75708 | 6256 6977 | 722 722 | 99.86 | PGRM01000087.1 m507601_8041_CCS
+		This contig has 7 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 215 13118 | 1 12904 | 12904 12904 | 100.0 | PGRM01000029.1 m507601_8041_CCS
+			Skipping alignment 18345 31251 | 1 12904 | 12907 12904 | 99.95 | PGRM01000088.1 m507601_8041_CCS
+			Skipping alignment 6409 19315 | 1 12904 | 12907 12904 | 99.95 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 58923 71829 | 1 12904 | 12907 12904 | 99.95 | PGRM01000022.1 m507601_8041_CCS
+			Skipping alignment 52533 65439 | 1 12904 | 12907 12904 | 99.95 | PGRM01000020.1 m507601_8041_CCS
+			Skipping alignment 39085 51991 | 12904 1 | 12907 12904 | 99.95 | PGRM01000018.1 m507601_8041_CCS
+			Skipping alignment 2838 15744 | 12904 1 | 12907 12904 | 99.95 | PGRM01000027.1 m507601_8041_CCS
+
+CONTIG: m495619_21353_CCS (29694bp)
+Best alignment score: 29691.0 (LEN: 29694, IDY: 99.99), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1340690 1370382 | 1 29694 | 29693 29694 | 99.99 | CM010546.1 m495619_21353_CCS
+			Skipping alignment 1352962 1382654 | 1 29694 | 29693 29694 | 99.99 | CM010546.1 m495619_21353_CCS
+
+CONTIG: m22373_12560_CCS (1912682bp)
+Best alignment score: 1912682.0 (LEN: 1912682, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1656021 3568702 | 1 1912682 | 1912682 1912682 | 100.0 | CM010543.1 m22373_12560_CCS
+
+CONTIG: m45182_10833_CCS (78958bp)
+Best alignment score: 78958.0 (LEN: 78958, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 30 78987 | 1 78958 | 78958 78958 | 100.0 | PGRM01000050.1 m45182_10833_CCS
+
+CONTIG: m104291_7268_CCS (86528bp)
+Best alignment score: 86528.0 (LEN: 86528, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 142 86669 | 1 86528 | 86528 86528 | 100.0 | PGRM01000087.1 m104291_7268_CCS
+
+CONTIG: m657043_19193_CCS (24146bp)
+Best alignment score: 24146.0 (LEN: 24146, IDY: 100.00), Total number of alignments: 81
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 191897 215478 | 23593 1 | 23582 23593 | 99.84 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 33 22853 | 1333 24146 | 22821 22814 | 99.88 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 199954 222741 | 24146 1333 | 22788 22814 | 99.72 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 7323 29761 | 1 22442 | 22439 22442 | 99.92 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 191897 213754 | 21875 1 | 21858 21875 | 99.88 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 162996 184499 | 22034 1 | 21504 22034 | 97.4 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 33 21129 | 3057 24146 | 21097 21090 | 99.87 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 201678 222741 | 24146 3057 | 21064 21090 | 99.7 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 9047 29761 | 1 20719 | 20715 20719 | 99.92 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 191959 212030 | 20089 1 | 20072 20089 | 99.9 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 191959 210306 | 18366 1 | 18348 18366 | 99.89 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 175254 185960 | 12694 1988 | 10707 10707 | 99.86 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 175254 185960 | 14418 3712 | 10707 10707 | 99.86 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 175254 185960 | 16142 5436 | 10707 10707 | 99.86 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 175254 185960 | 17866 7160 | 10707 10707 | 99.86 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 175725 185960 | 19119 8884 | 10236 10236 | 99.85 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 195191 202156 | 13398 6433 | 6966 6966 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 195191 202156 | 11674 4709 | 6966 6966 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 195191 201692 | 6502 1 | 6502 6502 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 167639 172846 | 19119 13912 | 5208 5208 | 99.92 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 180897 185960 | 19119 14056 | 5064 5064 | 99.94 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 169363 172846 | 19119 15636 | 3484 3484 | 99.91 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 203339 206785 | 5247 1801 | 3447 3447 | 99.97 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 203339 206785 | 3523 77 | 3447 3447 | 99.97 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 166993 169361 | 21488 19120 | 2369 2369 | 99.96 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 181975 184343 | 21488 19120 | 2369 2369 | 99.96 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 168717 171085 | 21488 19120 | 2369 2369 | 99.92 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 170441 172809 | 21488 19120 | 2369 2369 | 99.87 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 165269 167637 | 21488 19120 | 2369 2369 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 178527 180895 | 21488 19120 | 2369 2369 | 99.79 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 192928 195190 | 8775 6513 | 2263 2263 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 192928 195190 | 15671 13409 | 2263 2263 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 192928 195190 | 13947 11685 | 2263 2263 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 183699 185960 | 21488 19227 | 2262 2262 | 99.96 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 171087 172846 | 19119 17360 | 1760 1760 | 99.89 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 206786 208508 | 1799 77 | 1723 1723 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 184345 185960 | 19119 17504 | 1616 1616 | 99.94 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 1986 796 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 3710 2520 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 5434 4244 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 14054 12864 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 7158 5968 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 17502 16312 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 185961 187151 | 8882 7692 | 1191 1191 | 99.83 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 186068 187151 | 19119 18036 | 1084 1084 | 99.82 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 167639 168715 | 22565 21489 | 1077 1077 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 169363 170439 | 22565 21489 | 1077 1077 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 164191 165267 | 22565 21489 | 1077 1077 | 99.91 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 182621 183697 | 22565 21489 | 1077 1077 | 99.91 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 180897 181973 | 22565 21489 | 1077 1077 | 99.91 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 171087 172163 | 22565 21489 | 1077 1077 | 99.81 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 177449 178525 | 22565 21489 | 1077 1077 | 99.72 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 165915 166991 | 22565 21489 | 1077 1077 | 99.63 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 202157 203019 | 6431 5569 | 863 863 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 202157 203019 | 4707 3845 | 863 863 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172165 172846 | 21488 20807 | 682 682 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 167953 168614 | 23969 23308 | 662 662 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 169677 170338 | 23969 23308 | 662 662 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 164505 165166 | 23969 23308 | 662 662 | 99.85 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 181211 181872 | 23969 23308 | 662 662 | 99.85 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 166229 166890 | 23969 23308 | 662 662 | 99.4 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 176039 176700 | 23969 23308 | 662 662 | 99.4 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 179487 180146 | 23969 23310 | 660 660 | 99.7 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 173427 174043 | 13311 12695 | 617 617 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 173427 174043 | 15035 14419 | 617 617 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 173427 174043 | 16759 16143 | 617 617 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 173427 174043 | 18483 17867 | 617 617 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 173427 174043 | 20206 19590 | 617 617 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172847 173425 | 13890 13312 | 579 579 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172847 173425 | 15614 15036 | 579 579 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172847 173425 | 17338 16760 | 579 579 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172847 173425 | 19062 18484 | 579 579 | 100.0 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 172847 173425 | 20785 20207 | 579 579 | 100.0 | CM010543.1 m657043_19193_CCS
+		This contig has 8 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 5599 29744 | 1 24146 | 24146 24146 | 100.0 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 2153 26300 | 1 24146 | 24148 24146 | 99.93 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 3875 28023 | 1 24146 | 24149 24146 | 99.92 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 427 24577 | 1 24146 | 24151 24146 | 99.9 | PGRM01000085.1 m657043_19193_CCS
+			Skipping alignment 196506 220626 | 24146 1 | 24121 24146 | 99.75 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 198230 222349 | 24146 1 | 24120 24146 | 99.74 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 193068 217178 | 24146 1 | 24111 24146 | 99.73 | CM010543.1 m657043_19193_CCS
+			Skipping alignment 194792 218902 | 24146 1 | 24111 24146 | 99.72 | CM010543.1 m657043_19193_CCS
+
+CONTIG: m520120_14047_CCS (17363bp)
+Best alignment score: 17363.0 (LEN: 17363, IDY: 100.00), Total number of alignments: 8
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1361458 1374027 | 1 12570 | 12570 12570 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1338593 1349484 | 1679 12570 | 10892 10892 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1349187 1355618 | 1 6432 | 6432 6432 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1355783 1361298 | 6599 12114 | 5516 5516 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1375538 1380330 | 12571 17363 | 4793 4793 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1363266 1368058 | 12571 17363 | 4793 4793 | 100.0 | CM010546.1 m520120_14047_CCS
+			Skipping alignment 1350995 1355618 | 12571 17194 | 4624 4624 | 100.0 | CM010546.1 m520120_14047_CCS
+		One align captures most of this contig: 1373730 1391092 | 1 17363 | 17363 17363 | 100.0 | CM010546.1 m520120_14047_CCS
+
+CONTIG: m104351_10815_CCS (64589bp)
+Best alignment score: 64589.0 (LEN: 64589, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 81 64669 | 1 64589 | 64589 64589 | 100.0 | PGRM01000056.1 m104351_10815_CCS
+
+CONTIG: m127620_2694_CCS (14401444bp)
+Best alignment score: 14401444.0 (LEN: 14401444, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 148 14401591 | 1 14401444 | 14401444 14401444 | 100.0 | CM010541.1 m127620_2694_CCS
+
+CONTIG: m53624_7954_CCS (547800bp)
+Best alignment score: 547800.0 (LEN: 547800, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 712775 1260574 | 1 547800 | 547800 547800 | 100.0 | CM010543.1 m53624_7954_CCS
+
+CONTIG: m204195_5872_CCS (90803bp)
+Best alignment score: 90803.0 (LEN: 90803, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 431 91233 | 1 90803 | 90803 90803 | 100.0 | PGRM01000051.1 m204195_5872_CCS
+
+CONTIG: m340548_8674_CCS (8674bp)
+Best alignment score: 8674.0 (LEN: 8674, IDY: 100.00), Total number of alignments: 51
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4012 12461 | 1 8455 | 8450 8455 | 99.93 | PGRM01000041.1 m340548_8674_CCS
+			Skipping alignment 17823 26276 | 8455 1 | 8454 8455 | 99.91 | PGRM01000045.1 m340548_8674_CCS
+			Skipping alignment 28532 36988 | 8455 1 | 8457 8455 | 99.83 | PGRM01000039.1 m340548_8674_CCS
+			Skipping alignment 1016 9915 | 8664 1 | 8900 8664 | 97.29 | PGRM01000034.1 m340548_8674_CCS
+			Skipping alignment 32038 40461 | 8664 1 | 8424 8664 | 97.21 | PGRM01000017.1 m340548_8674_CCS
+			Skipping alignment 25314 33527 | 1 8215 | 8214 8215 | 99.99 | PGRM01000029.1 m340548_8674_CCS
+			Skipping alignment 19349 27564 | 8215 1 | 8216 8215 | 99.91 | PGRM01000025.1 m340548_8674_CCS
+			Skipping alignment 4595 12810 | 1 8215 | 8216 8215 | 99.87 | PGRM01000088.1 m340548_8674_CCS
+			Skipping alignment 54568 62544 | 7975 1 | 7977 7975 | 99.87 | PGRM01000032.1 m340548_8674_CCS
+			Skipping alignment 27489 35089 | 7601 1 | 7601 7601 | 100.0 | PGRM01000024.1 m340548_8674_CCS
+			Skipping alignment 9521 17015 | 1 7496 | 7495 7496 | 99.93 | PGRM01000029.1 m340548_8674_CCS
+			Skipping alignment 1532 8628 | 7098 1 | 7097 7098 | 99.89 | PGRM01000031.1 m340548_8674_CCS
+			Skipping alignment 17453 24389 | 1 6937 | 6937 6937 | 99.99 | PGRM01000036.1 m340548_8674_CCS
+		This contig has 38 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 57784 66457 | 1 8674 | 8674 8674 | 100.0 | PGRM01000088.1 m340548_8674_CCS
+			Skipping alignment 45908 54571 | 8664 1 | 8664 8664 | 100.0 | PGRM01000018.1 m340548_8674_CCS
+			Skipping alignment 56343 65006 | 1 8664 | 8664 8664 | 100.0 | PGRM01000022.1 m340548_8674_CCS
+			Skipping alignment 12847 21510 | 1 8664 | 8664 8664 | 100.0 | PGRM01000028.1 m340548_8674_CCS
+			Skipping alignment 49953 58616 | 1 8664 | 8664 8664 | 100.0 | PGRM01000020.1 m340548_8674_CCS
+			Skipping alignment 61156 69819 | 8664 1 | 8664 8664 | 100.0 | PGRM01000018.1 m340548_8674_CCS
+			Skipping alignment 34019 42682 | 8664 1 | 8664 8664 | 100.0 | PGRM01000018.1 m340548_8674_CCS
+			Skipping alignment 68232 76895 | 1 8664 | 8664 8664 | 100.0 | PGRM01000022.1 m340548_8674_CCS
+			Skipping alignment 5307 13970 | 1 8664 | 8664 8664 | 100.0 | PGRM01000037.1 m340548_8674_CCS
+			Skipping alignment 7389 16052 | 1 8664 | 8664 8664 | 100.0 | PGRM01000015.1 m340548_8674_CCS
+			Skipping alignment 24623 33286 | 1 8664 | 8664 8664 | 100.0 | PGRM01000015.1 m340548_8674_CCS
+			Skipping alignment 12476 21139 | 8664 1 | 8664 8664 | 100.0 | PGRM01000031.1 m340548_8674_CCS
+			Skipping alignment 18525 27188 | 8664 1 | 8664 8664 | 100.0 | PGRM01000018.1 m340548_8674_CCS
+			Skipping alignment 7731 16394 | 8664 1 | 8664 8664 | 100.0 | PGRM01000025.1 m340548_8674_CCS
+			Skipping alignment 15765 24428 | 1 8664 | 8664 8664 | 100.0 | PGRM01000088.1 m340548_8674_CCS
+			Skipping alignment 8878 17541 | 8664 1 | 8664 8664 | 100.0 | PGRM01000032.1 m340548_8674_CCS
+			Skipping alignment 19869 28532 | 8664 1 | 8664 8664 | 100.0 | PGRM01000016.1 m340548_8674_CCS
+			Skipping alignment 2863 11526 | 8664 1 | 8664 8664 | 100.0 | PGRM01000018.1 m340548_8674_CCS
+			Skipping alignment 43223 51886 | 1 8664 | 8664 8664 | 100.0 | PGRM01000088.1 m340548_8674_CCS
+			Skipping alignment 20761 29424 | 1 8664 | 8664 8664 | 100.0 | PGRM01000041.1 m340548_8674_CCS
+			Skipping alignment 15718 24381 | 1 8664 | 8664 8664 | 100.0 | PGRM01000020.1 m340548_8674_CCS
+			Skipping alignment 9661 18324 | 8664 1 | 8664 8664 | 100.0 | PGRM01000027.1 m340548_8674_CCS
+			Skipping alignment 4568 13231 | 8664 1 | 8664 8664 | 100.0 | PGRM01000021.1 m340548_8674_CCS
+			Skipping alignment 12253 20916 | 8664 1 | 8664 8664 | 100.0 | PGRM01000017.1 m340548_8674_CCS
+			Skipping alignment 16941 25604 | 1 8664 | 8664 8664 | 100.0 | PGRM01000022.1 m340548_8674_CCS
+			Skipping alignment 1330 9993 | 8664 1 | 8664 8664 | 100.0 | PGRM01000039.1 m340548_8674_CCS
+			Skipping alignment 3829 12492 | 1 8664 | 8664 8664 | 100.0 | PGRM01000020.1 m340548_8674_CCS
+			Skipping alignment 9383 18046 | 8664 1 | 8664 8664 | 99.99 | PGRM01000024.1 m340548_8674_CCS
+			Skipping alignment 25786 34449 | 8664 1 | 8664 8664 | 99.99 | PGRM01000021.1 m340548_8674_CCS
+			Skipping alignment 33901 42564 | 8664 1 | 8664 8664 | 99.99 | PGRM01000034.1 m340548_8674_CCS
+			Skipping alignment 31851 40514 | 8664 1 | 8664 8664 | 99.99 | PGRM01000049.1 m340548_8674_CCS
+			Skipping alignment 70874 79536 | 8664 1 | 8663 8664 | 99.99 | PGRM01000032.1 m340548_8674_CCS
+			Skipping alignment 6206 14868 | 8664 1 | 8663 8664 | 99.99 | PGRM01000045.1 m340548_8674_CCS
+			Skipping alignment 33047 41709 | 1 8664 | 8663 8664 | 99.99 | PGRM01000022.1 m340548_8674_CCS
+			Skipping alignment 44695 53357 | 1 8664 | 8663 8664 | 99.99 | PGRM01000022.1 m340548_8674_CCS
+			Skipping alignment 32017 40679 | 1 8664 | 8663 8664 | 99.92 | PGRM01000020.1 m340548_8674_CCS
+			Skipping alignment 27654 36304 | 1 8664 | 8651 8664 | 99.83 | PGRM01000088.1 m340548_8674_CCS
+			Skipping alignment 31256 39915 | 1 8664 | 8660 8664 | 99.72 | PGRM01000028.1 m340548_8674_CCS
+
+CONTIG: m119575_16767_CCS (41642bp)
+Best alignment score: 41642.0 (LEN: 41642, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 164 41805 | 1 41642 | 41642 41642 | 100.0 | PGRM01000094.1 m119575_16767_CCS
+
+CONTIG: m407745_7973_CCS (18040bp)
+Best alignment score: 18040.0 (LEN: 18040, IDY: 100.00), Total number of alignments: 20
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 13870 31426 | 18040 1 | 17557 18040 | 97.21 | PGRM01000045.1 m407745_7973_CCS
+			Skipping alignment 7630 26249 | 18040 43 | 18620 17998 | 95.65 | PGRM01000031.1 m407745_7973_CCS
+			Skipping alignment 58195 74928 | 16777 44 | 16734 16734 | 99.96 | PGRM01000018.1 m407745_7973_CCS
+			Skipping alignment 31 16763 | 586 18040 | 16733 17455 | 95.79 | PGRM01000088.1 m407745_7973_CCS
+			Skipping alignment 16968 33684 | 16717 1 | 16717 16717 | 99.93 | PGRM01000016.1 m407745_7973_CCS
+			Skipping alignment 36 16716 | 1360 18040 | 16681 16681 | 99.93 | PGRM01000020.1 m407745_7973_CCS
+			Skipping alignment 20162 36157 | 1 16717 | 15996 16717 | 95.62 | PGRM01000029.1 m407745_7973_CCS
+			Skipping alignment 11789 26776 | 1 14754 | 14988 14754 | 98.3 | PGRM01000022.1 m407745_7973_CCS
+			Skipping alignment 25378 39601 | 14224 1 | 14224 14224 | 99.92 | PGRM01000021.1 m407745_7973_CCS
+			Skipping alignment 8608 22693 | 14087 1 | 14086 14087 | 99.89 | PGRM01000032.1 m407745_7973_CCS
+			Skipping alignment 55168 67654 | 12529 43 | 12487 12487 | 99.91 | PGRM01000032.1 m407745_7973_CCS
+			Skipping alignment 29701 42140 | 12440 1 | 12440 12440 | 99.85 | PGRM01000039.1 m407745_7973_CCS
+			Skipping alignment 9352 21029 | 16717 5040 | 11678 11678 | 100.0 | PGRM01000017.1 m407745_7973_CCS
+			Skipping alignment 20952 23504 | 16777 14225 | 2553 2553 | 100.0 | PGRM01000021.1 m407745_7973_CCS
+			Skipping alignment 53466 55167 | 15189 13488 | 1702 1702 | 100.0 | PGRM01000032.1 m407745_7973_CCS
+			Skipping alignment 28194 29700 | 14425 12919 | 1507 1507 | 100.0 | PGRM01000039.1 m407745_7973_CCS
+			Skipping alignment 52030 53465 | 16717 15282 | 1436 1436 | 100.0 | PGRM01000032.1 m407745_7973_CCS
+			Skipping alignment 26318 27133 | 15241 14426 | 816 816 | 100.0 | PGRM01000039.1 m407745_7973_CCS
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 155 18194 | 1 18040 | 18040 18040 | 100.0 | PGRM01000037.1 m407745_7973_CCS
+			Skipping alignment 5437 23476 | 18040 1 | 18040 18040 | 99.91 | PGRM01000027.1 m407745_7973_CCS
+
+CONTIG: m339915_14491_CCS (44029bp)
+Best alignment score: 44029.0 (LEN: 44029, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 16858 60886 | 1 44029 | 44029 44029 | 100.0 | PGRM01000013.1 m339915_14491_CCS
+
+CONTIG: m17345_13677_CCS (25557bp)
+Best alignment score: 25557.0 (LEN: 25557, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 24974708 25000264 | 1 25557 | 25557 25557 | 100.0 | CM010544.1 m17345_13677_CCS
+			Skipping alignment 98930 124482 | 1 25557 | 25553 25557 | 99.98 | PGRM01000043.1 m17345_13677_CCS
+
+CONTIG: m673263_4978_CCS (66067bp)
+Best alignment score: 66067.0 (LEN: 66067, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 89 66155 | 1 66067 | 66067 66067 | 100.0 | PGRM01000053.1 m673263_4978_CCS
+
+CONTIG: m542456_17358_CCS (46238bp)
+Best alignment score: 46238.0 (LEN: 46238, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 18914 65151 | 1 46238 | 46238 46238 | 100.0 | PGRM01000088.1 m542456_17358_CCS
+
+CONTIG: m662962_12272_CCS (56413bp)
+Best alignment score: 56413.0 (LEN: 56413, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 475 56887 | 1 56413 | 56413 56413 | 100.0 | PGRM01000039.1 m662962_12272_CCS
+
+CONTIG: m396649_11036_CCS (35465bp)
+Best alignment score: 35465.0 (LEN: 35465, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 44 35508 | 1 35465 | 35465 35465 | 100.0 | PGRM01000041.1 m396649_11036_CCS
+
+CONTIG: m349676_16257_CCS (36107bp)
+Best alignment score: 36107.0 (LEN: 36107, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 6325 42431 | 1 36107 | 36107 36107 | 100.0 | PGRM01000037.1 m349676_16257_CCS
+
+CONTIG: m257792_6944_CCS (41302bp)
+Best alignment score: 41302.0 (LEN: 41302, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4 41305 | 1 41302 | 41302 41302 | 100.0 | PGRM01000081.1 m257792_6944_CCS
+
+CONTIG: m536307_1930_CCS (32168bp)
+Best alignment score: 32168.0 (LEN: 32168, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 308 32475 | 1 32168 | 32168 32168 | 100.0 | PGRM01000079.1 m536307_1930_CCS
+
+CONTIG: m195699_18307_CCS (18307bp)
+Best alignment score: 18307.0 (LEN: 18307, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 6 18312 | 1 18307 | 18307 18307 | 100.0 | CM010547.1 m195699_18307_CCS
+
+CONTIG: m32129_8240_CCS (20617bp)
+Best alignment score: 20617.0 (LEN: 20617, IDY: 100.00), Total number of alignments: 70
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 10433 29761 | 8 19341 | 19329 19334 | 99.87 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 33 18974 | 1679 20617 | 18942 18939 | 99.94 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 203830 222741 | 20617 1679 | 18912 18939 | 99.77 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 191897 210644 | 18774 8 | 18748 18767 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 162996 181389 | 18933 8 | 18394 18926 | 96.95 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 12157 29761 | 8 17617 | 17605 17610 | 99.86 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 33 17250 | 3402 20617 | 17218 17216 | 99.94 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 205554 222741 | 20617 3402 | 17188 17216 | 99.76 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 174572 191649 | 20617 3513 | 17078 17105 | 99.6 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 191959 208920 | 16987 8 | 16962 16980 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 191959 207198 | 15263 8 | 15240 15256 | 99.82 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 185960 | 13039 2333 | 10707 10707 | 99.86 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 185960 | 14763 4057 | 10707 10707 | 99.86 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 185960 | 16487 5781 | 10707 10707 | 99.86 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 185960 | 18211 7505 | 10707 10707 | 99.86 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 176296 185960 | 20617 10953 | 9665 9665 | 99.84 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 163409 172846 | 20246 10809 | 9438 9438 | 99.9 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 184343 | 11315 2226 | 9090 9090 | 99.85 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 164762 172846 | 20617 12533 | 8085 8085 | 99.89 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 178020 185960 | 20617 12677 | 7941 7941 | 99.86 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 175254 182619 | 9591 2226 | 7366 7366 | 99.82 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 195191 202156 | 10295 3330 | 6966 6966 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 166486 172846 | 20617 14257 | 6361 6361 | 99.87 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 168210 172846 | 20617 15981 | 4637 4637 | 99.91 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 195191 199812 | 6847 2226 | 4622 4622 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 181468 185960 | 20617 16125 | 4493 4493 | 99.93 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 169934 172846 | 20617 17705 | 2913 2913 | 99.9 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 195191 198088 | 5123 2226 | 2898 2898 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 192928 195190 | 12568 10306 | 2263 2263 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 192928 195190 | 7396 5134 | 2263 2263 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 192928 195190 | 9120 6858 | 2263 2263 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 4055 2865 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 5779 4589 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 7503 6313 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 16123 14933 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 10951 9761 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 185961 187151 | 12675 11485 | 1191 1191 | 99.83 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 171658 172846 | 20617 19429 | 1189 1189 | 99.92 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 182825 183704 | 2021 1142 | 880 880 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 203463 204342 | 2021 1142 | 880 880 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 198294 199173 | 2021 1142 | 880 880 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 200018 200897 | 2021 1142 | 880 880 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 184549 185428 | 2021 1142 | 880 880 | 99.89 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 186272 187151 | 2021 1142 | 880 880 | 99.77 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 202157 203019 | 3328 2466 | 863 863 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 11932 11316 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 10208 9592 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 13656 13040 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 15380 14764 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 17104 16488 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 173427 174043 | 18828 18212 | 617 617 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 12511 11933 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 10787 10209 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 14235 13657 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 15959 15381 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 17683 17105 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 172847 173425 | 19407 18829 | 579 579 | 100.0 | CM010543.1 m32129_8240_CCS
+		This contig has 13 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 82 20698 | 1 20617 | 20617 20617 | 100.0 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 3537 24146 | 8 20617 | 20610 20610 | 99.96 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 5261 25869 | 8 20617 | 20609 20610 | 99.96 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 1814 22422 | 8 20617 | 20609 20610 | 99.96 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 6985 27592 | 8 20617 | 20608 20610 | 99.95 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 8709 29310 | 8 20617 | 20602 20610 | 99.91 | PGRM01000085.1 m32129_8240_CCS
+			Skipping alignment 195213 215816 | 20617 8 | 20604 20610 | 99.9 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 193499 214092 | 20617 8 | 20594 20610 | 99.87 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 196937 217516 | 20617 8 | 20580 20610 | 99.77 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 198661 219240 | 20617 8 | 20580 20610 | 99.76 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 202109 222687 | 20617 8 | 20579 20610 | 99.75 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 200385 220964 | 20617 8 | 20580 20610 | 99.75 | CM010543.1 m32129_8240_CCS
+			Skipping alignment 191897 212368 | 20498 8 | 20472 20491 | 99.85 | CM010543.1 m32129_8240_CCS
+
+CONTIG: m569224_15477_CCS (21319bp)
+Best alignment score: 21319.0 (LEN: 21319, IDY: 100.00), Total number of alignments: 61
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 37115 58192 | 1 21319 | 21078 21319 | 98.87 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 8663 29503 | 1 21319 | 20841 21319 | 97.74 | PGRM01000088.1 m569224_15477_CCS
+			Skipping alignment 60411 80952 | 1 20544 | 20542 20544 | 97.57 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 31058 50503 | 19205 1 | 19446 19205 | 98.76 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 4830 23496 | 19145 1 | 18667 19145 | 97.47 | PGRM01000025.1 m569224_15477_CCS
+			Skipping alignment 19833 39744 | 1 19205 | 19912 19205 | 96.43 | PGRM01000088.1 m569224_15477_CCS
+			Skipping alignment 28082 46544 | 2614 21319 | 18463 18706 | 98.62 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 5935 22208 | 16515 1 | 16274 16515 | 98.53 | PGRM01000045.1 m569224_15477_CCS
+			Skipping alignment 4586 18638 | 21319 7267 | 14053 14053 | 100.0 | PGRM01000027.1 m569224_15477_CCS
+			Skipping alignment 49689 63691 | 7317 21319 | 14003 14003 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 40833 54831 | 21319 7321 | 13999 13999 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 12332 24652 | 4195 16515 | 12321 12321 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 16968 28846 | 19145 7267 | 11879 11879 | 100.0 | PGRM01000016.1 m569224_15477_CCS
+			Skipping alignment 732 11790 | 18375 7317 | 11059 11059 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 21437 32218 | 14329 3548 | 10782 10782 | 99.95 | PGRM01000034.1 m569224_15477_CCS
+			Skipping alignment 27489 38043 | 15181 4627 | 10555 10555 | 100.0 | PGRM01000024.1 m569224_15477_CCS
+			Skipping alignment 6135 16679 | 4195 14739 | 10545 10545 | 100.0 | PGRM01000029.1 m569224_15477_CCS
+			Skipping alignment 17247 27452 | 17522 7317 | 10206 10206 | 99.99 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 16626 25765 | 7266 16405 | 9140 9140 | 100.0 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 12414 21438 | 16306 7282 | 9025 9025 | 100.0 | PGRM01000031.1 m569224_15477_CCS
+			Skipping alignment 55168 62858 | 14957 7267 | 7691 7691 | 99.99 | PGRM01000032.1 m569224_15477_CCS
+			Skipping alignment 68213 75462 | 7256 7 | 7250 7250 | 100.0 | PGRM01000032.1 m569224_15477_CCS
+			Skipping alignment 34202 41451 | 7256 7 | 7250 7250 | 99.99 | PGRM01000016.1 m569224_15477_CCS
+			Skipping alignment 12632 18997 | 14479 8114 | 6366 6366 | 99.98 | PGRM01000049.1 m569224_15477_CCS
+			Skipping alignment 13764 18639 | 19205 14330 | 4876 4876 | 100.0 | PGRM01000034.1 m569224_15477_CCS
+			Skipping alignment 8922 12631 | 19145 15436 | 3710 3710 | 100.0 | PGRM01000049.1 m569224_15477_CCS
+			Skipping alignment 23994 27702 | 7256 3548 | 3709 3709 | 99.87 | PGRM01000027.1 m569224_15477_CCS
+			Skipping alignment 6779 10388 | 21319 17710 | 3610 3610 | 100.0 | PGRM01000031.1 m569224_15477_CCS
+			Skipping alignment 43432 46553 | 4195 7316 | 3122 3122 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 8210 11271 | 4195 7256 | 3062 3062 | 100.0 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 61125 63899 | 4626 1852 | 2775 2775 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 18494 21268 | 4626 1852 | 2775 2775 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 33988 36762 | 4626 1852 | 2775 2775 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 16897 19645 | 16397 19145 | 2749 2749 | 100.0 | PGRM01000029.1 m569224_15477_CCS
+			Skipping alignment 58191 60884 | 7320 4627 | 2694 2694 | 99.93 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 31058 33747 | 7316 4627 | 2690 2690 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 25651 28204 | 16652 19205 | 2554 2554 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 9749 12091 | 1852 4194 | 2343 2343 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 3552 5894 | 1852 4194 | 2343 2343 | 100.0 | PGRM01000029.1 m569224_15477_CCS
+			Skipping alignment 5627 7969 | 1852 4194 | 2343 2343 | 100.0 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 39930 42255 | 4177 1852 | 2326 2326 | 100.0 | PGRM01000024.1 m569224_15477_CCS
+			Skipping alignment 7897 9747 | 1 1851 | 1851 1851 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 63901 65751 | 1851 1 | 1851 1851 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 1700 3550 | 1 1851 | 1851 1851 | 100.0 | PGRM01000029.1 m569224_15477_CCS
+			Skipping alignment 21270 23120 | 1851 1 | 1851 1851 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 36764 38614 | 1851 1 | 1851 1851 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 42257 44107 | 1851 1 | 1851 1851 | 100.0 | PGRM01000024.1 m569224_15477_CCS
+			Skipping alignment 29641 31485 | 1851 7 | 1845 1845 | 100.0 | PGRM01000027.1 m569224_15477_CCS
+			Skipping alignment 3781 5625 | 7 1851 | 1845 1845 | 100.0 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 53466 55167 | 17617 15916 | 1702 1702 | 100.0 | PGRM01000032.1 m569224_15477_CCS
+			Skipping alignment 27944 29639 | 3547 1852 | 1696 1696 | 99.94 | PGRM01000027.1 m569224_15477_CCS
+			Skipping alignment 15389 17071 | 7316 5634 | 1683 1683 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 15389 17071 | 19205 17523 | 1683 1683 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 52030 53465 | 19145 17710 | 1436 1436 | 100.0 | PGRM01000032.1 m569224_15477_CCS
+			Skipping alignment 10389 11699 | 17617 16307 | 1311 1311 | 100.0 | PGRM01000031.1 m569224_15477_CCS
+			Skipping alignment 42022 43191 | 3025 4194 | 1170 1170 | 100.0 | PGRM01000020.1 m569224_15477_CCS
+			Skipping alignment 17247 18253 | 5633 4627 | 1007 1007 | 99.9 | PGRM01000018.1 m569224_15477_CCS
+			Skipping alignment 32220 33174 | 3547 2593 | 955 955 | 99.58 | PGRM01000034.1 m569224_15477_CCS
+			Skipping alignment 26003 26570 | 16406 16973 | 568 568 | 99.82 | PGRM01000022.1 m569224_15477_CCS
+			Skipping alignment 221 731 | 18887 18377 | 511 511 | 100.0 | PGRM01000018.1 m569224_15477_CCS
+		One align captures most of this contig: 48763 70081 | 1 21319 | 21319 21319 | 100.0 | PGRM01000022.1 m569224_15477_CCS
+
+CONTIG: m101128_9116_CCS (26146bp)
+Best alignment score: 26146.0 (LEN: 26146, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 30 26175 | 1 26146 | 26146 26146 | 100.0 | PGRM01000038.1 m101128_9116_CCS
+
+CONTIG: m495123_18182_CCS (448046bp)
+Best alignment score: 448046.0 (LEN: 448046, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1478146 1926191 | 1 448046 | 448046 448046 | 100.0 | CM010545.1 m495123_18182_CCS
+
+CONTIG: m444925_20331_CCS (34144bp)
+Best alignment score: 34144.0 (LEN: 34144, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 571 34714 | 1 34144 | 34144 34144 | 100.0 | PGRM01000077.1 m444925_20331_CCS
+
+CONTIG: m630460_12523_CCS (52811bp)
+Best alignment score: 52811.0 (LEN: 52811, IDY: 100.00), Total number of alignments: 9
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 35934 45298 | 21339 30703 | 9365 9365 | 99.99 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 45485 54833 | 33380 42728 | 9349 9349 | 99.99 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 31036 35933 | 13644 18541 | 4898 4898 | 100.0 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 27450 31035 | 10056 13641 | 3586 3586 | 99.86 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 20030 22964 | 2661 5595 | 2935 2935 | 100.0 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 24615 27426 | 7244 10055 | 2812 2812 | 100.0 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 18330 20029 | 723 2422 | 1700 1700 | 99.94 | PGRM01000018.1 m630460_12523_CCS
+			Skipping alignment 22966 24613 | 5596 7243 | 1648 1648 | 100.0 | PGRM01000018.1 m630460_12523_CCS
+		One align captures most of this contig: 99 52909 | 1 52811 | 52811 52811 | 100.0 | PGRM01000034.1 m630460_12523_CCS
+
+CONTIG: m582719_12496_CCS (81751bp)
+Best alignment score: 81751.0 (LEN: 81751, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 188 81938 | 1 81751 | 81751 81751 | 100.0 | PGRM01000032.1 m582719_12496_CCS
+
+CONTIG: m173307_9119_CCS (23980bp)
+Best alignment score: 23980.0 (LEN: 23980, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 208 24187 | 1 23980 | 23980 23980 | 100.0 | CM010542.1 m173307_9119_CCS
+			Skipping alignment 10587 34575 | 1 23980 | 23989 23980 | 99.93 | CM010542.1 m173307_9119_CCS
+
+CONTIG: m629895_4427_CCS (53651bp)
+Best alignment score: 53651.0 (LEN: 53651, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 148 53798 | 1 53651 | 53651 53651 | 100.0 | PGRM01000068.1 m629895_4427_CCS
+
+CONTIG: m238127_18826_CCS (62463bp)
+Best alignment score: 62463.0 (LEN: 62463, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1221 63683 | 1 62463 | 62463 62463 | 100.0 | PGRM01000052.1 m238127_18826_CCS
+
+CONTIG: m176724_13985_CCS (95359bp)
+Best alignment score: 95359.0 (LEN: 95359, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4591534 4686892 | 1 95359 | 95359 95359 | 100.0 | CM010545.1 m176724_13985_CCS
+
+CONTIG: m252410_17075_CCS (55827bp)
+Best alignment score: 55827.0 (LEN: 55827, IDY: 100.00), Total number of alignments: 13
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 55257 67653 | 23812 11416 | 12397 12397 | 99.96 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 11623 17855 | 50197 43965 | 6233 6233 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 73618 78509 | 5209 318 | 4892 4892 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 43253 46674 | 35738 32317 | 3422 3422 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 67654 70842 | 11414 8226 | 3189 3189 | 99.97 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 31343 34153 | 38549 35739 | 2811 2811 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 8847 11621 | 52972 50198 | 2775 2775 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 28567 31341 | 41324 38550 | 2775 2775 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 70843 73617 | 7985 5211 | 2775 2775 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 23211 25840 | 43954 41325 | 2630 2630 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 52030 53465 | 32306 30871 | 1436 1436 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+			Skipping alignment 53466 54760 | 30778 29484 | 1295 1295 | 100.0 | PGRM01000032.1 m252410_17075_CCS
+		One align captures most of this contig: 417 56243 | 1 55827 | 55827 55827 | 100.0 | PGRM01000022.1 m252410_17075_CCS
+
+CONTIG: m245221_12109_CCS (158612bp)
+Best alignment score: 158612.0 (LEN: 158612, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22551624 22710235 | 1 158612 | 158612 158612 | 100.0 | CM010542.1 m245221_12109_CCS
+
+CONTIG: m347284_11434_CCS (11652bp)
+Best alignment score: 11652.0 (LEN: 11652, IDY: 100.00), Total number of alignments: 66
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 50614 61999 | 12 11634 | 11386 11623 | 97.91 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 38966 50351 | 12 11634 | 11386 11623 | 97.91 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 9212 20357 | 11634 12 | 11146 11623 | 95.81 | PGRM01000045.1 m347284_11434_CCS
+			Skipping alignment 1524 12689 | 12 11634 | 11166 11623 | 95.55 | PGRM01000094.1 m347284_11434_CCS
+			Skipping alignment 22529 33389 | 11634 774 | 10861 10861 | 99.94 | PGRM01000034.1 m347284_11434_CCS
+			Skipping alignment 29433 40297 | 11634 774 | 10865 10861 | 99.93 | PGRM01000024.1 m347284_11434_CCS
+			Skipping alignment 27844 38703 | 774 11634 | 10860 10861 | 99.83 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 52988 63440 | 1185 11634 | 10453 10450 | 99.97 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 2593 13045 | 1185 11634 | 10453 10450 | 99.97 | PGRM01000015.1 m347284_11434_CCS
+			Skipping alignment 26533 36908 | 1258 11634 | 10376 10377 | 99.76 | PGRM01000028.1 m347284_11434_CCS
+			Skipping alignment 11206 20179 | 11169 2196 | 8974 8974 | 100.0 | PGRM01000025.1 m347284_11434_CCS
+			Skipping alignment 12139 20950 | 2355 11166 | 8812 8812 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 36908 45016 | 11634 3529 | 8109 8106 | 99.94 | PGRM01000034.1 m347284_11434_CCS
+			Skipping alignment 21908 29065 | 11634 4484 | 7158 7151 | 99.9 | PGRM01000025.1 m347284_11434_CCS
+			Skipping alignment 3440 10388 | 11169 4221 | 6949 6949 | 100.0 | PGRM01000031.1 m347284_11434_CCS
+			Skipping alignment 17115 23109 | 5643 11634 | 5995 5992 | 99.95 | PGRM01000036.1 m347284_11434_CCS
+			Skipping alignment 22876 28847 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000016.1 m347284_11434_CCS
+			Skipping alignment 24999 30970 | 5666 11634 | 5972 5969 | 99.95 | PGRM01000029.1 m347284_11434_CCS
+			Skipping alignment 20446 26417 | 5666 11634 | 5972 5969 | 99.95 | PGRM01000041.1 m347284_11434_CCS
+			Skipping alignment 56888 62859 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000032.1 m347284_11434_CCS
+			Skipping alignment 20620 26591 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000045.1 m347284_11434_CCS
+			Skipping alignment 11885 17856 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000032.1 m347284_11434_CCS
+			Skipping alignment 15483 21454 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000031.1 m347284_11434_CCS
+			Skipping alignment 309 6280 | 11634 5666 | 5972 5969 | 99.95 | PGRM01000016.1 m347284_11434_CCS
+			Skipping alignment 7575 13495 | 11634 5717 | 5921 5918 | 99.95 | PGRM01000021.1 m347284_11434_CCS
+			Skipping alignment 4261 10153 | 11634 5743 | 5893 5892 | 99.92 | PGRM01000034.1 m347284_11434_CCS
+			Skipping alignment 31816 37673 | 5780 11634 | 5858 5855 | 99.95 | PGRM01000020.1 m347284_11434_CCS
+			Skipping alignment 15260 21029 | 11634 5868 | 5770 5767 | 99.95 | PGRM01000017.1 m347284_11434_CCS
+			Skipping alignment 58191 63901 | 5720 10 | 5711 5711 | 99.96 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 31058 36764 | 5716 10 | 5707 5707 | 100.0 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 13307 18953 | 10 5656 | 5647 5647 | 100.0 | PGRM01000015.1 m347284_11434_CCS
+			Skipping alignment 5625 11271 | 10 5656 | 5647 5647 | 100.0 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 12511 18032 | 5645 11166 | 5522 5522 | 100.0 | PGRM01000028.1 m347284_11434_CCS
+			Skipping alignment 35326 40838 | 11169 5657 | 5513 5513 | 100.0 | PGRM01000049.1 m347284_11434_CCS
+			Skipping alignment 13136 18638 | 11169 5667 | 5503 5503 | 100.0 | PGRM01000027.1 m347284_11434_CCS
+			Skipping alignment 24308 29808 | 5666 11166 | 5501 5501 | 100.0 | PGRM01000015.1 m347284_11434_CCS
+			Skipping alignment 16626 22126 | 5666 11166 | 5501 5501 | 100.0 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 22000 27452 | 11169 5717 | 5453 5453 | 100.0 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 6338 11790 | 11169 5717 | 5453 5453 | 100.0 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 49689 55138 | 5717 11166 | 5450 5450 | 100.0 | PGRM01000020.1 m347284_11434_CCS
+			Skipping alignment 49383 54831 | 11169 5721 | 5449 5449 | 100.0 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 81292 86750 | 5716 11169 | 5459 5454 | 99.78 | PGRM01000087.1 m347284_11434_CCS
+			Skipping alignment 43029 48408 | 5787 11166 | 5380 5380 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 13874 18997 | 11634 6514 | 5124 5121 | 99.94 | PGRM01000049.1 m347284_11434_CCS
+			Skipping alignment 42022 46553 | 1185 5716 | 4532 4532 | 100.0 | PGRM01000020.1 m347284_11434_CCS
+			Skipping alignment 43637 47669 | 5656 1624 | 4033 4033 | 100.0 | PGRM01000049.1 m347284_11434_CCS
+			Skipping alignment 17247 21270 | 4033 10 | 4024 4024 | 99.98 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 4312 8320 | 1636 5644 | 4009 4009 | 100.0 | PGRM01000028.1 m347284_11434_CCS
+			Skipping alignment 23994 27942 | 5656 1708 | 3949 3949 | 99.92 | PGRM01000027.1 m347284_11434_CCS
+			Skipping alignment 36383 39743 | 2355 5715 | 3361 3361 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 12414 15230 | 2817 1 | 2817 2817 | 100.0 | PGRM01000031.1 m347284_11434_CCS
+			Skipping alignment 27944 29641 | 1707 10 | 1698 1698 | 99.94 | PGRM01000027.1 m347284_11434_CCS
+			Skipping alignment 15389 17071 | 5716 4034 | 1683 1683 | 100.0 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 33572 35196 | 10 1634 | 1625 1625 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 20180 21655 | 1476 1 | 1476 1476 | 99.93 | PGRM01000025.1 m347284_11434_CCS
+			Skipping alignment 10389 11699 | 4128 2818 | 1311 1311 | 100.0 | PGRM01000031.1 m347284_11434_CCS
+			Skipping alignment 10515 11660 | 12 1157 | 1146 1146 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 35757 36382 | 1728 2353 | 626 626 | 100.0 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 3690 4311 | 1013 1634 | 622 622 | 100.0 | PGRM01000028.1 m347284_11434_CCS
+		This contig has 7 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 55862 67513 | 1 11652 | 11652 11652 | 100.0 | PGRM01000020.1 m347284_11434_CCS
+			Skipping alignment 779 12415 | 11634 1 | 11637 11634 | 99.97 | PGRM01000027.1 m347284_11434_CCS
+			Skipping alignment 21674 33310 | 1 11634 | 11637 11634 | 99.97 | PGRM01000088.1 m347284_11434_CCS
+			Skipping alignment 37026 48662 | 11634 1 | 11637 11634 | 99.97 | PGRM01000018.1 m347284_11434_CCS
+			Skipping alignment 3541 15177 | 1 11634 | 11637 11634 | 99.97 | PGRM01000029.1 m347284_11434_CCS
+			Skipping alignment 62252 73888 | 1 11634 | 11637 11634 | 99.97 | PGRM01000022.1 m347284_11434_CCS
+			Skipping alignment 9738 21374 | 1 11634 | 11637 11634 | 99.97 | PGRM01000020.1 m347284_11434_CCS
+
+CONTIG: m490677_11538_CCS (69603bp)
+Best alignment score: 69603.0 (LEN: 69603, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 205 69807 | 1 69603 | 69603 69603 | 100.0 | PGRM01000026.1 m490677_11538_CCS
+
+CONTIG: m600266_10767_CCS (97225bp)
+Best alignment score: 97225.0 (LEN: 97225, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4687371 4784595 | 1 97225 | 97225 97225 | 100.0 | CM010545.1 m600266_10767_CCS
+
+CONTIG: m11081_15892_CCS (36424bp)
+Best alignment score: 36424.0 (LEN: 36424, IDY: 100.00), Total number of alignments: 14
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 55165 67653 | 30885 18397 | 12489 12489 | 99.96 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 43265 51585 | 26601 18281 | 8321 8321 | 99.84 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 55386 62858 | 14871 7399 | 7473 7473 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 73618 79851 | 13631 7398 | 6234 6234 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 67770 70961 | 18280 15089 | 3192 3192 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 50657 53465 | 35722 32914 | 2809 2809 | 99.82 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 70843 73617 | 4518 1744 | 2775 2775 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 68213 70842 | 7388 4759 | 2630 2630 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 51587 53465 | 18280 16402 | 1879 1879 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 73618 75351 | 1742 9 | 1734 1734 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 53466 55143 | 32821 31144 | 1678 1678 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 72379 73617 | 14871 13633 | 1239 1239 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+			Skipping alignment 53466 54686 | 16309 15089 | 1221 1221 | 100.0 | PGRM01000032.1 m11081_15892_CCS
+		One align captures most of this contig: 1809 38232 | 1 36424 | 36424 36424 | 100.0 | PGRM01000029.1 m11081_15892_CCS
+
+CONTIG: m680879_5736_CCS (673442bp)
+Best alignment score: 673442.0 (LEN: 673442, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3045147 3718588 | 1 673442 | 673442 673442 | 100.0 | CM010545.1 m680879_5736_CCS
+
+CONTIG: m538240_13355_CCS (14728bp)
+Best alignment score: 14728.0 (LEN: 14728, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 34003 48730 | 1 14728 | 14728 14728 | 100.0 | PGRM01000012.1 m538240_13355_CCS
+			Skipping alignment 14840083 14854812 | 14713 1 | 14730 14713 | 99.86 | CM010542.1 m538240_13355_CCS
+
+CONTIG: m392972_3714_CCS (48363bp)
+Best alignment score: 48363.0 (LEN: 48363, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 90 48452 | 1 48363 | 48363 48363 | 100.0 | PGRM01000049.1 m392972_3714_CCS
+
+CONTIG: m571341_8643_CCS (112297bp)
+Best alignment score: 112297.0 (LEN: 112297, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 41 112337 | 1 112297 | 112297 112297 | 100.0 | PGRM01000046.1 m571341_8643_CCS
+
+CONTIG: m601354_11400_CCS (52838bp)
+Best alignment score: 52838.0 (LEN: 52838, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 5 52842 | 1 52838 | 52838 52838 | 100.0 | PGRM01000055.1 m601354_11400_CCS
+
+CONTIG: m368860_7576_CCS (36248bp)
+Best alignment score: 36248.0 (LEN: 36248, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 236 36483 | 1 36248 | 36248 36248 | 100.0 | PGRM01000070.1 m368860_7576_CCS
+
+CONTIG: m489434_11548_CCS (41968bp)
+Best alignment score: 41968.0 (LEN: 41968, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 275 42242 | 1 41968 | 41968 41968 | 100.0 | PGRM01000010.1 m489434_11548_CCS
+
+CONTIG: m79337_10014_CCS (167611bp)
+Best alignment score: 167611.0 (LEN: 167611, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 24904749 25043646 | 29536 167611 | 138898 138076 | 98.85 | CM010544.1 m79337_10014_CCS
+		One align captures most of this contig: 210 167820 | 1 167611 | 167611 167611 | 100.0 | PGRM01000043.1 m79337_10014_CCS
+
+CONTIG: m229617_14520_CCS (6495835bp)
+Best alignment score: 6495835.0 (LEN: 6495835, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 14858805 21354639 | 1 6495835 | 6495835 6495835 | 100.0 | CM010542.1 m229617_14520_CCS
+
+CONTIG: m471197_2912_CCS (22073bp)
+Best alignment score: 11492.0 (LEN: 11492, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 11492.0, number of alignments: 1, unaligned bases: 10581
+		This contig is partially unaligned. (Aligned 11492 out of 22073 non-N bases (52.06%))
+		Alignment: 26 11517 | 1 11492 | 11492 11492 | 100.0 | PGRM01000095.1 m471197_2912_CCS
+		Unaligned bases: 11493 to 22073 (10581)
+
+CONTIG: m479159_17359_CCS (24211bp)
+Best alignment score: 24211.0 (LEN: 24211, IDY: 100.00), Total number of alignments: 18
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 10267 34162 | 1 24128 | 23896 24128 | 98.89 | PGRM01000032.1 m479159_17359_CCS
+			Skipping alignment 14071 31897 | 17821 1 | 17827 17821 | 99.94 | PGRM01000015.1 m479159_17359_CCS
+			Skipping alignment 6389 24215 | 17821 1 | 17827 17821 | 99.91 | PGRM01000022.1 m479159_17359_CCS
+			Skipping alignment 11050 28877 | 1 17821 | 17828 17821 | 99.88 | PGRM01000027.1 m479159_17359_CCS
+			Skipping alignment 55270 72855 | 1 17821 | 17586 17821 | 98.6 | PGRM01000032.1 m479159_17359_CCS
+			Skipping alignment 21258 38844 | 1 17821 | 17587 17821 | 98.59 | PGRM01000016.1 m479159_17359_CCS
+			Skipping alignment 16203 32588 | 16389 1 | 16386 16389 | 99.9 | PGRM01000029.1 m479159_17359_CCS
+			Skipping alignment 29714 44189 | 1 14474 | 14476 14474 | 99.87 | PGRM01000039.1 m479159_17359_CCS
+			Skipping alignment 2719 17152 | 1 14383 | 14434 14383 | 99.61 | PGRM01000039.1 m479159_17359_CCS
+			Skipping alignment 43253 55883 | 4168 17368 | 12631 13201 | 95.5 | PGRM01000032.1 m479159_17359_CCS
+			Skipping alignment 15652 28035 | 12384 1 | 12384 12384 | 99.99 | PGRM01000041.1 m479159_17359_CCS
+			Skipping alignment 1 10447 | 1310 11757 | 10447 10448 | 99.97 | PGRM01000016.1 m479159_17359_CCS
+			Skipping alignment 17138 24389 | 7590 339 | 7252 7252 | 99.99 | PGRM01000036.1 m479159_17359_CCS
+			Skipping alignment 12287 17080 | 12384 7591 | 4794 4794 | 99.71 | PGRM01000036.1 m479159_17359_CCS
+			Skipping alignment 7028 11298 | 24211 19941 | 4271 4271 | 100.0 | PGRM01000041.1 m479159_17359_CCS
+			Skipping alignment 11790 15530 | 16244 12504 | 3741 3741 | 100.0 | PGRM01000041.1 m479159_17359_CCS
+			Skipping alignment 8194 11598 | 15908 12504 | 3405 3405 | 99.97 | PGRM01000036.1 m479159_17359_CCS
+		One align captures most of this contig: 13865 38075 | 1 24211 | 24211 24211 | 100.0 | PGRM01000031.1 m479159_17359_CCS
+
+Analyzing coverage...
+
+Analysis is finished!
+
+Results:
+	Local Misassemblies: 6
+	Misassemblies: 3
+		Relocations: 0
+		Translocations: 3
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassemblies caused by transposable elements (TEs): 0
+	Misassemblies caused by fragmented reference: 0
+	Misassembled Contigs: 2
+	Misassembled Contig Bases: 479038
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 44721
+
+Ambiguously Mapped Contigs: 20
+Total Bases in Ambiguously Mapped Contigs: 813027
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 140468590
+
+	SNPs: 23
+	Insertions: 24
+	Deletions: 5221
+

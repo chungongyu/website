@@ -1,0 +1,147 @@
+/home6/yuchungong/quast-5.0.2/quast.py --large --fragmented -t 18 -m 400 -o quast -r /home6/yuchungong/LRTK-SIM/resource/dm.fa ../ref.fa siga.fa hifiasm.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.13.0-147-generic-x86_64-with-Ubuntu-14.04-trusty (linux_64)
+  Python version: 2.7.6
+  CPUs number: 24
+
+Started: 2021-08-02 16:48:22
+
+Logging to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/quast.log
+
+CWD: /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0
+Main parameters: 
+  MODE: large, threads: 18, eukaryotic: true, minimum contig length: 400, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Reference:
+  /home6/yuchungong/LRTK-SIM/resource/dm.fa ==> dm
+
+Contigs:
+  Pre-processing...
+  1  ../ref.fa ==> ref
+  2  siga.fa ==> siga
+  3  hifiasm.fa ==> hifiasm
+
+2021-08-02 16:48:38
+Running Basic statistics processor...
+  Reference genome:
+    dm.fa, length = 140687039, num fragments = 96, GC % = 41.93
+  Contig files: 
+    1  ref
+    2  siga
+    3  hifiasm
+  Calculating N50 and L50...
+    1  ref, N50 = 22407379, L50 = 3, Total length = 140684339, GC % = 41.93, # N's per 100 kbp =  0.00
+    2  siga, N50 = 14873452, L50 = 4, Total length = 140868786, GC % = 41.93, # N's per 100 kbp =  0.00
+    3  hifiasm, N50 = 15937274, L50 = 4, Total length = 139274762, GC % = 41.96, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/GC_content_plot.pdf
+  Drawing ref GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/ref_GC_content_plot.pdf
+  Drawing siga GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/siga_GC_content_plot.pdf
+  Drawing hifiasm GC content plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/basic_stats/hifiasm_GC_content_plot.pdf
+Done.
+
+2021-08-02 16:49:26
+Running Contig analyzer...
+  1  ref
+  1  Logging to files /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/contigs_report_ref.stdout and contigs_report_ref.stderr...
+  1  Aligning contigs to the reference
+  2  siga
+  3  hifiasm
+  2  Logging to files /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/contigs_report_siga.stdout and contigs_report_siga.stderr...
+  3  Logging to files /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/contigs_report_hifiasm.stdout and contigs_report_hifiasm.stderr...
+  2  Aligning contigs to the reference
+  3  Aligning contigs to the reference
+  2  /home6/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 6 quast/quast_corrected_input/dm.fa \
+     quast/quast_corrected_input/siga.fa > quast/contigs_reports/minimap_output/siga.coords_tmp \
+     2>> quast/contigs_reports/contigs_report_siga.stderr
+  3  /home6/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 6 quast/quast_corrected_input/dm.fa \
+     quast/quast_corrected_input/hifiasm.fa > quast/contigs_reports/minimap_output/hifiasm.coords_tmp \
+     2>> quast/contigs_reports/contigs_report_hifiasm.stderr
+  1  /home6/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 6 quast/quast_corrected_input/dm.fa \
+     quast/quast_corrected_input/ref.fa > quast/contigs_reports/minimap_output/ref.coords_tmp \
+     2>> quast/contigs_reports/contigs_report_ref.stderr
+  3  Analysis is finished.
+
+  1  Analysis is finished.
+
+  2  Analysis is finished.
+
+  Creating total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2021-08-02 16:51:36
+Running NA-NGA calculation...
+  1  ref, Largest alignment = 27949910, NA50 = 22407379, NGA50 = 22407379, LA50 = 3, LGA50 = 3
+  2  siga, Largest alignment = 27949603, NA50 = 14857353, NGA50 = 14857353, LA50 = 4, LGA50 = 4
+  3  hifiasm, Largest alignment = 24514243, NA50 = 15937274, NGA50 = 15937274, LA50 = 4, LGA50 = 4
+  Drawing cumulative plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/aligned_stats/NGAx_plot.pdf
+Done.
+
+2021-08-02 16:51:48
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  ref
+  2  siga
+  3  hifiasm
+  3  Analysis is finished.
+  1  Analysis is finished.
+  2  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-08-02 16:52:18
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-08-02 16:52:23
+RESULTS:
+  Text versions of total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/report.html
+  PDF version (tables and plots) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/report.pdf
+  Icarus (contig browser) is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/icarus.html
+  Log is saved to /home6/yuchungong/siga/build/benchmark/diploid_config_simlord_dm/config0/quast/quast.log
+
+Finished: 2021-08-02 16:52:24
+Elapsed time: 0:04:01.502399
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

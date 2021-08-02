@@ -1,0 +1,1324 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [PGRM01000044.1]
+	Loaded [PGRM01000095.1]
+	Loaded [PGRM01000082.1]
+	Loaded [PGRM01000069.1]
+	Loaded [PGRM01000093.1]
+	Loaded [PGRM01000081.1]
+	Loaded [PGRM01000084.1]
+	Loaded [PGRM01000083.1]
+	Loaded [PGRM01000089.1]
+	Loaded [PGRM01000086.1]
+	Loaded [PGRM01000048.1]
+	Loaded [PGRM01000056.1]
+	Loaded [PGRM01000079.1]
+	Loaded [PGRM01000091.1]
+	Loaded [PGRM01000054.1]
+	Loaded [CM010542.1]
+	Loaded [PGRM01000041.1]
+	Loaded [PGRM01000036.1]
+	Loaded [PGRM01000043.1]
+	Loaded [PGRM01000068.1]
+	Loaded [PGRM01000080.1]
+	Loaded [PGRM01000030.1]
+	Loaded [PGRM01000088.1]
+	Loaded [PGRM01000032.1]
+	Loaded [CM010544.1]
+	Loaded [PGRM01000025.1]
+	Loaded [PGRM01000057.1]
+	Loaded [CM010546.1]
+	Loaded [PGRM01000074.1]
+	Loaded [PGRM01000055.1]
+	Loaded [CM010543.1]
+	Loaded [PGRM01000076.1]
+	Loaded [PGRM01000007.1]
+	Loaded [PGRM01000023.1]
+	Loaded [PGRM01000034.1]
+	Loaded [PGRM01000070.1]
+	Loaded [PGRM01000009.1]
+	Loaded [PGRM01000021.1]
+	Loaded [PGRM01000008.1]
+	Loaded [PGRM01000010.1]
+	Loaded [PGRM01000040.1]
+	Loaded [PGRM01000038.1]
+	Loaded [PGRM01000037.1]
+	Loaded [PGRM01000067.1]
+	Loaded [PGRM01000042.1]
+	Loaded [PGRM01000018.1]
+	Loaded [PGRM01000065.1]
+	Loaded [PGRM01000072.1]
+	Loaded [PGRM01000016.1]
+	Loaded [PGRM01000031.1]
+	Loaded [PGRM01000027.1]
+	Loaded [PGRM01000051.1]
+	Loaded [PGRM01000063.1]
+	Loaded [PGRM01000014.1]
+	Loaded [PGRM01000024.1]
+	Loaded [CM010545.1]
+	Loaded [PGRM01000050.1]
+	Loaded [PGRM01000029.1]
+	Loaded [PGRM01000075.1]
+	Loaded [CM010547.1]
+	Loaded [PGRM01000033.1]
+	Loaded [PGRM01000058.1]
+	Loaded [CM010541.1]
+	Loaded [PGRM01000077.1]
+	Loaded [PGRM01000061.1]
+	Loaded [PGRM01000022.1]
+	Loaded [PGRM01000012.1]
+	Loaded [PGRM01000046.1]
+	Loaded [PGRM01000035.1]
+	Loaded [PGRM01000071.1]
+	Loaded [PGRM01000011.1]
+	Loaded [PGRM01000094.1]
+	Loaded [PGRM01000039.1]
+	Loaded [PGRM01000047.1]
+	Loaded [PGRM01000066.1]
+	Loaded [PGRM01000092.1]
+	Loaded [PGRM01000019.1]
+	Loaded [PGRM01000085.1]
+	Loaded [PGRM01000020.1]
+	Loaded [PGRM01000064.1]
+	Loaded [PGRM01000073.1]
+	Loaded [PGRM01000017.1]
+	Loaded [PGRM01000087.1]
+	Loaded [PGRM01000026.1]
+	Loaded [PGRM01000049.1]
+	Loaded [PGRM01000062.1]
+	Loaded [PGRM01000052.1]
+	Loaded [PGRM01000053.1]
+	Loaded [PGRM01000078.1]
+	Loaded [PGRM01000090.1]
+	Loaded [PGRM01000028.1]
+	Loaded [PGRM01000015.1]
+	Loaded [PGRM01000059.1]
+	Loaded [PGRM01000060.1]
+	Loaded [PGRM01000013.1]
+	Loaded [PGRM01000045.1]
+	Total Regions: 96
+	Total Region Length: 140687039
+Analyzing contigs...
+CONTIG: ptg000001l (21343248bp)
+Best alignment score: 21343248.0 (LEN: 21343248, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 11386 21354639 | 1 21343248 | 21343254 21343248 | 100.0 | CM010542.1 ptg000001l
+
+CONTIG: ptg000002l (755108bp)
+Best alignment score: 755108.0 (LEN: 755108, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 26844711 27599818 | 1 755108 | 755108 755108 | 100.0 | CM010544.1 ptg000002l
+
+CONTIG: ptg000003l (547800bp)
+Best alignment score: 547800.0 (LEN: 547800, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 712775 1260574 | 1 547800 | 547800 547800 | 100.0 | CM010543.1 ptg000003l
+
+CONTIG: ptg000004l (24514243bp)
+Best alignment score: 24501985.9 (LEN: 24514243, IDY: 99.95), Total number of alignments: 1
+		One align captures most of this contig: 867 24523015 | 1 24514243 | 24522149 24514243 | 99.95 | CM010544.1 ptg000004l
+
+CONTIG: ptg000005l (8496362bp)
+Best alignment score: 7702218.0 (LEN: 7702218, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 8215045.0, number of alignments: 2, unaligned bases: 281293
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 8215069 out of 8496362 non-N bases (96.69%))
+			Real Alignment 1: 14692216 22394411 | 7702218 1 | 7702196 7702218 | 100.0 | CM010541.1 ptg000005l
+			  Gap between these two alignments (local misassembly). Inconsistency = -90
+			Real Alignment 2: 13898160 14411012 | 8496362 7983512 | 512853 512851 | 100.0 | CM010541.1 ptg000005l
+		Unaligned bases: 281293
+
+CONTIG: ptg000006l (8914299bp)
+Best alignment score: 8907167.6 (LEN: 8914299, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 4789610 13696605 | 8914299 1 | 8906996 8914299 | 99.92 | CM010545.1 ptg000006l
+
+CONTIG: ptg000007l (19047396bp)
+Best alignment score: 19047396.0 (LEN: 19047396, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 13687422 32734820 | 1 19047396 | 19047399 19047396 | 100.0 | CM010545.1 ptg000007l
+
+CONTIG: ptg000008l (15937274bp)
+Best alignment score: 15927711.6 (LEN: 15937274, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 3569724 19497889 | 1 15937274 | 15928166 15937274 | 99.94 | CM010543.1 ptg000008l
+
+CONTIG: ptg000009l (871461bp)
+Best alignment score: 871461.0 (LEN: 871461, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3719242 4590702 | 1 871461 | 871461 871461 | 100.0 | CM010545.1 ptg000009l
+
+CONTIG: ptg000010l (13892849bp)
+Best alignment score: 13892849.0 (LEN: 13892849, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1630 13894478 | 1 13892849 | 13892849 13892849 | 100.0 | CM010541.1 ptg000010l
+
+CONTIG: ptg000011l (1201891bp)
+Best alignment score: 1201859.0 (LEN: 1201859, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22408728 23610587 | 1201891 33 | 1201860 1201859 | 100.0 | CM010541.1 ptg000011l
+
+CONTIG: ptg000012l (1975223bp)
+Best alignment score: 1944909.7 (LEN: 1945688, IDY: 99.96), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1949615.1, number of alignments: 5, unaligned bases: 24668
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1950555 out of 1975223 non-N bases (98.75%))
+			Real Alignment 1: 24873718 24875359 | 1 1645 | 1642 1645 | 98.72 | CM010544.1 ptg000012l
+			  Gap between these two alignments (local misassembly). Inconsistency = -11
+			Real Alignment 2: 24876843 24878086 | 3140 4391 | 1244 1252 | 96.1 | CM010544.1 ptg000012l
+			  Gap between these two alignments (local misassembly). Inconsistency = -1
+			Real Alignment 3: 24878965 24880211 | 5271 6516 | 1247 1246 | 97.28 | CM010544.1 ptg000012l
+			  Gap between these two alignments (local misassembly). Inconsistency = -55
+			Real Alignment 4: 24886208 24886909 | 12568 13291 | 702 724 | 95.32 | CM010544.1 ptg000012l
+			  Gap between these two alignments (local misassembly). Inconsistency = 1595
+			Real Alignment 5: 24904749 26851191 | 29536 1975223 | 1946443 1945688 | 99.96 | CM010544.1 ptg000012l
+		Unaligned bases: 24668
+
+CONTIG: ptg000013l (1202059bp)
+Best alignment score: 1181143.2 (LEN: 1202059, IDY: 98.26), Total number of alignments: 1
+		One align captures most of this contig: 22551624 23775098 | 1 1202059 | 1223475 1202059 | 98.26 | CM010542.1 ptg000013l
+
+CONTIG: ptg000014l (1303702bp)
+Best alignment score: 1303655.0 (LEN: 1303655, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27726102 29029759 | 48 1303702 | 1303658 1303655 | 100.0 | CM010544.1 ptg000014l
+
+CONTIG: ptg000015l (381446bp)
+Best alignment score: 378318.1 (LEN: 381446, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 24539045 24923631 | 381446 1 | 384587 381446 | 99.18 | CM010544.1 ptg000015l
+
+CONTIG: ptg000016l (28287bp)
+Best alignment score: 16442.6 (LEN: 16512, IDY: 99.58), Total number of alignments: 20
+			Looking for the best set of alignments (out of 20 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 26003 26570 | 673 106 | 568 568 | 99.82 | PGRM01000022.1 ptg000016l
+		Skipping redundant alignment 29264 30498 | 1235 1 | 1235 1235 | 99.92 | PGRM01000041.1 ptg000016l
+		Skipping redundant alignment 12414 23863 | 773 12222 | 11450 11450 | 99.98 | PGRM01000031.1 ptg000016l
+		Skipping redundant alignment 8827 21048 | 1 12222 | 12222 12222 | 99.97 | PGRM01000027.1 ptg000016l
+		Skipping redundant alignment 17948 29023 | 12311 1236 | 11076 11076 | 99.98 | PGRM01000041.1 ptg000016l
+		Skipping redundant alignment 14128 25765 | 12311 674 | 11638 11638 | 99.99 | PGRM01000022.1 ptg000016l
+		Skipping redundant alignment 21810 34120 | 12311 1 | 12311 12311 | 99.98 | PGRM01000015.1 ptg000016l
+		Skipping redundant alignment 11722 24389 | 15172 2562 | 12668 12611 | 99.35 | PGRM01000036.1 ptg000016l
+		Skipping redundant alignment 43253 53374 | 6391 16512 | 10122 10122 | 99.78 | PGRM01000032.1 ptg000016l
+		Skipping redundant alignment 8608 24555 | 564 16512 | 15948 15949 | 99.9 | PGRM01000032.1 ptg000016l
+		Skipping redundant alignment 18300 34090 | 16513 1 | 15791 16513 | 95.56 | PGRM01000029.1 ptg000016l
+		Skipping redundant alignment 23864 26248 | 17013 19397 | 2385 2385 | 99.96 | PGRM01000031.1 ptg000016l
+		Skipping redundant alignment 11645 17947 | 23404 17102 | 6303 6303 | 99.97 | PGRM01000041.1 ptg000016l
+		Skipping redundant alignment 26364 31305 | 19515 24456 | 4942 4942 | 100.0 | PGRM01000031.1 ptg000016l
+		Skipping redundant alignment 7247 11299 | 28287 24235 | 4053 4053 | 100.0 | PGRM01000041.1 ptg000016l
+		Skipping redundant alignment 10624 21809 | 28287 17102 | 11186 11186 | 99.97 | PGRM01000015.1 ptg000016l
+		Skipping redundant alignment 2942 14127 | 28287 17102 | 11186 11186 | 99.96 | PGRM01000022.1 ptg000016l
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 27454.7, number of alignments: 3, unaligned bases: 500
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 27787 out of 28287 non-N bases (98.23%))
+			Real Alignment 1: 498 17056 | 1 16512 | 16559 16512 | 99.58 | PGRM01000039.1 ptg000016l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 21049 27942 | 17013 23906 | 6894 6894 | 99.84 | PGRM01000027.1 ptg000016l
+			  Indel (<= 5bp) between these two alignments: deletion of length 1; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 27944 32324 | 23907 28287 | 4381 4381 | 99.98 | PGRM01000027.1 ptg000016l
+		Unaligned bases: 500
+
+CONTIG: ptg000017l (956096bp)
+Best alignment score: 946621.3 (LEN: 946716, IDY: 99.99), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 21463824 21502878 | 956096 917046 | 39055 39051 | 99.95 | CM010542.1 ptg000017l
+		One align captures most of this contig: 21604677 22551399 | 946716 1 | 946723 946716 | 99.99 | CM010542.1 ptg000017l
+
+CONTIG: ptg000018l (1154112bp)
+Best alignment score: 1149149.3 (LEN: 1154112, IDY: 99.57), Total number of alignments: 1
+		One align captures most of this contig: 318480 1477713 | 1154112 1 | 1159234 1154112 | 99.57 | CM010545.1 ptg000018l
+
+CONTIG: ptg000019l (64566bp)
+Best alignment score: 34881.0 (LEN: 34881, IDY: 100.00), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 45485 54833 | 9966 618 | 9349 9349 | 99.99 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 35934 45298 | 22007 12643 | 9365 9365 | 99.99 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 31036 35933 | 29702 24805 | 4898 4898 | 100.0 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 27451 31035 | 33289 29705 | 3585 3585 | 99.92 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 19646 27389 | 41040 33297 | 7744 7744 | 100.0 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 17247 19645 | 46351 43953 | 2399 2399 | 99.96 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 15365 17071 | 48058 46352 | 1707 1707 | 100.0 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 12251 15364 | 51173 48060 | 3114 3114 | 99.94 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 732 11786 | 62228 51174 | 11055 11055 | 100.0 | PGRM01000018.1 ptg000019l
+		Skipping redundant alignment 221 731 | 62740 62230 | 511 511 | 100.0 | PGRM01000018.1 ptg000019l
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 58499.1, number of alignments: 5, unaligned bases: 5993
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 58573 out of 64566 non-N bases (90.72%))
+			Real Alignment 1: 3514 12913 | 565 9964 | 9400 9400 | 99.99 | PGRM01000020.1 ptg000019l
+			  Gap between these two alignments (local misassembly). Inconsistency = -2490
+			Real Alignment 2: 12915 22425 | 12456 21966 | 9511 9511 | 99.99 | PGRM01000020.1 ptg000019l
+			  Gap between these two alignments (local misassembly). Inconsistency = -2797
+			Real Alignment 3: 22426 24652 | 24764 26990 | 2227 2227 | 100.0 | PGRM01000020.1 ptg000019l
+			  Gap between these two alignments (local misassembly). Inconsistency = 862
+			Real Alignment 4: 25651 28204 | 27127 29680 | 2554 2554 | 100.0 | PGRM01000020.1 ptg000019l
+			  Indel (<= 5bp) between these two alignments: insertion of length 5; 0 mismatches (number of Ns: 0)
+			Real Alignment 5: 28205 63085 | 29686 64566 | 34881 34881 | 100.0 | PGRM01000020.1 ptg000019l
+		Unaligned bases: 5993
+
+CONTIG: ptg000020l (808558bp)
+Best alignment score: 808558.0 (LEN: 808558, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 263 808820 | 1 808558 | 808558 808558 | 100.0 | CM010546.1 ptg000020l
+
+CONTIG: ptg000021l (5482891bp)
+Best alignment score: 5482891.0 (LEN: 5482891, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 19509834 24992724 | 5482891 1 | 5482891 5482891 | 100.0 | CM010543.1 ptg000021l
+
+CONTIG: ptg000022l (1912682bp)
+Best alignment score: 1912682.0 (LEN: 1912682, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1656021 3568702 | 1912682 1 | 1912682 1912682 | 100.0 | CM010543.1 ptg000022l
+
+CONTIG: ptg000023l (520468bp)
+Best alignment score: 520468.0 (LEN: 520468, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 192009 712476 | 1 520468 | 520468 520468 | 100.0 | CM010543.1 ptg000023l
+
+CONTIG: ptg000024l (174467bp)
+Best alignment score: 136976.7 (LEN: 143989, IDY: 95.13), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 166951.7, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 9821 between Alignment 1 and 2: 1 40296 | 134169 174467 | 40296 40299 --> 9819 40296 | 143990 174467 | 30478 30478
+			Real Alignment 1: 64665 202026 | 1 143989 | 137362 143989 | 95.13 | CM010545.1 ptg000024l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 9819 40296 | 143990 174467 | 30478 30478 | 99.99 | PGRM01000062.1 ptg000024l
+
+CONTIG: ptg000025l (32167bp)
+Best alignment score: 32143.0 (LEN: 32143, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 333 32475 | 25 32167 | 32143 32143 | 100.0 | PGRM01000079.1 ptg000025l
+
+CONTIG: ptg000026l (97225bp)
+Best alignment score: 97225.0 (LEN: 97225, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4687371 4784595 | 1 97225 | 97225 97225 | 100.0 | CM010545.1 ptg000026l
+
+CONTIG: ptg000027l (57033bp)
+Best alignment score: 56985.3 (LEN: 56991, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 389 57380 | 1 56991 | 56992 56991 | 99.99 | PGRM01000090.1 ptg000027l
+
+CONTIG: ptg000028l (593573bp)
+Best alignment score: 593573.0 (LEN: 593573, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2450383 3043955 | 1 593573 | 593573 593573 | 100.0 | CM010545.1 ptg000028l
+
+CONTIG: ptg000029l (107312bp)
+Best alignment score: 56723.0 (LEN: 56888, IDY: 99.71), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 105907.8, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 2305 between Alignment 1 and 2: 264726 318029 | 54584 107312 | 53304 52729 --> 267606 318029 | 56889 107312 | 50424 50424
+			Real Alignment 1: 204440 261464 | 56888 1 | 57025 56888 | 99.71 | CM010545.1 ptg000029l
+			  Extensive misassembly (inversion) between these two alignments
+			Real Alignment 2: 267606 318029 | 56889 107312 | 50424 50424 | 98.53 | CM010545.1 ptg000029l
+
+CONTIG: ptg000030l (522942bp)
+Best alignment score: 522942.0 (LEN: 522942, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1927330 2450270 | 1 522942 | 522941 522942 | 100.0 | CM010545.1 ptg000030l
+
+CONTIG: ptg000031l (41285bp)
+Best alignment score: 41285.0 (LEN: 41285, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 117 41401 | 41285 1 | 41285 41285 | 100.0 | PGRM01000028.1 ptg000031l
+
+CONTIG: ptg000032l (63785bp)
+Best alignment score: 63785.0 (LEN: 63785, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 190 63974 | 1 63785 | 63785 63785 | 100.0 | CM010545.1 ptg000032l
+
+CONTIG: ptg000033l (43738bp)
+Best alignment score: 43738.0 (LEN: 43738, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27682056 27725793 | 1 43738 | 43738 43738 | 100.0 | CM010544.1 ptg000033l
+
+CONTIG: ptg000034l (41302bp)
+Best alignment score: 41302.0 (LEN: 41302, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4 41305 | 1 41302 | 41302 41302 | 100.0 | PGRM01000081.1 ptg000034l
+
+CONTIG: ptg000035l (141044bp)
+Best alignment score: 76861.6 (LEN: 76877, IDY: 99.98), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 140490.1, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 10772 between Alignment 1 and 2: 76 75014 | 66106 141044 | 74939 74939 --> 10848 75014 | 76878 141044 | 64167 64167
+			Real Alignment 1: 371 77243 | 76877 1 | 76873 76877 | 99.98 | PGRM01000033.1 ptg000035l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 10848 75014 | 76878 141044 | 64167 64167 | 99.94 | PGRM01000035.1 ptg000035l
+
+CONTIG: ptg000036l (48385bp)
+Best alignment score: 48385.0 (LEN: 48385, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 16518 64902 | 1 48385 | 48385 48385 | 100.0 | PGRM01000032.1 ptg000036l
+
+CONTIG: ptg000037l (36447bp)
+Best alignment score: 36447.0 (LEN: 36447, IDY: 100.00), Total number of alignments: 21
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 58979 62966 | 8299 12286 | 3988 3988 | 99.45 | PGRM01000046.1 ptg000037l
+			Skipping alignment 67436 71117 | 16737 20418 | 3682 3682 | 99.67 | PGRM01000046.1 ptg000037l
+			Skipping alignment 81109 83688 | 23175 25754 | 2580 2580 | 99.92 | PGRM01000046.1 ptg000037l
+			Skipping alignment 78968 81108 | 21033 23173 | 2141 2141 | 99.53 | PGRM01000046.1 ptg000037l
+			Skipping alignment 56912 58977 | 6233 8298 | 2066 2066 | 99.47 | PGRM01000046.1 ptg000037l
+			Skipping alignment 86359 88306 | 28436 30383 | 1948 1948 | 99.64 | PGRM01000046.1 ptg000037l
+			Skipping alignment 62978 64750 | 12287 14059 | 1773 1773 | 99.72 | PGRM01000046.1 ptg000037l
+			Skipping alignment 54395 55879 | 3716 5200 | 1485 1485 | 99.53 | PGRM01000046.1 ptg000037l
+			Skipping alignment 51707 53149 | 1040 2482 | 1443 1443 | 99.51 | PGRM01000046.1 ptg000037l
+			Skipping alignment 53180 54373 | 2522 3715 | 1194 1194 | 98.74 | PGRM01000046.1 ptg000037l
+			Skipping alignment 91422 92597 | 33541 34716 | 1176 1176 | 99.49 | PGRM01000046.1 ptg000037l
+			Skipping alignment 90254 91421 | 32372 33539 | 1168 1168 | 99.83 | PGRM01000046.1 ptg000037l
+			Skipping alignment 88307 89467 | 30387 31547 | 1161 1161 | 100.0 | PGRM01000046.1 ptg000037l
+			Skipping alignment 64772 65908 | 14084 15220 | 1137 1137 | 99.65 | PGRM01000046.1 ptg000037l
+			Skipping alignment 83811 84860 | 25875 26924 | 1050 1050 | 99.62 | PGRM01000046.1 ptg000037l
+			Skipping alignment 55880 56909 | 5203 6232 | 1030 1030 | 99.71 | PGRM01000046.1 ptg000037l
+			Skipping alignment 85347 86358 | 27422 28433 | 1012 1012 | 99.8 | PGRM01000046.1 ptg000037l
+			Skipping alignment 89473 90235 | 31548 32310 | 763 763 | 99.61 | PGRM01000046.1 ptg000037l
+			Skipping alignment 66759 67427 | 16064 16732 | 669 669 | 99.7 | PGRM01000046.1 ptg000037l
+			Skipping alignment 66193 66758 | 15492 16057 | 566 566 | 99.82 | PGRM01000046.1 ptg000037l
+		One align captures most of this contig: 55 36501 | 1 36447 | 36447 36447 | 100.0 | PGRM01000092.1 ptg000037l
+
+CONTIG: ptg000038l (36248bp)
+Best alignment score: 36248.0 (LEN: 36248, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 236 36483 | 1 36248 | 36248 36248 | 100.0 | PGRM01000070.1 ptg000038l
+
+CONTIG: ptg000039l (571317bp)
+Best alignment score: 571317.0 (LEN: 571317, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 797437 1368752 | 1 571317 | 571316 571317 | 100.0 | CM010546.1 ptg000039l
+
+CONTIG: ptg000040l (673442bp)
+Best alignment score: 673442.0 (LEN: 673442, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3045147 3718588 | 673442 1 | 673442 673442 | 100.0 | CM010545.1 ptg000040l
+
+CONTIG: ptg000041l (58418bp)
+Best alignment score: 43767.0 (LEN: 43802, IDY: 99.92), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 23592 | 11800 35295 | 23592 23496 | 97.84 | PGRM01000059.1 ptg000041l
+			The best set is below. Score: 58311.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 14967 between Alignment 1 and 2: 272 29848 | 1 29583 | 29577 29583 --> 272 14887 | 1 14616 | 14616 14616
+			Real Alignment 1: 272 14887 | 1 14616 | 14616 14616 | 99.84 | PGRM01000059.1 ptg000041l
+			  Gap between these two alignments (local misassembly). Inconsistency = 14961 [fragmentation of reference genome]
+			Real Alignment 2: 1 43787 | 14617 58418 | 43787 43802 | 99.92 | PGRM01000063.1 ptg000041l
+
+CONTIG: ptg000042l (448046bp)
+Best alignment score: 448046.0 (LEN: 448046, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1478146 1926191 | 1 448046 | 448046 448046 | 100.0 | CM010545.1 ptg000042l
+
+CONTIG: ptg000043l (394867bp)
+Best alignment score: 394867.0 (LEN: 394867, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1260955 1655821 | 1 394867 | 394867 394867 | 100.0 | CM010543.1 ptg000043l
+
+CONTIG: ptg000044l (38062bp)
+Best alignment score: 38062.0 (LEN: 38062, IDY: 100.00), Total number of alignments: 8
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 57046 67027 | 25899 35880 | 9982 9982 | 100.0 | PGRM01000020.1 ptg000044l
+			Skipping alignment 31816 39559 | 364 8107 | 7744 7744 | 100.0 | PGRM01000020.1 ptg000044l
+			Skipping alignment 49759 57018 | 15940 23199 | 7260 7260 | 100.0 | PGRM01000020.1 ptg000044l
+			Skipping alignment 43192 46553 | 9294 12655 | 3362 3362 | 100.0 | PGRM01000020.1 ptg000044l
+			Skipping alignment 47929 49693 | 14026 15790 | 1765 1765 | 99.94 | PGRM01000020.1 ptg000044l
+			Skipping alignment 46558 47927 | 12656 14025 | 1370 1370 | 99.93 | PGRM01000020.1 ptg000044l
+			Skipping alignment 39892 40517 | 8668 9293 | 626 626 | 100.0 | PGRM01000020.1 ptg000044l
+		One align captures most of this contig: 27090 65151 | 1 38062 | 38062 38062 | 100.0 | PGRM01000088.1 ptg000044l
+
+CONTIG: ptg000045l (45997bp)
+Best alignment score: 45987.8 (LEN: 45997, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 221 46220 | 1 45997 | 46000 45997 | 99.98 | PGRM01000048.1 ptg000045l
+
+CONTIG: ptg000046l (62463bp)
+Best alignment score: 62446.0 (LEN: 62446, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1238 63683 | 18 62463 | 62446 62446 | 100.0 | PGRM01000052.1 ptg000046l
+
+CONTIG: ptg000047l (28733bp)
+Best alignment score: 28733.0 (LEN: 28733, IDY: 100.00), Total number of alignments: 19
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2471 26739 | 1 23790 | 24269 23790 | 97.94 | PGRM01000022.1 ptg000047l
+			Skipping alignment 8549 32795 | 23992 1 | 24247 23992 | 96.94 | PGRM01000027.1 ptg000047l
+			Skipping alignment 18757 42394 | 23992 368 | 23638 23625 | 97.88 | PGRM01000016.1 ptg000047l
+			Skipping alignment 10153 34203 | 1 23806 | 24051 23806 | 97.0 | PGRM01000015.1 ptg000047l
+			Skipping alignment 54568 76772 | 22440 1 | 22205 22440 | 96.78 | PGRM01000032.1 ptg000047l
+			Skipping alignment 2982 24389 | 1 20922 | 21408 20922 | 96.33 | PGRM01000036.1 ptg000047l
+			Skipping alignment 8369 27636 | 23160 3898 | 19268 19263 | 99.85 | PGRM01000032.1 ptg000047l
+			Skipping alignment 295 17152 | 23930 6876 | 16858 17055 | 98.21 | PGRM01000039.1 ptg000047l
+			Skipping alignment 43265 59780 | 17081 1 | 16516 17081 | 96.6 | PGRM01000032.1 ptg000047l
+			Skipping alignment 28532 44201 | 22200 6589 | 15670 15612 | 97.17 | PGRM01000039.1 ptg000047l
+			Skipping alignment 12414 26248 | 22711 8877 | 13835 13835 | 99.99 | PGRM01000031.1 ptg000047l
+			Skipping alignment 20085 32950 | 8757 21622 | 12866 12866 | 99.97 | PGRM01000029.1 ptg000047l
+			Skipping alignment 1 10447 | 19951 9504 | 10447 10448 | 99.98 | PGRM01000016.1 ptg000047l
+			Skipping alignment 33802 38233 | 4526 95 | 4432 4432 | 100.0 | PGRM01000031.1 ptg000047l
+			Skipping alignment 12285 16679 | 1 4395 | 4395 4395 | 100.0 | PGRM01000029.1 ptg000047l
+			Skipping alignment 26364 30253 | 8759 4870 | 3890 3890 | 99.97 | PGRM01000031.1 ptg000047l
+			Skipping alignment 16897 20084 | 5568 8755 | 3188 3188 | 100.0 | PGRM01000029.1 ptg000047l
+			Skipping alignment 32951 34335 | 22584 23968 | 1385 1385 | 99.71 | PGRM01000029.1 ptg000047l
+		One align captures most of this contig: 6776 35508 | 1 28733 | 28733 28733 | 100.0 | PGRM01000041.1 ptg000047l
+
+CONTIG: ptg000048l (30179bp)
+Best alignment score: 30179.0 (LEN: 30179, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 462 30640 | 1 30179 | 30179 30179 | 100.0 | PGRM01000073.1 ptg000048l
+
+CONTIG: ptg000049l (32460bp)
+Best alignment score: 32460.0 (LEN: 32460, IDY: 100.00), Total number of alignments: 25
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2593 32837 | 2917 31719 | 30245 28803 | 95.23 | PGRM01000015.1 ptg000049l
+			Skipping alignment 1779 17152 | 31719 16397 | 15374 15323 | 99.62 | PGRM01000039.1 ptg000049l
+			Skipping alignment 9905 22766 | 31142 18281 | 12862 12862 | 99.98 | PGRM01000032.1 ptg000049l
+			Skipping alignment 55165 67653 | 30885 18397 | 12489 12489 | 99.96 | PGRM01000032.1 ptg000049l
+			Skipping alignment 47 11190 | 29424 18281 | 11144 11144 | 99.96 | PGRM01000016.1 ptg000049l
+			Skipping alignment 43253 51585 | 26613 18281 | 8333 8333 | 99.84 | PGRM01000032.1 ptg000049l
+			Skipping alignment 55386 62858 | 14871 7399 | 7473 7473 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 21374 28846 | 14871 7399 | 7473 7473 | 100.0 | PGRM01000016.1 ptg000049l
+			Skipping alignment 73618 79851 | 13631 7398 | 6234 6234 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 30103 34138 | 14871 10836 | 4036 4036 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 67770 70961 | 18280 15089 | 3192 3192 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 22768 25959 | 18280 15089 | 3192 3192 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 16525 19716 | 18280 15089 | 3192 3192 | 100.0 | PGRM01000016.1 ptg000049l
+			Skipping alignment 34202 37264 | 7388 4326 | 3063 3063 | 100.0 | PGRM01000016.1 ptg000049l
+			Skipping alignment 70843 73617 | 4518 1744 | 2775 2775 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 68213 70842 | 7388 4759 | 2630 2630 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 37265 39606 | 4085 1744 | 2342 2342 | 100.0 | PGRM01000016.1 ptg000049l
+			Skipping alignment 51587 53465 | 18280 16402 | 1879 1879 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 73618 75351 | 1742 9 | 1734 1734 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 39607 41340 | 1742 9 | 1734 1734 | 100.0 | PGRM01000016.1 ptg000049l
+			Skipping alignment 53827 55143 | 32460 31144 | 1317 1317 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 72379 73617 | 14871 13633 | 1239 1239 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 53466 54686 | 16309 15089 | 1221 1221 | 100.0 | PGRM01000032.1 ptg000049l
+			Skipping alignment 9327 9903 | 31719 31143 | 577 577 | 100.0 | PGRM01000032.1 ptg000049l
+		One align captures most of this contig: 1809 34268 | 1 32460 | 32460 32460 | 100.0 | PGRM01000029.1 ptg000049l
+
+CONTIG: ptg000050l (235246bp)
+Best alignment score: 120507.8 (LEN: 120556, IDY: 99.96), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 188942.3, number of alignments: 2, unaligned bases: 45923
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 189323 out of 235246 non-N bases (80.48%))
+			Real Alignment 1: 335 120880 | 1 120556 | 120546 120556 | 99.96 | CM010543.1 ptg000050l
+			  Extensive misassembly (relocation, inconsistency = -43821) between these two alignments
+			Real Alignment 2: 122983 191727 | 166480 235246 | 68745 68767 | 99.88 | CM010543.1 ptg000050l
+		Unaligned bases: 45923
+
+CONTIG: ptg000051l (95359bp)
+Best alignment score: 95359.0 (LEN: 95359, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 4591534 4686892 | 1 95359 | 95359 95359 | 100.0 | CM010545.1 ptg000051l
+
+CONTIG: ptg000052l (146520bp)
+Best alignment score: 146520.0 (LEN: 146520, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 145 146664 | 1 146520 | 146520 146520 | 100.0 | PGRM01000047.1 ptg000052l
+
+CONTIG: ptg000053l (235472bp)
+Best alignment score: 142924.7 (LEN: 142939, IDY: 99.99), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 234898.7, number of alignments: 2, unaligned bases: 59
+		This contig is misassembled.
+			Excluding internal overlap of size 4643 between Alignment 1 and 2: 21507291 21604408 | 138356 235472 | 97118 97117 --> 21511935 21604408 | 142999 235472 | 92474 92474
+			Real Alignment 1: 423 143356 | 60 142998 | 142934 142939 | 99.99 | PGRM01000019.1 ptg000053l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 21511935 21604408 | 142999 235472 | 92474 92474 | 100.0 | CM010542.1 ptg000053l
+
+CONTIG: ptg000054c (145505bp)
+Best alignment score: 116385.0 (LEN: 116385, IDY: 100.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 141631.9, number of alignments: 3, unaligned bases: 3249
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 142256 out of 145505 non-N bases (97.77%))
+			Real Alignment 1: 35249 151632 | 1 116385 | 116384 116385 | 100.0 | PGRM01000023.1 ptg000054c
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 140 between Alignment 2 and 3: 32699121 32701056 | 121573 119635 | 1936 1939 --> 32699261 32701056 | 121433 119635 | 1796 1799
+			Real Alignment 2: 32699261 32701056 | 121433 119635 | 1796 1799 | 98.31 | CM010545.1 ptg000054c
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 24993716 25017777 | 145505 121434 | 24062 24072 | 99.91 | CM010543.1 ptg000054c
+		Unaligned bases: 3249
+
+CONTIG: ptg000055l (25897bp)
+Best alignment score: 25897.0 (LEN: 25897, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 590 26486 | 1 25897 | 25897 25897 | 100.0 | PGRM01000078.1 ptg000055l
+
+CONTIG: ptg000056l (225762bp)
+Best alignment score: 170019.0 (LEN: 170019, IDY: 100.00), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 36548 37288 | 169563 170303 | 741 741 | 97.84 | PGRM01000046.1 ptg000056l
+		Skipping redundant alignment 119316 121967 | 167654 170303 | 2652 2650 | 98.57 | PGRM01000019.1 ptg000056l
+		Skipping redundant alignment 59535 60287 | 171635 172387 | 753 753 | 98.54 | PGRM01000046.1 ptg000056l
+		Skipping redundant alignment 60295 60813 | 172399 172917 | 519 519 | 97.88 | PGRM01000046.1 ptg000056l
+		Skipping redundant alignment 61682 62457 | 173782 174557 | 776 776 | 98.32 | PGRM01000046.1 ptg000056l
+		Skipping redundant alignment 63349 64133 | 175448 176232 | 785 785 | 98.6 | PGRM01000046.1 ptg000056l
+		Skipping redundant alignment 64134 64746 | 176262 176874 | 613 613 | 99.18 | PGRM01000046.1 ptg000056l
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 224268.8, number of alignments: 3, unaligned bases: 642
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 225120 out of 225762 non-N bases (99.72%))
+			Real Alignment 1: 10 170029 | 1 170019 | 170020 170019 | 100.0 | PGRM01000030.1 ptg000056l
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 1320 between Alignment 2 and 3: 35363 38991 | 174243 170662 | 3629 3582 --> 36688 38991 | 172923 170662 | 2304 2262
+			Real Alignment 2: 36688 38991 | 172923 170662 | 2304 2262 | 95.57 | PGRM01000061.1 ptg000056l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 4 52842 | 172924 225762 | 52839 52839 | 100.0 | PGRM01000055.1 ptg000056l
+		Unaligned bases: 642
+
+CONTIG: ptg000057l (64589bp)
+Best alignment score: 64589.0 (LEN: 64589, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 81 64669 | 1 64589 | 64589 64589 | 100.0 | PGRM01000056.1 ptg000057l
+
+CONTIG: ptg000058l (30051bp)
+Best alignment score: 22304.0 (LEN: 22304, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 22304.0, number of alignments: 1, unaligned bases: 7747
+		This contig is partially unaligned. (Aligned 22304 out of 30051 non-N bases (74.22%))
+		Alignment: 47135 69438 | 7640 29943 | 22304 22304 | 100.0 | PGRM01000095.1 ptg000058l
+		Unaligned bases: 1 to 7639 (7639)
+		Unaligned bases: 29944 to 30051 (108)
+
+CONTIG: ptg000059l (77426bp)
+Best alignment score: 62265.9 (LEN: 62297, IDY: 99.95), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 21360313 21410007 | 67342 17603 | 49695 49740 | 98.07 | CM010542.1 ptg000059l
+			The best set is below. Score: 76743.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 40031 between Alignment 1 and 2: 21355256 21410007 | 77426 22267 | 54752 55160 --> 21355256 21370384 | 77426 62298 | 15129 15129
+			Real Alignment 1: 21360313 21422591 | 62297 1 | 62279 62297 | 99.95 | CM010542.1 ptg000059l
+			  Extensive misassembly (relocation, inconsistency = -10072) between these two alignments
+			Real Alignment 2: 21355256 21370384 | 77426 62298 | 15129 15129 | 98.99 | CM010542.1 ptg000059l
+
+CONTIG: ptg000060l (27898bp)
+Best alignment score: 27898.0 (LEN: 27898, IDY: 100.00), Total number of alignments: 21
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 7074 32597 | 25969 686 | 25524 25284 | 99.01 | PGRM01000015.1 ptg000060l
+			Skipping alignment 3781 28735 | 25885 686 | 24955 25200 | 98.96 | PGRM01000041.1 ptg000060l
+			Skipping alignment 1 24915 | 25366 686 | 24915 24681 | 98.94 | PGRM01000022.1 ptg000060l
+			Skipping alignment 10350 34165 | 686 24260 | 23816 23575 | 98.89 | PGRM01000027.1 ptg000060l
+			Skipping alignment 6 24389 | 25876 1726 | 24384 24151 | 95.8 | PGRM01000036.1 ptg000060l
+			Skipping alignment 43253 64789 | 5555 27898 | 21537 22344 | 96.29 | PGRM01000032.1 ptg000060l
+			Skipping alignment 2019 17152 | 686 15771 | 15134 15086 | 99.58 | PGRM01000039.1 ptg000060l
+			Skipping alignment 20204 32690 | 13772 1286 | 12487 12487 | 99.98 | PGRM01000029.1 ptg000060l
+			Skipping alignment 10165 22650 | 1286 13771 | 12486 12486 | 99.97 | PGRM01000032.1 ptg000060l
+			Skipping alignment 47 11074 | 2744 13771 | 11028 11028 | 99.98 | PGRM01000016.1 ptg000060l
+			Skipping alignment 22614 30722 | 19736 27844 | 8109 8109 | 100.0 | PGRM01000016.1 ptg000060l
+			Skipping alignment 9206 15439 | 25969 19736 | 6234 6234 | 100.0 | PGRM01000029.1 ptg000060l
+			Skipping alignment 22652 25840 | 13772 16960 | 3189 3189 | 100.0 | PGRM01000032.1 ptg000060l
+			Skipping alignment 16409 19597 | 13772 16960 | 3189 3189 | 99.97 | PGRM01000016.1 ptg000060l
+			Skipping alignment 16897 20084 | 17079 13892 | 3188 3188 | 100.0 | PGRM01000029.1 ptg000060l
+			Skipping alignment 31343 34162 | 19736 22555 | 2820 2820 | 100.0 | PGRM01000032.1 ptg000060l
+			Skipping alignment 28567 31341 | 16961 19735 | 2775 2775 | 100.0 | PGRM01000032.1 ptg000060l
+			Skipping alignment 19838 22612 | 16961 19735 | 2775 2775 | 100.0 | PGRM01000016.1 ptg000060l
+			Skipping alignment 32949 34212 | 1264 1 | 1264 1264 | 99.92 | PGRM01000029.1 ptg000060l
+			Skipping alignment 15441 16679 | 19735 18497 | 1239 1239 | 100.0 | PGRM01000029.1 ptg000060l
+		One align captures most of this contig: 53883 81780 | 1 27898 | 27898 27898 | 100.0 | PGRM01000032.1 ptg000060l
+
+CONTIG: ptg000061l (39977bp)
+Best alignment score: 39977.0 (LEN: 39977, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 62 40038 | 1 39977 | 39977 39977 | 100.0 | PGRM01000093.1 ptg000061l
+
+CONTIG: ptg000062l (28728bp)
+Best alignment score: 28707.9 (LEN: 28728, IDY: 99.93), Total number of alignments: 1
+		One align captures most of this contig: 159 28885 | 1 28728 | 28727 28728 | 99.93 | PGRM01000084.1 ptg000062l
+
+CONTIG: ptg000063l (112297bp)
+Best alignment score: 112297.0 (LEN: 112297, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 41 112337 | 1 112297 | 112297 112297 | 100.0 | PGRM01000046.1 ptg000063l
+
+CONTIG: ptg000064l (154378bp)
+Best alignment score: 66148.4 (LEN: 66155, IDY: 99.99), Total number of alignments: 26
+			Looking for the best set of alignments (out of 26 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 55172 55773 | 55682 55081 | 602 602 | 97.34 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 54601 55169 | 56251 55683 | 569 569 | 97.36 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 53474 54300 | 60098 59272 | 827 827 | 97.82 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 51575 52645 | 62171 61101 | 1071 1071 | 98.41 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 41832 42417 | 71392 70807 | 586 586 | 98.46 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 41142 41831 | 72089 71400 | 690 690 | 98.26 | PGRM01000035.1 ptg000064l
+		Skipping redundant alignment 26389 27830 | 100583 99142 | 1442 1442 | 99.93 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 24208 26388 | 102765 100585 | 2181 2181 | 99.77 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 23448 24179 | 103522 102791 | 732 732 | 98.09 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 22090 22977 | 104919 104032 | 888 888 | 99.77 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 20115 21061 | 106891 105945 | 947 947 | 99.68 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 18652 19526 | 108351 107477 | 875 875 | 99.89 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 18020 18575 | 108977 108422 | 556 556 | 99.82 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 16101 17724 | 110907 109284 | 1624 1624 | 99.63 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 15370 16100 | 111639 110909 | 731 731 | 99.86 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 14843 15369 | 112167 111641 | 527 527 | 99.62 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 14191 14710 | 112804 112285 | 520 520 | 99.04 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 11547 14188 | 115446 112805 | 2642 2642 | 99.39 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 7686 8781 | 117470 116375 | 1096 1096 | 99.36 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 6457 7239 | 118682 117900 | 783 783 | 99.23 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 5544 6059 | 119198 118683 | 516 516 | 98.64 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 4964 5491 | 119764 119237 | 528 528 | 99.05 | PGRM01000077.1 ptg000064l
+		Skipping redundant alignment 4434 4963 | 120298 119769 | 530 530 | 99.25 | PGRM01000077.1 ptg000064l
+			The best set is below. Score: 153805.7, number of alignments: 3, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 2677 between Alignment 1 and 2: 1 44798 | 63479 108271 | 44798 44793 --> 2679 44798 | 66156 108271 | 42120 42116
+			Real Alignment 1: 1 66155 | 66155 1 | 66155 66155 | 99.99 | PGRM01000053.1 ptg000064l
+			  Gap between these two alignments (local misassembly). Inconsistency = 2678 [fragmentation of reference genome]
+			Excluding internal overlap of size 3297 between Alignment 2 and 3: 2679 44798 | 66156 108271 | 42120 42116 --> 2679 41497 | 66156 104974 | 38819 38819
+			Real Alignment 2: 2679 41497 | 66156 104974 | 38819 38819 | 99.98 | PGRM01000061.1 ptg000064l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 3070 52466 | 154378 104975 | 49397 49404 | 99.98 | PGRM01000067.1 ptg000064l
+
+CONTIG: ptg000065l (29350bp)
+Best alignment score: 29350.0 (LEN: 29350, IDY: 100.00), Total number of alignments: 22
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 52030 77569 | 2518 29350 | 25540 26833 | 95.14 | PGRM01000032.1 ptg000065l
+			Skipping alignment 16968 42394 | 2518 28186 | 25427 25669 | 99.0 | PGRM01000016.1 ptg000065l
+			Skipping alignment 9356 34206 | 29350 4499 | 24851 24852 | 99.95 | PGRM01000015.1 ptg000065l
+			Skipping alignment 1674 26776 | 29350 4481 | 25103 24870 | 98.98 | PGRM01000022.1 ptg000065l
+			Skipping alignment 5979 30767 | 29350 4307 | 24789 25044 | 97.04 | PGRM01000041.1 ptg000065l
+			Skipping alignment 6436 31685 | 1 24635 | 25250 24635 | 96.74 | PGRM01000031.1 ptg000065l
+			Skipping alignment 8608 28092 | 5148 24635 | 19485 19488 | 99.91 | PGRM01000032.1 ptg000065l
+			Skipping alignment 29701 44247 | 6795 21341 | 14547 14547 | 99.88 | PGRM01000039.1 ptg000065l
+			Skipping alignment 20085 32712 | 19311 6684 | 12628 12628 | 99.94 | PGRM01000029.1 ptg000065l
+			Skipping alignment 43265 53465 | 10987 21187 | 10201 10201 | 99.82 | PGRM01000032.1 ptg000065l
+			Skipping alignment 17138 24389 | 14397 7146 | 7252 7252 | 99.99 | PGRM01000036.1 ptg000065l
+			Skipping alignment 2185 8193 | 29350 23342 | 6009 6009 | 99.97 | PGRM01000036.1 ptg000065l
+			Skipping alignment 55168 60577 | 23941 29350 | 5410 5410 | 99.98 | PGRM01000032.1 ptg000065l
+			Skipping alignment 11488 16679 | 29350 24159 | 5192 5192 | 100.0 | PGRM01000029.1 ptg000065l
+			Skipping alignment 12281 17080 | 19197 14398 | 4800 4800 | 99.65 | PGRM01000036.1 ptg000065l
+			Skipping alignment 8194 11713 | 22717 19198 | 3520 3520 | 99.97 | PGRM01000036.1 ptg000065l
+			Skipping alignment 32951 36157 | 5724 2518 | 3207 3207 | 100.0 | PGRM01000029.1 ptg000065l
+			Skipping alignment 16897 20084 | 22500 19313 | 3188 3188 | 100.0 | PGRM01000029.1 ptg000065l
+			Skipping alignment 53466 55167 | 21280 22981 | 1702 1702 | 100.0 | PGRM01000032.1 ptg000065l
+			Skipping alignment 28194 29700 | 4810 6316 | 1507 1507 | 100.0 | PGRM01000039.1 ptg000065l
+			Skipping alignment 26318 27133 | 3994 4809 | 816 816 | 100.0 | PGRM01000039.1 ptg000065l
+		One align captures most of this contig: 4243 33592 | 1 29350 | 29350 29350 | 100.0 | PGRM01000027.1 ptg000065l
+
+CONTIG: ptg000066l (52225bp)
+Best alignment score: 52225.0 (LEN: 52225, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 284 52508 | 52225 1 | 52225 52225 | 100.0 | PGRM01000074.1 ptg000066l
+
+CONTIG: ptg000067l (35150bp)
+Best alignment score: 35150.0 (LEN: 35150, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2116 37265 | 1 35150 | 35150 35150 | 100.0 | PGRM01000036.1 ptg000067l
+
+CONTIG: ptg000068l (49211bp)
+Best alignment score: 49211.0 (LEN: 49211, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 560 49770 | 1 49211 | 49211 49211 | 100.0 | PGRM01000064.1 ptg000068l
+
+CONTIG: ptg000069l (90803bp)
+Best alignment score: 90803.0 (LEN: 90803, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 431 91233 | 1 90803 | 90803 90803 | 100.0 | PGRM01000051.1 ptg000069l
+
+CONTIG: ptg000070l (26149bp)
+Best alignment score: 26109.8 (LEN: 26149, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 30 26175 | 1 26149 | 26146 26149 | 99.85 | PGRM01000038.1 ptg000070l
+
+CONTIG: ptg000071l (48108bp)
+Best alignment score: 48093.6 (LEN: 48108, IDY: 99.97), Total number of alignments: 1
+		One align captures most of this contig: 349 48452 | 1 48108 | 48104 48108 | 99.97 | PGRM01000049.1 ptg000071l
+
+CONTIG: ptg000072l (28253bp)
+Best alignment score: 28253.0 (LEN: 28253, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 154 28406 | 1 28253 | 28253 28253 | 100.0 | PGRM01000076.1 ptg000072l
+
+CONTIG: ptg000073l (45921bp)
+Best alignment score: 45921.0 (LEN: 45921, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 244 46163 | 1 45921 | 45920 45921 | 100.0 | PGRM01000091.1 ptg000073l
+
+CONTIG: ptg000074l (56413bp)
+Best alignment score: 56413.0 (LEN: 56413, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 475 56887 | 1 56413 | 56413 56413 | 100.0 | PGRM01000039.1 ptg000074l
+
+CONTIG: ptg000075l (43663bp)
+Best alignment score: 43663.0 (LEN: 43663, IDY: 100.00), Total number of alignments: 9
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 32914 40838 | 27358 35282 | 7925 7925 | 99.99 | PGRM01000049.1 ptg000075l
+			Skipping alignment 20002 27439 | 19230 26667 | 7438 7438 | 99.89 | PGRM01000049.1 ptg000075l
+			Skipping alignment 12632 19018 | 11017 17403 | 6387 6387 | 99.97 | PGRM01000049.1 ptg000075l
+			Skipping alignment 43637 47928 | 35283 39574 | 4292 4292 | 100.0 | PGRM01000049.1 ptg000075l
+			Skipping alignment 8915 12631 | 6344 10060 | 3717 3717 | 100.0 | PGRM01000049.1 ptg000075l
+			Skipping alignment 3673 7330 | 1105 4762 | 3658 3658 | 99.95 | PGRM01000049.1 ptg000075l
+			Skipping alignment 7331 8910 | 4764 6343 | 1580 1580 | 99.43 | PGRM01000049.1 ptg000075l
+			Skipping alignment 19019 19613 | 18251 18845 | 595 595 | 99.66 | PGRM01000049.1 ptg000075l
+		One align captures most of this contig: 132 43794 | 1 43663 | 43663 43663 | 100.0 | PGRM01000024.1 ptg000075l
+
+CONTIG: ptg000076l (72509bp)
+Best alignment score: 60377.0 (LEN: 60377, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 60377.0, number of alignments: 1, unaligned bases: 12132
+		This contig is partially unaligned. (Aligned 60377 out of 72509 non-N bases (83.27%))
+		Alignment: 64 60440 | 1 60377 | 60377 60377 | 100.0 | PGRM01000057.1 ptg000076l
+		Unaligned bases: 60378 to 72509 (12132)
+
+CONTIG: ptg000077l (36377bp)
+Best alignment score: 36377.0 (LEN: 36377, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 38 36414 | 1 36377 | 36377 36377 | 100.0 | PGRM01000069.1 ptg000077l
+
+CONTIG: ptg000078l (25135bp)
+Best alignment score: 25135.0 (LEN: 25135, IDY: 100.00), Total number of alignments: 59
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 43249 67907 | 25135 951 | 24659 24185 | 98.02 | PGRM01000022.1 ptg000078l
+			Skipping alignment 31601 56018 | 25135 951 | 24418 24185 | 97.04 | PGRM01000022.1 ptg000078l
+			Skipping alignment 54897 79555 | 25135 951 | 24659 24185 | 96.12 | PGRM01000022.1 ptg000078l
+			Skipping alignment 14319 39684 | 25135 951 | 25366 24185 | 95.29 | PGRM01000088.1 ptg000078l
+			Skipping alignment 4280 27329 | 24000 951 | 23050 23050 | 99.98 | PGRM01000088.1 ptg000078l
+			Skipping alignment 31118 54833 | 951 23947 | 23716 22997 | 96.96 | PGRM01000018.1 ptg000078l
+			Skipping alignment 5935 26591 | 3581 24000 | 20657 20420 | 98.82 | PGRM01000045.1 ptg000078l
+			Skipping alignment 30096 44370 | 15466 951 | 14275 14516 | 98.34 | PGRM01000022.1 ptg000078l
+			Skipping alignment 28305 41466 | 15466 2061 | 13162 13406 | 98.02 | PGRM01000028.1 ptg000078l
+			Skipping alignment 5532 18345 | 1 12814 | 12814 12814 | 99.98 | PGRM01000024.1 ptg000078l
+			Skipping alignment 11947 24652 | 16286 3581 | 12706 12706 | 100.0 | PGRM01000020.1 ptg000078l
+			Skipping alignment 8402 21002 | 1 12601 | 12601 12601 | 99.99 | PGRM01000017.1 ptg000078l
+			Skipping alignment 54013 66447 | 16286 3852 | 12435 12435 | 100.0 | PGRM01000088.1 ptg000078l
+			Skipping alignment 49689 61517 | 12779 951 | 11829 11829 | 100.0 | PGRM01000020.1 ptg000078l
+			Skipping alignment 43007 54831 | 951 12775 | 11825 11825 | 100.0 | PGRM01000018.1 ptg000078l
+			Skipping alignment 732 11790 | 1721 12779 | 11059 11059 | 100.0 | PGRM01000018.1 ptg000078l
+			Skipping alignment 21437 31739 | 5767 16069 | 10303 10303 | 99.99 | PGRM01000034.1 ptg000078l
+			Skipping alignment 17247 27452 | 2574 12779 | 10206 10206 | 99.99 | PGRM01000018.1 ptg000078l
+			Skipping alignment 34949 43703 | 16070 24824 | 8755 8755 | 99.95 | PGRM01000034.1 ptg000078l
+			Skipping alignment 6246 14787 | 24828 16287 | 8542 8542 | 99.96 | PGRM01000015.1 ptg000078l
+			Skipping alignment 35298 43821 | 16301 24824 | 8524 8524 | 99.99 | PGRM01000018.1 ptg000078l
+			Skipping alignment 1870 10388 | 5757 14275 | 8519 8519 | 100.0 | PGRM01000031.1 ptg000078l
+			Skipping alignment 8378 16679 | 24828 16527 | 8302 8302 | 100.0 | PGRM01000029.1 ptg000078l
+			Skipping alignment 32899 40851 | 16070 24022 | 7953 7953 | 99.95 | PGRM01000049.1 ptg000078l
+			Skipping alignment 13524 21454 | 16070 24000 | 7931 7931 | 99.96 | PGRM01000031.1 ptg000078l
+			Skipping alignment 24999 32712 | 12830 5117 | 7714 7714 | 100.0 | PGRM01000029.1 ptg000078l
+			Skipping alignment 3514 11227 | 24000 16287 | 7714 7714 | 99.96 | PGRM01000020.1 ptg000078l
+			Skipping alignment 62435 70134 | 16301 24000 | 7700 7700 | 99.99 | PGRM01000018.1 ptg000078l
+			Skipping alignment 27065 34764 | 16301 24000 | 7700 7700 | 99.97 | PGRM01000021.1 ptg000078l
+			Skipping alignment 55168 62859 | 16309 24000 | 7692 7692 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 55168 62858 | 5139 12829 | 7691 7691 | 99.99 | PGRM01000032.1 ptg000078l
+			Skipping alignment 19804 27452 | 16301 23949 | 7649 7649 | 99.99 | PGRM01000018.1 ptg000078l
+			Skipping alignment 43029 50621 | 23879 16287 | 7593 7593 | 99.96 | PGRM01000088.1 ptg000078l
+			Skipping alignment 31816 39395 | 23886 16307 | 7580 7580 | 99.99 | PGRM01000020.1 ptg000078l
+			Skipping alignment 73618 79851 | 17767 24000 | 6234 6234 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 13825 18639 | 952 5766 | 4815 4815 | 100.0 | PGRM01000034.1 ptg000078l
+			Skipping alignment 32951 37107 | 4157 1 | 4157 4157 | 99.95 | PGRM01000029.1 ptg000078l
+			Skipping alignment 43027 46553 | 16306 12780 | 3527 3527 | 100.0 | PGRM01000020.1 ptg000078l
+			Skipping alignment 58191 61715 | 12776 16300 | 3525 3525 | 99.94 | PGRM01000018.1 ptg000078l
+			Skipping alignment 31058 34578 | 12780 16300 | 3521 3521 | 100.0 | PGRM01000018.1 ptg000078l
+			Skipping alignment 20973 24472 | 12801 16300 | 3500 3500 | 100.0 | PGRM01000021.1 ptg000078l
+			Skipping alignment 15507 18942 | 16286 12851 | 3436 3436 | 100.0 | PGRM01000015.1 ptg000078l
+			Skipping alignment 43265 46674 | 9420 12829 | 3410 3410 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 29188 32419 | 12838 16069 | 3232 3232 | 99.94 | PGRM01000049.1 ptg000078l
+			Skipping alignment 68213 71442 | 12840 16069 | 3230 3230 | 99.97 | PGRM01000032.1 ptg000078l
+			Skipping alignment 16897 19645 | 15588 12840 | 2749 2749 | 100.0 | PGRM01000029.1 ptg000078l
+			Skipping alignment 25651 28144 | 3444 951 | 2494 2494 | 100.0 | PGRM01000020.1 ptg000078l
+			Skipping alignment 51080 53465 | 1 2386 | 2386 2386 | 99.87 | PGRM01000032.1 ptg000078l
+			Skipping alignment 17247 19084 | 14463 16300 | 1838 1838 | 99.95 | PGRM01000018.1 ptg000078l
+			Skipping alignment 10389 12090 | 14368 16069 | 1702 1702 | 100.0 | PGRM01000031.1 ptg000078l
+			Skipping alignment 53466 55167 | 14368 16069 | 1702 1702 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 53466 55167 | 2479 4180 | 1702 1702 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 71922 73617 | 16070 17765 | 1696 1696 | 99.82 | PGRM01000032.1 ptg000078l
+			Skipping alignment 15389 17071 | 12780 14462 | 1683 1683 | 100.0 | PGRM01000018.1 ptg000078l
+			Skipping alignment 15449 17071 | 951 2573 | 1623 1623 | 100.0 | PGRM01000018.1 ptg000078l
+			Skipping alignment 52030 53465 | 12840 14275 | 1436 1436 | 100.0 | PGRM01000032.1 ptg000078l
+			Skipping alignment 28136 28957 | 12016 12837 | 822 822 | 100.0 | PGRM01000049.1 ptg000078l
+			Skipping alignment 221 731 | 1209 1719 | 511 511 | 100.0 | PGRM01000018.1 ptg000078l
+		One align captures most of this contig: 3880 29014 | 1 25135 | 25135 25135 | 100.0 | PGRM01000025.1 ptg000078l
+
+CONTIG: ptg000079l (23684bp)
+Best alignment score: 23684.0 (LEN: 23684, IDY: 100.00), Total number of alignments: 18
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 10694 34145 | 23684 1 | 23452 23684 | 98.89 | PGRM01000032.1 ptg000079l
+			Skipping alignment 14071 31470 | 6291 23684 | 17400 17394 | 99.94 | PGRM01000015.1 ptg000079l
+			Skipping alignment 6389 23788 | 6291 23684 | 17400 17394 | 99.91 | PGRM01000022.1 ptg000079l
+			Skipping alignment 11477 28877 | 23684 6291 | 17401 17394 | 99.88 | PGRM01000027.1 ptg000079l
+			Skipping alignment 55697 72855 | 23684 6291 | 17159 17394 | 98.57 | PGRM01000032.1 ptg000079l
+			Skipping alignment 21685 38844 | 23684 6291 | 17160 17394 | 98.55 | PGRM01000016.1 ptg000079l
+			Skipping alignment 16203 32161 | 7723 23684 | 15959 15962 | 99.89 | PGRM01000029.1 ptg000079l
+			Skipping alignment 30158 44189 | 23667 9454 | 14032 14214 | 98.58 | PGRM01000039.1 ptg000079l
+			Skipping alignment 3146 17152 | 23684 9729 | 14007 13956 | 99.59 | PGRM01000039.1 ptg000079l
+			Skipping alignment 43253 55883 | 19944 6744 | 12631 13201 | 95.5 | PGRM01000032.1 ptg000079l
+			Skipping alignment 15652 27608 | 11728 23684 | 11957 11957 | 99.99 | PGRM01000041.1 ptg000079l
+			Skipping alignment 1 10447 | 22802 12355 | 10447 10448 | 99.97 | PGRM01000016.1 ptg000079l
+			Skipping alignment 17138 24300 | 16522 23684 | 7163 7163 | 99.99 | PGRM01000036.1 ptg000079l
+			Skipping alignment 12287 17080 | 11728 16521 | 4794 4794 | 99.71 | PGRM01000036.1 ptg000079l
+			Skipping alignment 7128 11298 | 1 4171 | 4171 4171 | 100.0 | PGRM01000041.1 ptg000079l
+			Skipping alignment 11790 15530 | 7868 11608 | 3741 3741 | 100.0 | PGRM01000041.1 ptg000079l
+			Skipping alignment 8194 11598 | 8204 11608 | 3405 3405 | 99.97 | PGRM01000036.1 ptg000079l
+		One align captures most of this contig: 14292 37975 | 23684 1 | 23684 23684 | 100.0 | PGRM01000031.1 ptg000079l
+
+CONTIG: ptg000080l (25972bp)
+Best alignment score: 25972.0 (LEN: 25972, IDY: 100.00), Total number of alignments: 48
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 63025 80111 | 17085 1 | 17087 17085 | 99.87 | PGRM01000022.1 ptg000080l
+			Skipping alignment 51376 68465 | 16847 1 | 17090 16847 | 98.49 | PGRM01000022.1 ptg000080l
+			Skipping alignment 31058 47889 | 499 17085 | 16832 16587 | 98.48 | PGRM01000018.1 ptg000080l
+			Skipping alignment 11256 27887 | 16392 1 | 16632 16392 | 98.49 | PGRM01000088.1 ptg000080l
+			Skipping alignment 22447 39744 | 17085 499 | 17298 16587 | 95.8 | PGRM01000088.1 ptg000080l
+			Skipping alignment 4830 20903 | 559 16392 | 16074 15834 | 98.43 | PGRM01000025.1 ptg000080l
+			Skipping alignment 6175 19595 | 3189 17085 | 13421 13897 | 96.45 | PGRM01000045.1 ptg000080l
+			Skipping alignment 6202 18623 | 1 12181 | 12422 12181 | 98.06 | PGRM01000027.1 ptg000080l
+			Skipping alignment 1607 13485 | 499 12136 | 11879 11638 | 97.97 | PGRM01000021.1 ptg000080l
+			Skipping alignment 11373 21636 | 16227 5964 | 10264 10264 | 100.0 | PGRM01000020.1 ptg000080l
+			Skipping alignment 5176 15439 | 16227 5964 | 10264 10264 | 100.0 | PGRM01000029.1 ptg000080l
+			Skipping alignment 22267 32530 | 5964 16227 | 10264 10264 | 99.99 | PGRM01000034.1 ptg000080l
+			Skipping alignment 16641 25635 | 12182 3189 | 8995 8994 | 99.99 | PGRM01000022.1 ptg000080l
+			Skipping alignment 33630 40548 | 19054 25972 | 6919 6919 | 99.99 | PGRM01000034.1 ptg000080l
+			Skipping alignment 15221 21453 | 5964 12196 | 6233 6233 | 100.0 | PGRM01000031.1 ptg000080l
+			Skipping alignment 56626 62843 | 5964 12181 | 6218 6218 | 100.0 | PGRM01000032.1 ptg000080l
+			Skipping alignment 5608 11790 | 5964 12146 | 6183 6183 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 21270 27452 | 5964 12146 | 6183 6183 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 48653 54831 | 5964 12142 | 6179 6179 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 33214 38233 | 20111 25130 | 5020 5020 | 99.98 | PGRM01000031.1 ptg000080l
+			Skipping alignment 58191 62275 | 12143 16227 | 4085 4085 | 99.95 | PGRM01000018.1 ptg000080l
+			Skipping alignment 31058 35138 | 12147 16227 | 4081 4081 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 26807 30827 | 12207 16227 | 4021 4021 | 100.0 | PGRM01000031.1 ptg000080l
+			Skipping alignment 42449 45636 | 1 3188 | 3188 3188 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 21638 24412 | 5963 3189 | 2775 2775 | 100.0 | PGRM01000020.1 ptg000080l
+			Skipping alignment 45877 48651 | 3189 5963 | 2775 2775 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 2832 5606 | 3189 5963 | 2775 2775 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 18494 21268 | 3189 5963 | 2775 2775 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 12445 15219 | 3189 5963 | 2775 2775 | 100.0 | PGRM01000031.1 ptg000080l
+			Skipping alignment 16897 19645 | 3307 559 | 2749 2749 | 100.0 | PGRM01000029.1 ptg000080l
+			Skipping alignment 13776 16453 | 511 3188 | 2678 2678 | 100.0 | PGRM01000034.1 ptg000080l
+			Skipping alignment 25651 28204 | 3052 499 | 2554 2554 | 100.0 | PGRM01000020.1 ptg000080l
+			Skipping alignment 17247 19644 | 13830 16227 | 2398 2398 | 99.96 | PGRM01000018.1 ptg000080l
+			Skipping alignment 8395 10388 | 1 1994 | 1994 1994 | 100.0 | PGRM01000031.1 ptg000080l
+			Skipping alignment 16694 18639 | 3189 5134 | 1946 1946 | 100.0 | PGRM01000034.1 ptg000080l
+			Skipping alignment 732 2591 | 1329 3188 | 1860 1860 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 53466 55256 | 2087 3877 | 1791 1791 | 99.94 | PGRM01000032.1 ptg000080l
+			Skipping alignment 15389 17071 | 12147 13829 | 1683 1683 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 15389 17071 | 499 2181 | 1683 1683 | 100.0 | PGRM01000018.1 ptg000080l
+			Skipping alignment 52030 53465 | 559 1994 | 1436 1436 | 100.0 | PGRM01000032.1 ptg000080l
+			Skipping alignment 55257 56624 | 4596 5963 | 1368 1368 | 100.0 | PGRM01000032.1 ptg000080l
+			Skipping alignment 15441 16679 | 5963 4725 | 1239 1239 | 100.0 | PGRM01000029.1 ptg000080l
+			Skipping alignment 32087 33213 | 18983 20109 | 1127 1127 | 99.91 | PGRM01000031.1 ptg000080l
+			Skipping alignment 10389 11490 | 2087 3188 | 1102 1102 | 100.0 | PGRM01000031.1 ptg000080l
+			Skipping alignment 17247 18253 | 2182 3188 | 1007 1007 | 99.9 | PGRM01000018.1 ptg000080l
+			Skipping alignment 21437 22265 | 5135 5963 | 829 829 | 99.88 | PGRM01000034.1 ptg000080l
+			Skipping alignment 221 731 | 817 1327 | 511 511 | 100.0 | PGRM01000018.1 ptg000080l
+		One align captures most of this contig: 18957 44928 | 25972 1 | 25972 25972 | 100.0 | PGRM01000022.1 ptg000080l
+
+CONTIG: ptg000081l (78959bp)
+Best alignment score: 78959.0 (LEN: 78959, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 30 78987 | 1 78959 | 78958 78959 | 100.0 | PGRM01000050.1 ptg000081l
+
+CONTIG: ptg000082l (45196bp)
+Best alignment score: 36292.7 (LEN: 36300, IDY: 99.98), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 43253 46659 | 13979 10573 | 3407 3407 | 100.0 | PGRM01000032.1 ptg000082l
+		Skipping redundant alignment 41468 43252 | 21867 20083 | 1785 1785 | 99.94 | PGRM01000032.1 ptg000082l
+		Skipping redundant alignment 39445 41467 | 23892 21870 | 2023 2023 | 99.95 | PGRM01000032.1 ptg000082l
+		Skipping redundant alignment 36154 39444 | 27195 23905 | 3291 3291 | 100.0 | PGRM01000032.1 ptg000082l
+		Skipping redundant alignment 34758 36153 | 31611 30216 | 1396 1396 | 100.0 | PGRM01000032.1 ptg000082l
+		Skipping redundant alignment 34163 34757 | 32207 31613 | 595 595 | 99.66 | PGRM01000032.1 ptg000082l
+			The best set is below. Score: 41330.7, number of alignments: 3, unaligned bases: 3334
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 41862 out of 45196 non-N bases (92.62%))
+			Excluding internal overlap of size 4093 between Alignment 1 and 2: 29016 34154 | 37346 32208 | 5139 5139 --> 29016 30061 | 37346 36301 | 1046 1046
+			Real Alignment 1: 6325 42620 | 1 36300 | 36296 36300 | 99.98 | PGRM01000037.1 ptg000082l
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 29016 30061 | 37346 36301 | 1046 1046 | 100.0 | PGRM01000032.1 ptg000082l
+			  Gap between these two alignments (local misassembly). Inconsistency = 1289
+			Real Alignment 3: 23211 27726 | 41862 37347 | 4516 4516 | 100.0 | PGRM01000032.1 ptg000082l
+		Unaligned bases: 3334
+
+CONTIG: ptg000083l (37952bp)
+Best alignment score: 37952.0 (LEN: 37952, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 187 38138 | 1 37952 | 37952 37952 | 100.0 | PGRM01000089.1 ptg000083l
+
+CONTIG: ptg000084l (107050bp)
+Best alignment score: 107050.0 (LEN: 107050, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 108 107157 | 1 107050 | 107050 107050 | 100.0 | PGRM01000044.1 ptg000084l
+
+CONTIG: ptg000085l (43740bp)
+Best alignment score: 43740.0 (LEN: 43740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 163 43902 | 1 43740 | 43740 43740 | 100.0 | PGRM01000065.1 ptg000085l
+
+CONTIG: ptg000086l (17188bp)
+Best alignment score: 11492.0 (LEN: 11492, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 11492.0, number of alignments: 1, unaligned bases: 5696
+		This contig is partially unaligned. (Aligned 11492 out of 17188 non-N bases (66.86%))
+		Alignment: 26 11517 | 1 11492 | 11492 11492 | 100.0 | PGRM01000095.1 ptg000086l
+		Unaligned bases: 11493 to 17188 (5696)
+
+CONTIG: ptg000087l (21925bp)
+Best alignment score: 21925.0 (LEN: 21925, IDY: 100.00), Total number of alignments: 60
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 22406235 22427340 | 1 20770 | 21106 20770 | 97.93 | CM010541.1 ptg000087l
+			Skipping alignment 22380398 22400384 | 1 19973 | 19987 19973 | 99.86 | CM010541.1 ptg000087l
+			Skipping alignment 22377925 22397924 | 1 19973 | 20000 19973 | 99.78 | CM010541.1 ptg000087l
+			Skipping alignment 22382873 22402858 | 1 19973 | 19986 19973 | 99.71 | CM010541.1 ptg000087l
+			Skipping alignment 22360623 22380599 | 1 19973 | 19977 19973 | 99.69 | CM010541.1 ptg000087l
+			Skipping alignment 22375465 22395449 | 1 19973 | 19985 19973 | 99.67 | CM010541.1 ptg000087l
+			Skipping alignment 22372991 22392974 | 1 19973 | 19984 19973 | 99.65 | CM010541.1 ptg000087l
+			Skipping alignment 22370517 22390499 | 1 19973 | 19983 19973 | 99.6 | CM010541.1 ptg000087l
+			Skipping alignment 22368042 22388024 | 1 19973 | 19983 19973 | 99.58 | CM010541.1 ptg000087l
+			Skipping alignment 22363096 22383074 | 1 19973 | 19979 19973 | 99.57 | CM010541.1 ptg000087l
+			Skipping alignment 22365569 22385549 | 1 19973 | 19981 19973 | 99.56 | CM010541.1 ptg000087l
+			Skipping alignment 22358298 22378038 | 209 19900 | 19741 19692 | 98.81 | CM010541.1 ptg000087l
+			Skipping alignment 22409042 22426543 | 1 17511 | 17502 17511 | 99.3 | CM010541.1 ptg000087l
+			Skipping alignment 22387823 22405245 | 1 17421 | 17423 17421 | 99.75 | CM010541.1 ptg000087l
+			Skipping alignment 22390298 22400297 | 1 10000 | 10000 10000 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22392773 22400297 | 1 7525 | 7525 7525 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22395248 22400297 | 1 5050 | 5050 5050 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22414360 22419044 | 10266 14950 | 4685 4685 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22397723 22400297 | 1 2575 | 2575 2575 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22414360 22416569 | 12741 14950 | 2210 2210 | 99.73 | CM010541.1 ptg000087l
+			Skipping alignment 22402042 22404196 | 11761 13915 | 2155 2155 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22402042 22404196 | 1861 4015 | 2155 2155 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22402042 22404196 | 9286 11440 | 2155 2155 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22402042 22404196 | 4336 6490 | 2155 2155 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22402042 22404196 | 6811 8965 | 2155 2155 | 99.81 | CM010541.1 ptg000087l
+			Skipping alignment 22418330 22420484 | 16695 18849 | 2155 2155 | 99.68 | CM010541.1 ptg000087l
+			Skipping alignment 22415855 22418009 | 16695 18849 | 2155 2155 | 99.68 | CM010541.1 ptg000087l
+			Skipping alignment 22420805 22422959 | 16695 18849 | 2155 2155 | 99.63 | CM010541.1 ptg000087l
+			Skipping alignment 22409962 22411883 | 5869 7790 | 1922 1922 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22409962 22411883 | 8344 10265 | 1922 1922 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22409962 22411883 | 10819 12740 | 1922 1922 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22400298 22402041 | 10016 11759 | 1744 1744 | 99.89 | CM010541.1 ptg000087l
+			Skipping alignment 22400298 22402041 | 116 1859 | 1744 1744 | 99.89 | CM010541.1 ptg000087l
+			Skipping alignment 22400298 22402041 | 7541 9284 | 1744 1744 | 99.89 | CM010541.1 ptg000087l
+			Skipping alignment 22400298 22402041 | 2591 4334 | 1744 1744 | 99.89 | CM010541.1 ptg000087l
+			Skipping alignment 22400298 22402041 | 5066 6809 | 1744 1744 | 99.89 | CM010541.1 ptg000087l
+			Skipping alignment 22419060 22420803 | 14951 16694 | 1744 1744 | 99.77 | CM010541.1 ptg000087l
+			Skipping alignment 22416585 22418328 | 14951 16694 | 1744 1744 | 99.77 | CM010541.1 ptg000087l
+			Skipping alignment 22412691 22414358 | 8598 10265 | 1668 1668 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22412691 22414358 | 11073 12740 | 1668 1668 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22409962 22411618 | 13294 14950 | 1657 1657 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22414360 22415853 | 15201 16694 | 1494 1494 | 99.53 | CM010541.1 ptg000087l
+			Skipping alignment 22412691 22414093 | 13548 14950 | 1403 1403 | 100.0 | CM010541.1 ptg000087l
+			Skipping alignment 22414360 22415534 | 17675 18849 | 1175 1175 | 99.49 | CM010541.1 ptg000087l
+			Skipping alignment 22413379 22414358 | 16695 17674 | 980 980 | 99.69 | CM010541.1 ptg000087l
+			Skipping alignment 22422960 22423846 | 18851 19737 | 887 887 | 99.66 | CM010541.1 ptg000087l
+			Skipping alignment 22415535 22416421 | 18851 19737 | 887 887 | 99.66 | CM010541.1 ptg000087l
+			Skipping alignment 22420485 22421371 | 18851 19737 | 887 887 | 99.66 | CM010541.1 ptg000087l
+			Skipping alignment 22418010 22418896 | 18851 19737 | 887 887 | 99.66 | CM010541.1 ptg000087l
+			Skipping alignment 22411885 22412690 | 7791 8596 | 806 806 | 99.63 | CM010541.1 ptg000087l
+			Skipping alignment 22411885 22412690 | 10266 11071 | 806 806 | 99.63 | CM010541.1 ptg000087l
+			Skipping alignment 22411885 22412690 | 12741 13546 | 806 806 | 99.63 | CM010541.1 ptg000087l
+			Skipping alignment 22411885 22412690 | 15201 16006 | 806 806 | 99.5 | CM010541.1 ptg000087l
+			Skipping alignment 22412691 22413377 | 16008 16694 | 687 687 | 99.85 | CM010541.1 ptg000087l
+			Skipping alignment 22405627 22406308 | 14243 14924 | 682 682 | 99.85 | CM010541.1 ptg000087l
+			Skipping alignment 22405627 22406308 | 4343 5024 | 682 682 | 99.85 | CM010541.1 ptg000087l
+			Skipping alignment 22405627 22406308 | 11768 12449 | 682 682 | 99.85 | CM010541.1 ptg000087l
+			Skipping alignment 22405627 22406308 | 6818 7499 | 682 682 | 99.85 | CM010541.1 ptg000087l
+			Skipping alignment 22405627 22406308 | 9293 9974 | 682 682 | 99.85 | CM010541.1 ptg000087l
+		One align captures most of this contig: 22385348 22407272 | 1 21925 | 21925 21925 | 100.0 | CM010541.1 ptg000087l
+
+CONTIG: ptg000088l (28797bp)
+Best alignment score: 28797.0 (LEN: 28797, IDY: 100.00), Total number of alignments: 11
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 33357 41989 | 20165 28797 | 8633 8633 | 99.98 | PGRM01000018.1 ptg000088l
+			Skipping alignment 60748 69126 | 20419 28797 | 8379 8379 | 99.99 | PGRM01000018.1 ptg000088l
+			Skipping alignment 16411 24315 | 28797 20893 | 7905 7905 | 99.99 | PGRM01000020.1 ptg000088l
+			Skipping alignment 27468 31035 | 12397 15964 | 3568 3568 | 99.94 | PGRM01000018.1 ptg000088l
+			Skipping alignment 28205 31772 | 15983 12416 | 3568 3568 | 99.89 | PGRM01000020.1 ptg000088l
+			Skipping alignment 55023 58175 | 12812 15964 | 3153 3153 | 99.94 | PGRM01000018.1 ptg000088l
+			Skipping alignment 58176 60747 | 15974 18545 | 2572 2572 | 100.0 | PGRM01000018.1 ptg000088l
+			Skipping alignment 25651 28204 | 18546 15993 | 2554 2554 | 100.0 | PGRM01000020.1 ptg000088l
+			Skipping alignment 31036 33356 | 15971 18291 | 2321 2321 | 100.0 | PGRM01000018.1 ptg000088l
+			Skipping alignment 24316 25515 | 19979 18780 | 1200 1200 | 99.92 | PGRM01000020.1 ptg000088l
+		One align captures most of this contig: 4960 33756 | 1 28797 | 28797 28797 | 100.0 | PGRM01000021.1 ptg000088l
+
+CONTIG: ptg000089l (26154bp)
+Best alignment score: 26154.0 (LEN: 26154, IDY: 100.00), Total number of alignments: 18
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 15389 40000 | 1964 26154 | 24612 24191 | 98.25 | PGRM01000018.1 ptg000089l
+			Skipping alignment 52 24506 | 2111 26154 | 24455 24044 | 98.25 | PGRM01000018.1 ptg000089l
+			Skipping alignment 42022 63540 | 21743 1 | 21519 21743 | 98.91 | PGRM01000020.1 ptg000089l
+			Skipping alignment 56079 69930 | 13852 1 | 13852 13852 | 99.99 | PGRM01000022.1 ptg000089l
+			Skipping alignment 1607 13492 | 1964 13849 | 11886 11886 | 100.0 | PGRM01000021.1 ptg000089l
+			Skipping alignment 25378 31767 | 19765 26154 | 6390 6390 | 99.98 | PGRM01000021.1 ptg000089l
+			Skipping alignment 44431 50613 | 13852 7670 | 6183 6183 | 99.97 | PGRM01000022.1 ptg000089l
+			Skipping alignment 52957 58041 | 5085 1 | 5085 5085 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 47377 50613 | 26154 22918 | 3237 3237 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 35729 38965 | 26154 22918 | 3237 3237 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 52957 56078 | 20333 17212 | 3122 3122 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 41309 44430 | 20333 17212 | 3122 3122 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 18186 20923 | 14455 17192 | 2738 2738 | 99.96 | PGRM01000021.1 ptg000089l
+			Skipping alignment 20933 23504 | 17193 19764 | 2572 2572 | 100.0 | PGRM01000021.1 ptg000089l
+			Skipping alignment 50614 52956 | 22916 20574 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 38966 41308 | 22916 20574 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000089l
+			Skipping alignment 50614 52956 | 7668 5326 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000089l
+		One align captures most of this contig: 40984 67137 | 1 26154 | 26154 26154 | 100.0 | PGRM01000018.1 ptg000089l
+
+CONTIG: ptg000090l (32000bp)
+Best alignment score: 32000.0 (LEN: 32000, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 71 32070 | 1 32000 | 32000 32000 | 100.0 | PGRM01000054.1 ptg000090l
+
+CONTIG: ptg000091l (54119bp)
+Best alignment score: 54119.0 (LEN: 54119, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 620 54738 | 1 54119 | 54119 54119 | 100.0 | PGRM01000066.1 ptg000091l
+
+CONTIG: ptg000092l (35965bp)
+Best alignment score: 35965.0 (LEN: 35965, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 106 36070 | 1 35965 | 35965 35965 | 100.0 | PGRM01000080.1 ptg000092l
+
+CONTIG: ptg000093l (40537bp)
+Best alignment score: 40537.0 (LEN: 40537, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 50 40586 | 1 40537 | 40537 40537 | 100.0 | PGRM01000072.1 ptg000093l
+
+CONTIG: ptg000094l (18574bp)
+Best alignment score: 18574.0 (LEN: 18574, IDY: 100.00), Total number of alignments: 47
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 8166 18846 | 1 10681 | 10681 10681 | 99.97 | PGRM01000025.1 ptg000094l
+			Skipping alignment 4937 15617 | 10681 1 | 10681 10681 | 99.97 | PGRM01000015.1 ptg000094l
+			Skipping alignment 65780 76460 | 10681 1 | 10681 10681 | 99.97 | PGRM01000022.1 ptg000094l
+			Skipping alignment 6640 17320 | 1 10681 | 10681 10681 | 99.97 | PGRM01000045.1 ptg000094l
+			Skipping alignment 13313 23993 | 10681 1 | 10681 10681 | 99.97 | PGRM01000088.1 ptg000094l
+			Skipping alignment 53891 64571 | 10681 1 | 10681 10681 | 99.97 | PGRM01000022.1 ptg000094l
+			Skipping alignment 13266 23946 | 10681 1 | 10681 10681 | 99.97 | PGRM01000020.1 ptg000094l
+			Skipping alignment 55332 66012 | 10681 1 | 10681 10681 | 99.97 | PGRM01000088.1 ptg000094l
+			Skipping alignment 34454 45134 | 1 10681 | 10681 10681 | 99.97 | PGRM01000018.1 ptg000094l
+			Skipping alignment 42243 52922 | 10681 1 | 10680 10681 | 99.97 | PGRM01000022.1 ptg000094l
+			Skipping alignment 30595 41274 | 10681 1 | 10680 10681 | 99.97 | PGRM01000022.1 ptg000094l
+			Skipping alignment 28804 39480 | 10681 1 | 10677 10681 | 99.75 | PGRM01000028.1 ptg000094l
+			Skipping alignment 4563 15248 | 10681 15 | 10686 10667 | 99.58 | PGRM01000094.1 ptg000094l
+			Skipping alignment 25202 35740 | 10681 134 | 10539 10548 | 99.88 | PGRM01000088.1 ptg000094l
+			Skipping alignment 27489 37496 | 629 10636 | 10008 10008 | 99.98 | PGRM01000024.1 ptg000094l
+			Skipping alignment 7069 17015 | 10681 734 | 9947 9948 | 99.92 | PGRM01000029.1 ptg000094l
+			Skipping alignment 19349 29065 | 15 9726 | 9717 9712 | 99.88 | PGRM01000025.1 ptg000094l
+			Skipping alignment 21437 30592 | 1481 10636 | 9156 9156 | 99.97 | PGRM01000034.1 ptg000094l
+			Skipping alignment 9 8887 | 1799 10681 | 8879 8883 | 99.82 | PGRM01000027.1 ptg000094l
+			Skipping alignment 32286 40851 | 1 8566 | 8566 8566 | 100.0 | PGRM01000049.1 ptg000094l
+			Skipping alignment 12511 21075 | 8565 1 | 8565 8565 | 99.99 | PGRM01000028.1 ptg000094l
+			Skipping alignment 26221 34764 | 1 8544 | 8544 8544 | 100.0 | PGRM01000021.1 ptg000094l
+			Skipping alignment 16626 25169 | 8544 1 | 8544 8544 | 99.99 | PGRM01000022.1 ptg000094l
+			Skipping alignment 20446 28989 | 8544 1 | 8544 8544 | 99.99 | PGRM01000041.1 ptg000094l
+			Skipping alignment 24308 32851 | 8544 1 | 8544 8544 | 99.99 | PGRM01000015.1 ptg000094l
+			Skipping alignment 20304 28847 | 1 8544 | 8544 8544 | 99.99 | PGRM01000016.1 ptg000094l
+			Skipping alignment 12911 21454 | 1 8544 | 8544 8544 | 99.99 | PGRM01000031.1 ptg000094l
+			Skipping alignment 10096 18639 | 1 8544 | 8544 8544 | 99.99 | PGRM01000027.1 ptg000094l
+			Skipping alignment 9313 17856 | 1 8544 | 8544 8544 | 99.99 | PGRM01000032.1 ptg000094l
+			Skipping alignment 18049 26591 | 1 8544 | 8543 8544 | 99.92 | PGRM01000045.1 ptg000094l
+			Skipping alignment 24999 33527 | 8544 15 | 8529 8530 | 99.98 | PGRM01000029.1 ptg000094l
+			Skipping alignment 1870 10388 | 1471 9989 | 8519 8519 | 99.99 | PGRM01000031.1 ptg000094l
+			Skipping alignment 49689 58181 | 8493 1 | 8493 8493 | 99.99 | PGRM01000020.1 ptg000094l
+			Skipping alignment 18960 27452 | 1 8493 | 8493 8493 | 99.99 | PGRM01000018.1 ptg000094l
+			Skipping alignment 3298 11790 | 1 8493 | 8493 8493 | 99.99 | PGRM01000018.1 ptg000094l
+			Skipping alignment 46343 54833 | 1 8491 | 8491 8491 | 99.99 | PGRM01000018.1 ptg000094l
+			Skipping alignment 1691 10153 | 1 8467 | 8463 8467 | 99.88 | PGRM01000034.1 ptg000094l
+			Skipping alignment 42947 51451 | 8482 1 | 8505 8482 | 99.55 | PGRM01000088.1 ptg000094l
+			Skipping alignment 31816 40244 | 8430 1 | 8429 8430 | 99.93 | PGRM01000020.1 ptg000094l
+			Skipping alignment 54568 62859 | 255 8544 | 8292 8290 | 99.87 | PGRM01000032.1 ptg000094l
+			Skipping alignment 37706 40559 | 12276 15129 | 2854 2854 | 99.68 | PGRM01000024.1 ptg000094l
+			Skipping alignment 33750 35903 | 14411 16564 | 2154 2154 | 99.86 | PGRM01000034.1 ptg000094l
+			Skipping alignment 30802 32936 | 12276 14410 | 2135 2135 | 99.91 | PGRM01000034.1 ptg000094l
+			Skipping alignment 11153 12306 | 12276 13429 | 1154 1154 | 99.91 | PGRM01000031.1 ptg000094l
+			Skipping alignment 40799 41514 | 15371 16086 | 716 716 | 99.3 | PGRM01000024.1 ptg000094l
+			Skipping alignment 10389 10943 | 10082 10636 | 555 555 | 99.82 | PGRM01000031.1 ptg000094l
+		One align captures most of this contig: 34336 52909 | 1 18574 | 18574 18574 | 100.0 | PGRM01000034.1 ptg000094l
+
+CONTIG: ptg000095l (58682bp)
+Best alignment score: 58682.0 (LEN: 58682, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 49 58730 | 1 58682 | 58682 58682 | 100.0 | PGRM01000071.1 ptg000095l
+
+CONTIG: ptg000096l (42308bp)
+Best alignment score: 42308.0 (LEN: 42308, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 79 42386 | 1 42308 | 42308 42308 | 100.0 | PGRM01000075.1 ptg000096l
+
+CONTIG: ptg000097l (53651bp)
+Best alignment score: 53651.0 (LEN: 53651, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 148 53798 | 53651 1 | 53651 53651 | 100.0 | PGRM01000068.1 ptg000097l
+
+CONTIG: ptg000098l (85023bp)
+Best alignment score: 85023.0 (LEN: 85023, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 142 85164 | 1 85023 | 85023 85023 | 100.0 | PGRM01000087.1 ptg000098l
+
+CONTIG: ptg000099l (29817bp)
+Best alignment score: 29817.0 (LEN: 29817, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21411909 21441725 | 1 29817 | 29817 29817 | 100.0 | CM010542.1 ptg000099l
+
+CONTIG: ptg000100l (43507bp)
+Best alignment score: 43507.0 (LEN: 43507, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 21430235 21473741 | 1 43507 | 43507 43507 | 100.0 | CM010542.1 ptg000100l
+
+CONTIG: ptg000101l (44676bp)
+Best alignment score: 44676.0 (LEN: 44676, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 59 44734 | 1 44676 | 44676 44676 | 100.0 | PGRM01000060.1 ptg000101l
+
+CONTIG: ptg000102l (15193bp)
+Best alignment score: 7265.0 (LEN: 7265, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 7265.0, number of alignments: 1, unaligned bases: 7928
+		This contig is partially unaligned. (Aligned 7265 out of 15193 non-N bases (47.82%))
+		Alignment: 69761 77025 | 7929 15193 | 7265 7265 | 100.0 | PGRM01000057.1 ptg000102l
+		Unaligned bases: 1 to 7928 (7928)
+
+CONTIG: ptg000103l (29550bp)
+Best alignment score: 29550.0 (LEN: 29550, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 29019751 29049300 | 1 29550 | 29550 29550 | 100.0 | CM010544.1 ptg000103l
+
+CONTIG: ptg000104l (37677bp)
+Best alignment score: 37665.0 (LEN: 37665, IDY: 100.00), Total number of alignments: 38
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 9 28853 | 8363 36722 | 28845 28360 | 98.17 | PGRM01000027.1 ptg000104l
+			Skipping alignment 29036 38965 | 18804 8875 | 9930 9930 | 99.99 | PGRM01000022.1 ptg000104l
+			Skipping alignment 46310 54831 | 6532 15053 | 8522 8522 | 100.0 | PGRM01000018.1 ptg000104l
+			Skipping alignment 1870 10388 | 8035 16553 | 8519 8519 | 100.0 | PGRM01000031.1 ptg000104l
+			Skipping alignment 15097 22859 | 28045 20283 | 7763 7763 | 99.99 | PGRM01000022.1 ptg000104l
+			Skipping alignment 15221 22981 | 20283 28043 | 7761 7761 | 100.0 | PGRM01000031.1 ptg000104l
+			Skipping alignment 56626 64386 | 20283 28043 | 7761 7761 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 28531 36291 | 20283 28043 | 7761 7761 | 100.0 | PGRM01000021.1 ptg000104l
+			Skipping alignment 63901 71661 | 20283 28043 | 7761 7761 | 99.97 | PGRM01000018.1 ptg000104l
+			Skipping alignment 7585 12767 | 35555 30373 | 5183 5183 | 99.88 | PGRM01000022.1 ptg000104l
+			Skipping alignment 26364 30492 | 31426 35554 | 4129 4129 | 99.98 | PGRM01000031.1 ptg000104l
+			Skipping alignment 38623 42704 | 30373 34454 | 4082 4082 | 99.85 | PGRM01000021.1 ptg000104l
+			Skipping alignment 58191 61797 | 15054 18660 | 3607 3607 | 99.92 | PGRM01000018.1 ptg000104l
+			Skipping alignment 20973 24554 | 15079 18660 | 3582 3582 | 99.97 | PGRM01000021.1 ptg000104l
+			Skipping alignment 43265 46674 | 11698 15107 | 3410 3410 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 43007 46309 | 645 3947 | 3303 3303 | 100.0 | PGRM01000018.1 ptg000104l
+			Skipping alignment 67654 70842 | 31310 34498 | 3189 3189 | 99.97 | PGRM01000032.1 ptg000104l
+			Skipping alignment 22983 25311 | 28044 30372 | 2329 2329 | 99.91 | PGRM01000031.1 ptg000104l
+			Skipping alignment 64388 66716 | 28044 30372 | 2329 2329 | 99.91 | PGRM01000032.1 ptg000104l
+			Skipping alignment 71663 73991 | 28044 30372 | 2329 2329 | 99.87 | PGRM01000018.1 ptg000104l
+			Skipping alignment 36293 38621 | 28044 30372 | 2329 2329 | 99.87 | PGRM01000021.1 ptg000104l
+			Skipping alignment 12769 15095 | 30372 28046 | 2327 2327 | 99.79 | PGRM01000022.1 ptg000104l
+			Skipping alignment 75044 77002 | 31426 33384 | 1959 1959 | 99.95 | PGRM01000018.1 ptg000104l
+			Skipping alignment 10389 12307 | 16646 18564 | 1919 1919 | 100.0 | PGRM01000031.1 ptg000104l
+			Skipping alignment 53466 55256 | 16646 18436 | 1791 1791 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 52030 53465 | 15118 16553 | 1436 1436 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 13850 15219 | 18913 20282 | 1370 1370 | 100.0 | PGRM01000031.1 ptg000104l
+			Skipping alignment 62530 63899 | 18913 20282 | 1370 1370 | 100.0 | PGRM01000018.1 ptg000104l
+			Skipping alignment 27160 28529 | 18913 20282 | 1370 1370 | 100.0 | PGRM01000021.1 ptg000104l
+			Skipping alignment 55257 56624 | 18915 20282 | 1368 1368 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 22861 24227 | 20282 18916 | 1367 1367 | 100.0 | PGRM01000022.1 ptg000104l
+			Skipping alignment 38966 40111 | 8873 7728 | 1146 1146 | 100.0 | PGRM01000022.1 ptg000104l
+			Skipping alignment 66718 67653 | 30373 31308 | 936 936 | 99.57 | PGRM01000032.1 ptg000104l
+			Skipping alignment 73993 74928 | 30373 31308 | 936 936 | 99.57 | PGRM01000018.1 ptg000104l
+			Skipping alignment 25313 26248 | 30373 31308 | 936 936 | 99.36 | PGRM01000031.1 ptg000104l
+			Skipping alignment 70843 71658 | 34739 35554 | 816 816 | 100.0 | PGRM01000032.1 ptg000104l
+			Skipping alignment 40829 41571 | 6531 5789 | 743 743 | 99.87 | PGRM01000022.1 ptg000104l
+		One align captures most of this contig: 87 37752 | 13 37677 | 37666 37665 | 100.0 | PGRM01000045.1 ptg000104l
+
+CONTIG: ptg000105l (29567bp)
+Best alignment score: 29567.0 (LEN: 29567, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1046 30612 | 1 29567 | 29567 29567 | 100.0 | PGRM01000016.1 ptg000105l
+
+CONTIG: ptg000106l (41642bp)
+Best alignment score: 41642.0 (LEN: 41642, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 164 41805 | 1 41642 | 41642 41642 | 100.0 | PGRM01000094.1 ptg000106l
+
+CONTIG: ptg000107l (30748bp)
+Best alignment score: 30748.0 (LEN: 30748, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 9356 40103 | 1 30748 | 30748 30748 | 100.0 | PGRM01000017.1 ptg000107l
+
+CONTIG: ptg000108l (28976bp)
+Best alignment score: 28976.0 (LEN: 28976, IDY: 100.00), Total number of alignments: 40
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 13892232 13921749 | 28976 8 | 29518 28969 | 98.0 | CM010541.1 ptg000108l
+			Skipping alignment 11338 39659 | 1 28323 | 28322 28323 | 99.81 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13893501 13922753 | 28976 272 | 29253 28705 | 97.95 | CM010541.1 ptg000108l
+			Skipping alignment 13870595 13898390 | 27778 1 | 27796 27778 | 99.77 | CM010541.1 ptg000108l
+			Skipping alignment 110 27624 | 1452 28976 | 27515 27525 | 99.73 | PGRM01000083.1 ptg000108l
+			Skipping alignment 12607 39659 | 1 27054 | 27053 27054 | 99.77 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13894770 13922753 | 28976 1541 | 27984 27436 | 97.87 | CM010541.1 ptg000108l
+			Skipping alignment 13870595 13897121 | 26509 1 | 26527 26509 | 99.76 | CM010541.1 ptg000108l
+			Skipping alignment 10070 36355 | 1 26286 | 26286 26286 | 99.79 | PGRM01000083.1 ptg000108l
+			Skipping alignment 110 26355 | 2721 28976 | 26246 26256 | 99.71 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13876 39659 | 1 25785 | 25784 25785 | 99.76 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13896039 13922753 | 28976 2810 | 26715 26167 | 97.76 | CM010541.1 ptg000108l
+			Skipping alignment 13870595 13895852 | 25240 1 | 25258 25240 | 99.74 | CM010541.1 ptg000108l
+			Skipping alignment 110 25086 | 3990 28976 | 24977 24987 | 99.7 | PGRM01000083.1 ptg000108l
+			Skipping alignment 15143 39659 | 1 24516 | 24517 24516 | 99.76 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13897308 13922753 | 28976 4079 | 25446 24898 | 97.66 | CM010541.1 ptg000108l
+			Skipping alignment 13870595 13894583 | 23971 1 | 23989 23971 | 99.73 | CM010541.1 ptg000108l
+		This contig has 23 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 6263 35238 | 1 28976 | 28976 28976 | 100.0 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13879543 13908542 | 28976 1 | 29000 28976 | 99.89 | CM010541.1 ptg000108l
+			Skipping alignment 13880812 13909811 | 28976 1 | 29000 28976 | 99.89 | CM010541.1 ptg000108l
+			Skipping alignment 13882081 13911080 | 28976 1 | 29000 28976 | 99.89 | CM010541.1 ptg000108l
+			Skipping alignment 13883350 13912346 | 28976 1 | 28997 28976 | 99.87 | CM010541.1 ptg000108l
+			Skipping alignment 13878279 13907273 | 28976 1 | 28995 28976 | 99.85 | CM010541.1 ptg000108l
+			Skipping alignment 13885887 13914881 | 28976 1 | 28995 28976 | 99.85 | CM010541.1 ptg000108l
+			Skipping alignment 13884619 13913613 | 28976 1 | 28995 28976 | 99.85 | CM010541.1 ptg000108l
+			Skipping alignment 13875742 13904735 | 28976 1 | 28994 28976 | 99.84 | CM010541.1 ptg000108l
+			Skipping alignment 13877011 13906004 | 28976 1 | 28994 28976 | 99.84 | CM010541.1 ptg000108l
+			Skipping alignment 13887156 13916149 | 28976 1 | 28994 28976 | 99.84 | CM010541.1 ptg000108l
+			Skipping alignment 13888425 13917418 | 28976 1 | 28994 28976 | 99.83 | CM010541.1 ptg000108l
+			Skipping alignment 13889694 13918687 | 28976 1 | 28994 28976 | 99.82 | CM010541.1 ptg000108l
+			Skipping alignment 4995 33969 | 1 28976 | 28975 28976 | 99.82 | PGRM01000083.1 ptg000108l
+			Skipping alignment 3728 32700 | 1 28976 | 28973 28976 | 99.82 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13890963 13919955 | 28976 1 | 28993 28976 | 99.81 | CM010541.1 ptg000108l
+			Skipping alignment 1193 30162 | 1 28976 | 28970 28976 | 99.81 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13874473 13903466 | 28976 1 | 28994 28976 | 99.8 | CM010541.1 ptg000108l
+			Skipping alignment 2460 31431 | 1 28976 | 28972 28976 | 99.8 | PGRM01000083.1 ptg000108l
+			Skipping alignment 13871935 13900928 | 28976 1 | 28994 28976 | 99.79 | CM010541.1 ptg000108l
+			Skipping alignment 13873204 13902197 | 28976 1 | 28994 28976 | 99.78 | CM010541.1 ptg000108l
+			Skipping alignment 13870672 13899659 | 28971 1 | 28988 28971 | 99.79 | CM010541.1 ptg000108l
+			Skipping alignment 110 28893 | 183 28976 | 28784 28794 | 99.74 | PGRM01000083.1 ptg000108l
+
+CONTIG: ptg000109l (28603bp)
+Best alignment score: 28603.0 (LEN: 28603, IDY: 100.00), Total number of alignments: 42
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 393 27452 | 28603 1536 | 27060 27068 | 98.66 | PGRM01000018.1 ptg000109l
+			Skipping alignment 43437 70134 | 28603 1485 | 26698 27119 | 98.41 | PGRM01000018.1 ptg000109l
+			Skipping alignment 13919 42008 | 1 27046 | 28090 27046 | 95.82 | PGRM01000020.1 ptg000109l
+			Skipping alignment 54544 67967 | 1 13424 | 13424 13424 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 13966 27389 | 1 13424 | 13424 13424 | 100.0 | PGRM01000088.1 ptg000109l
+			Skipping alignment 3290 13493 | 27235 17032 | 10204 10204 | 99.99 | PGRM01000021.1 ptg000109l
+			Skipping alignment 49689 59772 | 17030 27113 | 10084 10084 | 99.99 | PGRM01000020.1 ptg000109l
+			Skipping alignment 56079 66162 | 17030 27113 | 10084 10084 | 99.99 | PGRM01000022.1 ptg000109l
+			Skipping alignment 25378 34764 | 10871 1485 | 9387 9387 | 99.99 | PGRM01000021.1 ptg000109l
+			Skipping alignment 21437 29984 | 8548 1 | 8548 8548 | 99.99 | PGRM01000034.1 ptg000109l
+			Skipping alignment 67968 76494 | 17030 25556 | 8527 8527 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 27390 35196 | 17030 24836 | 7807 7807 | 100.0 | PGRM01000088.1 ptg000109l
+			Skipping alignment 42896 50613 | 1 7718 | 7718 7718 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 31248 38965 | 1 7718 | 7718 7718 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 31816 39109 | 1599 8892 | 7294 7294 | 100.0 | PGRM01000020.1 ptg000109l
+			Skipping alignment 44431 50613 | 17030 23212 | 6183 6183 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 13742 18639 | 13446 8549 | 4898 4898 | 100.0 | PGRM01000034.1 ptg000109l
+			Skipping alignment 42022 46553 | 8893 13424 | 4532 4532 | 100.0 | PGRM01000020.1 ptg000109l
+			Skipping alignment 17339 20923 | 17031 13447 | 3585 3585 | 99.94 | PGRM01000021.1 ptg000109l
+			Skipping alignment 10154 13739 | 17032 13447 | 3586 3586 | 99.86 | PGRM01000034.1 ptg000109l
+			Skipping alignment 46557 49688 | 13425 16556 | 3132 3132 | 99.94 | PGRM01000020.1 ptg000109l
+			Skipping alignment 52957 56078 | 10303 13424 | 3122 3122 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 41309 44430 | 10303 13424 | 3122 3122 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 2759 5693 | 24452 21518 | 2935 2935 | 100.0 | PGRM01000034.1 ptg000109l
+			Skipping alignment 7342 10153 | 19867 17056 | 2812 2812 | 100.0 | PGRM01000034.1 ptg000109l
+			Skipping alignment 20930 23504 | 13446 10872 | 2575 2575 | 100.0 | PGRM01000021.1 ptg000109l
+			Skipping alignment 50614 52956 | 7720 10062 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 38966 41308 | 7720 10062 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 50614 52956 | 23214 25556 | 2343 2343 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 821 2520 | 26152 24453 | 1700 1700 | 99.94 | PGRM01000034.1 ptg000109l
+			Skipping alignment 5694 7341 | 21516 19869 | 1648 1648 | 100.0 | PGRM01000034.1 ptg000109l
+			Skipping alignment 36383 37939 | 25557 27113 | 1557 1557 | 99.94 | PGRM01000088.1 ptg000109l
+			Skipping alignment 76495 77811 | 25797 27113 | 1317 1317 | 99.92 | PGRM01000022.1 ptg000109l
+			Skipping alignment 52957 54273 | 25797 27113 | 1317 1317 | 99.92 | PGRM01000022.1 ptg000109l
+			Skipping alignment 59773 61087 | 27289 28603 | 1315 1315 | 100.0 | PGRM01000020.1 ptg000109l
+			Skipping alignment 77812 79126 | 27289 28603 | 1315 1315 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 37940 39254 | 27289 28603 | 1315 1315 | 100.0 | PGRM01000088.1 ptg000109l
+			Skipping alignment 66163 67477 | 27289 28603 | 1315 1315 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 54274 55588 | 27289 28603 | 1315 1315 | 100.0 | PGRM01000022.1 ptg000109l
+			Skipping alignment 2097 3289 | 28603 27411 | 1193 1193 | 100.0 | PGRM01000021.1 ptg000109l
+			Skipping alignment 35757 36382 | 24930 25555 | 626 626 | 100.0 | PGRM01000088.1 ptg000109l
+		One align captures most of this contig: 15879 44481 | 28603 1 | 28603 28603 | 100.0 | PGRM01000018.1 ptg000109l
+
+CONTIG: ptg000110l (20000bp)
+Best alignment score: 20000.0 (LEN: 20000, IDY: 100.00), Total number of alignments: 17
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 11491 23785 | 7704 20000 | 12295 12297 | 99.83 | PGRM01000031.1 ptg000110l
+			Skipping alignment 60885 72465 | 8421 20000 | 11581 11580 | 99.95 | PGRM01000018.1 ptg000110l
+			Skipping alignment 19598 31178 | 8421 20000 | 11581 11580 | 99.95 | PGRM01000016.1 ptg000110l
+			Skipping alignment 9390 20970 | 8421 20000 | 11581 11580 | 99.93 | PGRM01000027.1 ptg000110l
+			Skipping alignment 25724 37095 | 8629 20000 | 11372 11372 | 99.98 | PGRM01000021.1 ptg000110l
+			Skipping alignment 70843 82028 | 8660 19846 | 11186 11187 | 99.96 | PGRM01000032.1 ptg000110l
+			Skipping alignment 17823 28921 | 8660 20000 | 11099 11341 | 97.81 | PGRM01000045.1 ptg000110l
+			Skipping alignment 22668 33527 | 20000 9140 | 10860 10861 | 99.98 | PGRM01000029.1 ptg000110l
+			Skipping alignment 1949 12810 | 20000 9140 | 10862 10861 | 99.89 | PGRM01000088.1 ptg000110l
+			Skipping alignment 54568 65190 | 9140 20000 | 10623 10861 | 97.74 | PGRM01000032.1 ptg000110l
+			Skipping alignment 2661 12227 | 20000 10434 | 9567 9567 | 99.99 | PGRM01000037.1 ptg000110l
+			Skipping alignment 1183 10749 | 20000 10434 | 9567 9567 | 99.96 | PGRM01000020.1 ptg000110l
+			Skipping alignment 21084 24313 | 753 3982 | 3230 3230 | 100.0 | PGRM01000021.1 ptg000110l
+			Skipping alignment 12228 14240 | 8517 6505 | 2013 2013 | 100.0 | PGRM01000037.1 ptg000110l
+			Skipping alignment 10750 12762 | 8517 6505 | 2013 2013 | 100.0 | PGRM01000020.1 ptg000110l
+			Skipping alignment 24315 25176 | 3983 4844 | 862 862 | 99.88 | PGRM01000021.1 ptg000110l
+		One align captures most of this contig: 188 20187 | 1 20000 | 20000 20000 | 100.0 | PGRM01000032.1 ptg000110l
+
+Analyzing coverage...
+
+Analysis is finished!
+
+Results:
+	Local Misassemblies: 11
+	Misassemblies: 13
+		Relocations: 2
+		Translocations: 10
+		Inversions: 1
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassemblies caused by transposable elements (TEs): 0
+	Misassemblies caused by fragmented reference: 0
+	Misassembled Contigs: 11
+	Misassembled Contig Bases: 1570095
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 12 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 399105
+
+Ambiguously Mapped Contigs: 5
+Total Bases in Ambiguously Mapped Contigs: 2322814
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 138723465
+
+	SNPs: 446
+	Insertions: 25856
+	Deletions: 41243
+
