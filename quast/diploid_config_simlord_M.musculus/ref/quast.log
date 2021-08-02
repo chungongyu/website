@@ -1,0 +1,113 @@
+/public/dbu/yuchungong/quast-5.0.2/quast.py --large --fragmented -t 18 -m 400 -o siga -r /public/dbu/yuchungong/LRTK-SIM/resource/M.musculus.fa ref.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-693.el7.x86_64-x86_64-with-centos-7.4.1708-Core (linux_64)
+  Python version: 2.7.5
+  CPUs number: 192
+
+Started: 2021-08-02 08:55:08
+
+Logging to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus
+Main parameters: 
+  MODE: large, threads: 18, eukaryotic: true, minimum contig length: 400, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Reference:
+  /public/dbu/yuchungong/LRTK-SIM/resource/M.musculus.fa ==> M.musculus
+
+Contigs:
+  Pre-processing...
+  ref.fa ==> ref
+
+2021-08-02 08:59:05
+Running Basic statistics processor...
+  Reference genome:
+    M.musculus.fa, length = 2728222451, num fragments = 61, GC % = 41.67
+  Contig files: 
+    ref
+  Calculating N50 and L50...
+    ref, N50 = 46334773, L50 = 19, Total length = 2654621305, GC % = 41.67, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/basic_stats/GC_content_plot.pdf
+  Drawing ref GC content plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/basic_stats/ref_GC_content_plot.pdf
+Done.
+
+2021-08-02 09:06:11
+Running Contig analyzer...
+  ref
+  Logging to files /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/contigs_report_ref.stdout and contigs_report_ref.stderr...
+  Aligning contigs to the reference
+  /public/dbu/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+  0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 18 siga/quast_corrected_input/M.musculus.fa \
+  siga/quast_corrected_input/ref.fa > siga/contigs_reports/minimap_output/ref.coords_tmp \
+  2>> siga/contigs_reports/contigs_report_ref.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2021-08-02 09:33:27
+Running NA-NGA calculation...
+  ref, Largest alignment = 152907495, NA50 = 46334773, NGA50 = 46334773, LA50 = 19, LGA50 = 19
+  Drawing cumulative plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/aligned_stats/NGAx_plot.pdf
+Done.
+
+2021-08-02 09:35:13
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  ref
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-08-02 09:43:49
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-08-02 09:44:38
+RESULTS:
+  Text versions of total report are saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/report.html
+  PDF version (tables and plots) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/report.pdf
+  Icarus (contig browser) is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/icarus.html
+  Log is saved to /public/dbu/yuchungong/siga-0.10/build/benchmark/diploid_config_simlord_M.musculus/siga/quast.log
+
+Finished: 2021-08-02 09:44:38
+Elapsed time: 0:49:30.333888
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
