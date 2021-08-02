@@ -1,0 +1,54 @@
+All statistics are based on contigs of size >= 400 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     ref         siga        hifiasm   
+# contigs (>= 0 bp)          204         358         117       
+# contigs (>= 1000 bp)       204         357         117       
+# contigs (>= 5000 bp)       204         357         117       
+# contigs (>= 10000 bp)      204         356         116       
+# contigs (>= 25000 bp)      141         272         100       
+# contigs (>= 50000 bp)      78          222         92        
+Total length (>= 0 bp)       179612922   805432028   651675261 
+Total length (>= 1000 bp)    179612922   805431628   651675261 
+Total length (>= 5000 bp)    179612922   805431628   651675261 
+Total length (>= 10000 bp)   179612922   805423222   651665366 
+Total length (>= 25000 bp)   178195820   803654854   651359242 
+Total length (>= 50000 bp)   176091115   801960665   651103155 
+# contigs                    343         358         117       
+Largest contig               21808849    17506248    27465937  
+Total length                 805664111   805432028   651675261 
+Reference length             805679811   805679811   805679811 
+GC (%)                       39.35       39.35       39.31     
+Reference GC (%)             39.35       39.35       39.35     
+N50                          8111534     7469512     12193055  
+NG50                         8111534     7469512     9875820   
+N75                          4811970     4602875     7965839   
+NG75                         4811970     4602875     3899085   
+L50                          34          35          20        
+LG50                         34          35          27        
+L75                          65          68          37        
+LG75                         65          68          57        
+# misassemblies              4           6           89        
+# misassembled contigs       2           4           48        
+Misassembled contigs length  71904       2106865     403324857 
+# local misassemblies        2           5           15        
+# scaffold gap ext. mis.     0           0           0         
+# scaffold gap loc. mis.     0           0           0         
+# possible TEs               0           0           0         
+# unaligned mis. contigs     0           0           0         
+# unaligned contigs          0 + 2 part  1 + 1 part  0 + 5 part
+Unaligned length             16219       7520        27104     
+Genome fraction (%)          99.994      99.924      80.834    
+Duplication ratio            1.000       1.000       1.001     
+# N's per 100 kbp            0.00        0.00        0.00      
+# mismatches per 100 kbp     0.01        0.00        0.53      
+# indels per 100 kbp         0.02        0.04        0.71      
+Largest alignment            21808849    17506248    23706520  
+Total aligned length         805644531   805407108   650896774 
+NA50                         8111534     7469512     7552424   
+NGA50                        8111534     7469512     6705729   
+NA75                         4811970     4602875     4495570   
+NGA75                        4811970     4602875     1902368   
+LA50                         34          35          29        
+LGA50                        34          35          40        
+LA75                         65          68          55        
+LGA75                        65          68          92        

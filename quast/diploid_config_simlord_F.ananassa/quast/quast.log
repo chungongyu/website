@@ -1,0 +1,118 @@
+/home/yuchungong/quast-5.0.2/quast.py --large --fragmented -t 18 -m 400 -o hifiasm -r /home/yuchungong/LRTK-SIM/resource/F.ananassa.fa ../ref.fa siga.fa hifiasm.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-42-generic-x86_64-with-Ubuntu-18.04-bionic (linux_64)
+  Python version: 2.7.17
+  CPUs number: 112
+
+Started: 2021-08-02 14:57:20
+
+Logging to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0
+Main parameters: 
+  MODE: large, threads: 18, eukaryotic: true, minimum contig length: 400, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Reference:
+  /home/yuchungong/LRTK-SIM/resource/F.ananassa.fa ==> F.ananassa
+
+Contigs:
+  Pre-processing...
+  1  ../ref.fa ==> ref
+  2  siga.fa ==> siga
+  3  hifiasm.fa ==> hifiasm
+
+2021-08-02 14:57:56
+Running Basic statistics processor...
+  Reference genome:
+    F.ananassa.fa, length = 805679811, num fragments = 204, GC % = 39.35
+  Contig files: 
+    1  ref
+    2  siga
+    3  hifiasm
+  Calculating N50 and L50...
+    1  ref, N50 = 8111534, L50 = 34, Total length = 805664111, GC % = 39.35, # N's per 100 kbp =  0.00
+    2  siga, N50 = 7469512, L50 = 35, Total length = 805432028, GC % = 39.35, # N's per 100 kbp =  0.00
+    3  hifiasm, N50 = 12193055, L50 = 20, Total length = 651675261, GC % = 39.31, # N's per 100 kbp =  0.00
+Done.
+
+2021-08-02 14:59:46
+Running Contig analyzer...
+  1  ref
+  1  Logging to files /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/contigs_report_ref.stdout and contigs_report_ref.stderr...
+  1  Aligning contigs to the reference
+  2  siga
+  2  Logging to files /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/contigs_report_siga.stdout and contigs_report_siga.stderr...
+  2  Aligning contigs to the reference
+  3  hifiasm
+  3  Logging to files /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/contigs_report_hifiasm.stdout and contigs_report_hifiasm.stderr...
+  1  /home/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 6 hifiasm/quast_corrected_input/F.ananassa.fa \
+     hifiasm/quast_corrected_input/ref.fa > hifiasm/contigs_reports/minimap_output/ref.coords_tmp \
+     2>> hifiasm/contigs_reports/contigs_report_ref.stderr
+  2  /home/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 6 hifiasm/quast_corrected_input/F.ananassa.fa \
+     hifiasm/quast_corrected_input/siga.fa > hifiasm/contigs_reports/minimap_output/siga.coords_tmp \
+     2>> hifiasm/contigs_reports/contigs_report_siga.stderr
+  3  Using existing alignments... 
+  3  Analysis is finished.
+
+  1  Analysis is finished.
+
+  2  Analysis is finished.
+
+  Creating total report...
+    saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+Done.
+
+2021-08-02 15:05:32
+Running NA-NGA calculation...
+  1  ref, Largest alignment = 21808849, NA50 = 8111534, NGA50 = 8111534, LA50 = 34, LGA50 = 34
+  2  siga, Largest alignment = 17506248, NA50 = 7469512, NGA50 = 7469512, LA50 = 35, LGA50 = 35
+  3  hifiasm, Largest alignment = 23706520, NA50 = 7552424, NGA50 = 6705729, LA50 = 29, LGA50 = 40
+Done.
+
+2021-08-02 15:05:49
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  ref
+  2  siga
+  3  hifiasm
+  3  Analysis is finished.
+  1  Analysis is finished.
+  2  Analysis is finished.
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-08-02 15:07:23
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2021-08-02 15:07:30
+RESULTS:
+  Text versions of total report are saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/report.html
+  Icarus (contig browser) is saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/icarus.html
+  Log is saved to /home/yuchungong/siga/build/benchmark/diploid_config_simlord_F.ananassa/config0/hifiasm/quast.log
+
+Finished: 2021-08-02 15:07:30
+Elapsed time: 0:10:10.250702
+NOTICEs: 4; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
