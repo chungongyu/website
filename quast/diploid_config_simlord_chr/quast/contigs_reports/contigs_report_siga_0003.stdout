@@ -1,0 +1,69 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [chr19]
+	Total Regions: 1
+	Total Region Length: 59128983
+Analyzing contigs...
+CONTIG: m93500_12348_CCS (12349bp)
+Best alignment score: 12347.8 (LEN: 12349, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 38321120 38333468 | 1 12349 | 12349 12349 | 99.99 | chr19 m93500_12348_CCS
+
+CONTIG: m185115_12363_CCS (4058256bp)
+Best alignment score: 4058256.0 (LEN: 4058256, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 20573435 24631690 | 1 4058256 | 4058256 4058256 | 100.0 | chr19 m185115_12363_CCS
+
+CONTIG: m184564_13869_CCS (7285410bp)
+Best alignment score: 7285410.0 (LEN: 7285410, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 60490 7345899 | 1 7285410 | 7285410 7285410 | 100.0 | chr19 m184564_13869_CCS
+
+CONTIG: m166134_5385_CCS (11785892bp)
+Best alignment score: 11785892.0 (LEN: 11785892, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 8737269 20523160 | 1 11785892 | 11785892 11785892 | 100.0 | chr19 m166134_5385_CCS
+
+CONTIG: m231869_9325_CCS (9325bp)
+Best alignment score: 9323.1 (LEN: 9325, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 43165874 43175200 | 1 9325 | 9327 9325 | 99.98 | chr19 m231869_9325_CCS
+
+CONTIG: m43461_6633_CCS (1290487bp)
+Best alignment score: 1290487.0 (LEN: 1290487, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 7396186 8686672 | 1 1290487 | 1290487 1290487 | 100.0 | chr19 m43461_6633_CCS
+
+CONTIG: m144689_9819_CCS (31386334bp)
+Best alignment score: 31386334.0 (LEN: 31386334, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27731881 59118214 | 1 31386334 | 31386334 31386334 | 100.0 | chr19 m144689_9819_CCS
+
+Analyzing coverage...
+
+Analysis is finished!
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassemblies caused by transposable elements (TEs): 0
+	Misassemblies caused by fragmented reference: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 55806379
+
+	SNPs: 1
+	Insertions: 0
+	Deletions: 2
+

@@ -1,0 +1,10 @@
+[M::mm_idx_gen::1.316*1.01] collected minimizers
+[M::mm_idx_gen::1.824*1.00] sorted minimizers
+[M::main::1.825*1.00] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::1.887*1.00] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::1.935*1.00] distinct minimizers: 4226017 (94.32% are singletons); average occurrences: 1.326; average spacing: 10.550; total length: 59128983
+[M::worker_pipeline::63.735*1.00] mapped 5 sequences
+[M::main] Version: 2.21-r1071
+[M::main] CMD: /home/yuchungong/quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/yuchungong/siga/build/benchmark/diploid_config_simlord_chr19/quast/quast_corrected_input/chr19.fa /home/yuchungong/siga/build/benchmark/diploid_config_simlord_chr19/quast/quast_corrected_input/hifiasm_0030.fa
+[M::main] Real time: 63.751 sec; CPU: 63.759 sec; Peak RSS: 1.179 GB

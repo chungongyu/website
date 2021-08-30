@@ -1,0 +1,61 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [chr19]
+	Total Regions: 1
+	Total Region Length: 59128983
+Analyzing contigs...
+CONTIG: ptg000001l (31387058bp)
+Best alignment score: 31387058.0 (LEN: 31387058, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27731816 59118873 | 31387058 1 | 31387058 31387058 | 100.0 | chr19 ptg000001l
+
+CONTIG: ptg000002l (4058278bp)
+Best alignment score: 4058278.0 (LEN: 4058278, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 20573494 24631771 | 1 4058278 | 4058278 4058278 | 100.0 | chr19 ptg000002l
+
+CONTIG: ptg000003l (11786170bp)
+Best alignment score: 11786170.0 (LEN: 11786170, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 8737214 20523383 | 1 11786170 | 11786170 11786170 | 100.0 | chr19 ptg000003l
+
+CONTIG: ptg000004l (7285498bp)
+Best alignment score: 7285498.0 (LEN: 7285498, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 60034 7345531 | 1 7285498 | 7285498 7285498 | 100.0 | chr19 ptg000004l
+
+CONTIG: ptg000005l (1290973bp)
+Best alignment score: 1290973.0 (LEN: 1290973, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 7396143 8687115 | 1 1290973 | 1290973 1290973 | 100.0 | chr19 ptg000005l
+
+Analyzing coverage...
+
+Analysis is finished!
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassemblies caused by transposable elements (TEs): 0
+	Misassemblies caused by fragmented reference: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 55807977
+
+	SNPs: 0
+	Insertions: 0
+	Deletions: 0
+

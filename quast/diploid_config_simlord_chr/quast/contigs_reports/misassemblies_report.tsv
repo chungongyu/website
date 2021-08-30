@@ -1,0 +1,23 @@
+Assembly	ref	hifiasm_0000	siga_0000	hifiasm_0003	siga_0003	hifiasm_0015	siga_0015	hifiasm_0030	siga_0030	hifiasm_0100	siga_0100
+# misassemblies	0	0	0	0	0	0	0	0	0	0	0
+  # contig misassemblies	0	0	0	0	0	0	0	0	0	0	0
+    # c. relocations	0	0	0	0	0	0	0	0	0	0	0
+    # c. translocations	0	0	0	0	0	0	0	0	0	0	0
+    # c. inversions	0	0	0	0	0	0	0	0	0	0	0
+  # scaffold misassemblies	0	0	0	0	0	0	0	0	0	0	0
+    # s. relocations	0	0	0	0	0	0	0	0	0	0	0
+    # s. translocations	0	0	0	0	0	0	0	0	0	0	0
+    # s. inversions	0	0	0	0	0	0	0	0	0	0	0
+# misassembled contigs	0	0	0	0	0	0	0	0	0	0	0
+Misassembled contigs length	0	0	0	0	0	0	0	0	0	0	0
+# local misassemblies	0	0	0	0	0	0	0	0	0	0	0
+# scaffold gap ext. mis.	0	0	0	0	0	0	0	0	0	0	0
+# scaffold gap loc. mis.	0	0	0	0	0	0	0	0	0	0	0
+# misassemblies caused by fragmented reference	0	0	0	0	0	0	0	0	0	0	0
+# possible TEs	0	0	0	0	0	0	0	0	0	0	0
+# unaligned mis. contigs	0	0	0	0	0	0	0	0	0	0	0
+# mismatches	0	0	0	0	1	0	5	0	1	4	91
+# indels	0	0	0	0	1	0	3	1	4	12	149
+    # indels (<= 5 bp)	0	0	0	0	1	0	3	1	4	12	148
+    # indels (> 5 bp)	0	0	0	0	0	0	0	0	0	0	1
+Indels length	0	0	0	0	2	0	3	1	4	14	22885

@@ -1,0 +1,87 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [chr19]
+	Total Regions: 1
+	Total Region Length: 59128983
+Analyzing contigs...
+CONTIG: m3389_9084_CCS (1290940bp)
+Best alignment score: 1290940.0 (LEN: 1290940, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 7396244 8687183 | 1 1290940 | 1290940 1290940 | 100.0 | chr19 m3389_9084_CCS
+
+CONTIG: m195091_6101_CCS (31386968bp)
+Best alignment score: 31386968.0 (LEN: 31386968, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 27731895 59118862 | 1 31386968 | 31386968 31386968 | 100.0 | chr19 m195091_6101_CCS
+
+CONTIG: m203058_12330_CCS (12329bp)
+Best alignment score: 12321.6 (LEN: 12329, IDY: 99.94), Total number of alignments: 12
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 36760174 36772428 | 1 12297 | 12255 12297 | 98.87 | chr19 m203058_12330_CCS
+			Skipping alignment 36759224 36769894 | 1606 12297 | 10671 10692 | 98.62 | chr19 m203058_12330_CCS
+		This contig has 10 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 36767739 36780066 | 1 12329 | 12328 12329 | 99.94 | chr19 m203058_12330_CCS
+			Skipping alignment 36772826 36785129 | 1 12329 | 12304 12329 | 99.5 | chr19 m203058_12330_CCS
+			Skipping alignment 36780434 36792722 | 1 12329 | 12289 12329 | 99.35 | chr19 m203058_12330_CCS
+			Skipping alignment 36777896 36790187 | 1 12329 | 12292 12329 | 99.34 | chr19 m203058_12330_CCS
+			Skipping alignment 36775365 36787652 | 1 12329 | 12288 12329 | 99.31 | chr19 m203058_12330_CCS
+			Skipping alignment 36788020 36800297 | 1 12329 | 12278 12329 | 99.22 | chr19 m203058_12330_CCS
+			Skipping alignment 36782969 36795222 | 1 12297 | 12254 12297 | 99.27 | chr19 m203058_12330_CCS
+			Skipping alignment 36765196 36777498 | 1 12297 | 12303 12297 | 99.26 | chr19 m203058_12330_CCS
+			Skipping alignment 36762697 36774997 | 1 12329 | 12301 12329 | 99.0 | chr19 m203058_12330_CCS
+			Skipping alignment 36785497 36797737 | 1 12297 | 12241 12297 | 99.24 | chr19 m203058_12330_CCS
+
+CONTIG: m38044_17018_CCS (17018bp)
+Best alignment score: 17016.3 (LEN: 17018, IDY: 99.99), Total number of alignments: 4
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 37763658 37780688 | 1 17018 | 17031 17018 | 98.88 | chr19 m38044_17018_CCS
+			Skipping alignment 37761117 37778164 | 1 17018 | 17048 17018 | 98.7 | chr19 m38044_17018_CCS
+			Skipping alignment 37768723 37785739 | 1 17018 | 17017 17018 | 98.6 | chr19 m38044_17018_CCS
+		One align captures most of this contig: 37773775 37790792 | 1 17018 | 17018 17018 | 99.99 | chr19 m38044_17018_CCS
+
+CONTIG: m170023_5064_CCS (11786090bp)
+Best alignment score: 11786090.0 (LEN: 11786090, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 8737269 20523358 | 1 11786090 | 11786090 11786090 | 100.0 | chr19 m170023_5064_CCS
+
+CONTIG: m270220_9540_CCS (4058143bp)
+Best alignment score: 4058143.0 (LEN: 4058143, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 20573597 24631739 | 1 4058143 | 4058143 4058143 | 100.0 | chr19 m270220_9540_CCS
+
+CONTIG: m229790_5233_CCS (7285749bp)
+Best alignment score: 7285749.0 (LEN: 7285749, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 60028 7345776 | 1 7285749 | 7285749 7285749 | 100.0 | chr19 m229790_5233_CCS
+
+Analyzing coverage...
+
+Analysis is finished!
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassemblies caused by transposable elements (TEs): 0
+	Misassemblies caused by fragmented reference: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 12329
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 55807890
+
+	SNPs: 5
+	Insertions: 2
+	Deletions: 1
+

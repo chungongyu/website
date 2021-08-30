@@ -1,0 +1,24 @@
+reference chromosomes:
+	chr19 (total length: 59128983 bp, total length without N's: 55808983 bp, maximal covered length: 55808983 bp)
+
+total genome size: 59128983
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+ref                      | 100.000   | 1.000       | 0         | -         | -         | -         | -         |
+hifiasm_0000             | 99.998    | 1.000       | 0         | -         | -         | -         | -         |
+siga_0000                | 99.998    | 1.000       | 0         | -         | -         | -         | -         |
+hifiasm_0003             | 99.995    | 1.000       | 0         | -         | -         | -         | -         |
+siga_0003                | 99.995    | 1.000       | 0         | -         | -         | -         | -         |
+hifiasm_0015             | 99.998    | 1.000       | 0         | -         | -         | -         | -         |
+siga_0015                | 99.998    | 1.001       | 0         | -         | -         | -         | -         |
+hifiasm_0030             | 99.997    | 1.000       | 0         | -         | -         | -         | -         |
+siga_0030                | 99.997    | 1.000       | 0         | -         | -         | -         | -         |
+hifiasm_0100             | 99.997    | 1.000       | 0         | -         | -         | -         | -         |
+siga_0100                | 99.997    | 1.002       | 0         | -         | -         | -         | -         |
